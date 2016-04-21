@@ -1,4 +1,29 @@
 html, body {
   padding: 0;
   margin: 0;
+  font-family: 'Hind', sans-serif;
+}
+
+header {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 48px;
+  font-weight: 300;
+}
+
+h2 {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+}
+
+.main-heading {
+  margin-top: 10%;
+  text-align: center;
 }
