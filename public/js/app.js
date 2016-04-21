@@ -12,4 +12,8 @@ angular.module('dtiApp', [
       templateUrl: '/partials/home.html',
       controller: 'homeCtrl'
     })
+    .when('/about', {
+      templateUrl: '/partials/about.html',
+      controller: 'aboutCtrl'
+    })
 });
