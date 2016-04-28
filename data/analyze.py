@@ -1,66 +1,47 @@
 import json
+import Analysis
+from glob import glob
 from textblob import TextBlob
 from textblob.classifiers import NaiveBayesClassifier
 
+################################################
 # Options
-fileName = "yahoo.json"
+################################################
 
-companyName = fileName[:-5]
+NUM_TRAINING_FILES = 100 # Cornell movie review set goes up to 1000
+TRAINING_DATA_PATH = "./training_data/"
+COMPANY_DATA_PATH = "./company_data/"
+COMPANY_LIST_PATH = "./company_list.txt"
 
 ################################################
+# Global Data
+################################################
+
+COMPANY_LIST = []
+COMPANY_LIST_KEYWORDS = []
 
 # Keywords to remove from noun phrase analysis
-removeThese = [companyName, "phone", "interview", "hr", "got", "applied", "overall", "engineer", "met", "was", "went"]
+# TODO: add company name to this on the fly
+REMOVE_KEYWORDS = ["phone", "interview", "hr", "got", "applied", "overall", "engineer", "met", "was", "went"]
 
 ################################################
+# I/O and File Functions
+################################################
 
-
-def print_stats(data, blob_d, blob_q):
-  print "# Calculating sentiment ..."
-  polarity = round(blob_d.sentiment.polarity, 5)
-  subjectivity = round(blob_d.sentiment.subjectivity, 5)
-  print "# Enumerating top noun phrases ..."
-  phrases = get_top_phrases(blob_d)
-  print "# Discovering interview question keywords ..."
-  keywords = get_top_phrases(blob_q)
-  print "# Finding the most positive and negative review ..."
-  reviews = get_top_reviews(data)
-  print "\n" + companyName.upper()
-  print ""
-  print "Overall Sentiment Score: " + str(polarity)
-  print "Overall Subjectivity Score: " + str(subjectivity)
-  print ""
-  print "Most Positive Interview Review:"
-  print "Sentiment Score: " + str(round(reviews[0][1], 5))
-  print reviews[0][0]
-  print ""
-  print "Most Negative Interview Review:"
-  print "Sentiment Score: " + str(round(reviews[1][1], 5))
-  print reviews[1][0]
-  print ""
-  print "Most Frequent Phrases:"
-  ctr = 1
-  for p in phrases:
-    if (ctr > 25):
-      break
-    #endif
-    print str(ctr) + ". " + p[0]
-    ctr+=1
-  #endfor
-  print ""
-  print "Top Interview Question Keywords:"
-  ctr = 1
-  for k in keywords:
-    if (ctr > 25):
-      break
-    #endif
-    print str(ctr) + ". " + k[0]
-    ctr+=1
-  #endfor
-  print ""
+def obj_dict(obj):
+  return obj.__dict__
 #enddef
 
-################################################
+def update_company_list():
+  with open(COMPANY_LIST_PATH) as f:
+    for line in f:
+      company = line.replace('\n', '')
+      company_keyword = company.strip().replace(' ', '').lower()
+      COMPANY_LIST.append(company)
+      COMPANY_LIST_KEYWORDS.append(company_keyword)
+  	#endfor
+  #endwith
+#enddef
 
 def get_data_from_json(fileName):
   with open(fileName) as json_file:
@@ -68,18 +49,75 @@ def get_data_from_json(fileName):
     return json_data
 #enddef
 
+def get_text_from_file(keyword, tag):
+  path = TRAINING_DATA_PATH + tag + '/'
+  fileName = glob(path + keyword + "*.txt")[0] # finds the full name of file starting with the keyword 'cv###'
+  with open(fileName, 'r') as f:
+  	data = f.read()
+  	return data
+  #endwith
+#enddef
+
+def export_training_data_to_json(data):
+	jsonFile = open("training_data.json", 'w')
+	jsonFile.write(json.dumps(data, indent=4, separators=(',', ': '), default=obj_dict))
+	jsonFile.close()
+#enddef
+
+def export_analysis_data_to_json(data, companyName):
+  jsonFile = open(companyName + "_analysis.json", 'w')
+  jsonFile.write(json.dumps(data, indent=4, separators=(',', ': '), default=obj_dict))
+  jsonFile.close()
+#enddef
+
+################################################
+# Training the Naive Bayes Classifier
+################################################
+
+def aggregate_sentiment_data(data, tag):
+  for i in range (NUM_TRAINING_FILES):
+    num = format(i, "03") # fills 0s in front until three digits
+    text = get_text_from_file("cv" + num, tag)
+    data.append({"text" : text, "label": tag})
+  #endfor
+  return data
+#enddef
+
+def train_nbayes():
+  with open("training_data.json", 'r') as f:
+    nbayes = NaiveBayesClassifier(f, format="json") # I think training from JSON is faster
+    return nbayes
+  #endwith
+#enddef
+
+def train_classifier():
+  print "# Aggregating positive sentiment text data ..."
+  data = aggregate_sentiment_data([], "pos")
+  print "# Aggregating negative sentiment text data ..."
+  data = aggregate_sentiment_data(data, "neg")
+  print "# Exporting training data as \"training_data.json\" ..."
+  export_training_data_to_json(data)
+  print "# Training Naive Bayes Classifier ..."
+  nbayes = train_nbayes()
+  return nbayes
+#enddef
+
+################################################
+# Blob Analysis
+################################################
+
 def get_text_from_data(data, tag):
   textData = ""
   if (tag == "details"):
-	  for review in data:
-	    textData = textData + review[tag] + " "
-	  #endfor
+    for review in data:
+      textData = textData + review[tag] + " "
+    #endfor
   elif (tag == "questions"):
-      for review in data:
-        for question in review[tag]:
-          textData = textData + question + " "
-  	  	#endfor
+    for review in data:
+      for question in review[tag]:
+        textData = textData + question + " "
       #endfor
+    #endfor
   #endif
   return textData
 #enddef
@@ -94,22 +132,11 @@ def get_top_phrases(blob):
   np_freq = get_noun_phrases(blob)
   np_freq_scrubbed = np_freq[:]
   for n in np_freq:
-    if (any(x in n[0] for x in removeThese)):
-    	np_freq_scrubbed.remove(n)
+    if (any(x in n[0] for x in REMOVE_KEYWORDS)):
+      np_freq_scrubbed.remove(n)
     #endif
   #endfor
-  return np_freq_scrubbed
-#enddef
-
-# Not useful
-def get_all_ngrams(blob, num):
-  return blob.ngrams(n=num)
-#enddef
-
-def get_word_counts(blob):
-  word_counts = blob.word_counts
-  word_counts_sorted = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
-  return word_counts_sorted
+  return np_freq_scrubbed[:25] # top 25
 #enddef
 
 def get_top_reviews(data):
@@ -130,16 +157,66 @@ def get_top_reviews(data):
       negVal = sentiment
     #endif
   #endfor
-  return [(posReview, posVal), (negReview, negVal)]
+  return (posReview, posVal), (negReview, negVal)
+#enddef
+
+def analyze_sentiment(data, classifier):
+  text = get_text_from_data(data, "questions")
+  prob_dist = classifier.prob_classify(text)
+  overall_sentiment = prob_dist.max()
+  pos_sentiment = round(prob_dist.prob("pos"), 2)
+  neg_sentiment = round(prob_dist.prob("neg"), 2)
+  return overall_sentiment, pos_sentiment, neg_sentiment
+#enddef
+
+def analyze_details(data):
+  text = get_text_from_data(data, "details")
+  blob = TextBlob(text)
+  pattern_sentiment = round(blob.sentiment.polarity, 5)
+  pattern_subjectivity = round(blob.sentiment.subjectivity, 5)
+  top_details_nphrases = get_top_phrases(blob)
+  return pattern_sentiment, pattern_subjectivity, top_details_nphrases
+#enddef
+
+def analyze_questions(data):
+  text = get_text_from_data(data, "questions")
+  blob = TextBlob(text)
+  top_questions_nphrases = get_top_phrases(blob)
+  return top_questions_nphrases
+#enddef
+
+def analyze_top_reviews(data):
+  top_reviews = get_top_reviews(data)
+  return top_reviews[0], top_reviews[1]
+#enddef
+
+def analyze_data(classifier):
+  analyzed_data = []
+  for i in range(len(COMPANY_LIST)):
+    company = COMPANY_LIST[i]
+    company_kw = COMPANY_LIST_KEYWORDS[i]
+    print "# Analyzing " + company + " ..."
+    data = get_data_from_json(COMPANY_DATA_PATH + company_kw + ".json")
+    pattern_sentiment, pattern_subjectivity, top_details_nphrases = analyze_details(data)
+    top_questions_nphrases = analyze_questions(data)
+    overall_sentiment, pos_sentiment, neg_sentiment = analyze_sentiment(data, classifier)
+    most_positive_review, most_negative_review = analyze_top_reviews(data)
+    a = Analysis.Analysis(pattern_sentiment, pattern_subjectivity, overall_sentiment, pos_sentiment, neg_sentiment, top_details_nphrases, top_questions_nphrases, most_positive_review, most_negative_review)
+    analyzed_data.append(a)
+    export_analysis_data_to_json(analyzed_data, company_kw)
+  #endfor
 #enddef
 
 ################################################
+# Main
+################################################
+
+def init():
+  update_company_list()
+#enddef
 
 if __name__ == "__main__":
-  data = get_data_from_json(fileName)
-  details_text = get_text_from_data(data, "details")
-  questions_text = get_text_from_data(data, "questions")
-  blob_details = TextBlob(details_text)
-  blob_questions = TextBlob(questions_text)
-  print_stats(data, blob_details, blob_questions)
+  init()
+  nbayes = train_classifier()
+  analyze_data(nbayes)
 #endif
