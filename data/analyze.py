@@ -59,9 +59,9 @@ def get_text_from_file(keyword, tag):
 #enddef
 
 def export_training_data_to_json(data):
-	jsonFile = open("training_data.json", 'w')
-	jsonFile.write(json.dumps(data, indent=4, separators=(',', ': '), default=obj_dict))
-	jsonFile.close()
+  jsonFile = open("training_data.json", 'w')
+  jsonFile.write(json.dumps(data, indent=4, separators=(',', ': '), default=obj_dict))
+  jsonFile.close()
 #enddef
 
 def export_analysis_data_to_json(data, companyName):
@@ -128,11 +128,15 @@ def get_noun_phrases(blob):
   return np_freq_sorted
 #enddef
 
-def get_top_phrases(blob):
+def get_top_phrases(blob, companyName):
   np_freq = get_noun_phrases(blob)
   np_freq_scrubbed = np_freq[:]
+  removeThese = [companyName.lower()]
+  for word in REMOVE_KEYWORDS: # REMOVE_KEYWORDS is global so to add the companyName we have to copy over data
+    removeThese.append(word)
+  #endfor
   for n in np_freq:
-    if (any(x in n[0] for x in REMOVE_KEYWORDS)):
+    if (any(x in n[0] for x in removeThese)):
       np_freq_scrubbed.remove(n)
     #endif
   #endfor
@@ -169,19 +173,19 @@ def analyze_sentiment(data, classifier):
   return overall_sentiment, pos_sentiment, neg_sentiment
 #enddef
 
-def analyze_details(data):
+def analyze_details(data, company):
   text = get_text_from_data(data, "details")
   blob = TextBlob(text)
   pattern_sentiment = round(blob.sentiment.polarity, 5)
   pattern_subjectivity = round(blob.sentiment.subjectivity, 5)
-  top_details_nphrases = get_top_phrases(blob)
+  top_details_nphrases = get_top_phrases(blob, company)
   return pattern_sentiment, pattern_subjectivity, top_details_nphrases
 #enddef
 
-def analyze_questions(data):
+def analyze_questions(data, company):
   text = get_text_from_data(data, "questions")
   blob = TextBlob(text)
-  top_questions_nphrases = get_top_phrases(blob)
+  top_questions_nphrases = get_top_phrases(blob, company)
   return top_questions_nphrases
 #enddef
 
@@ -191,15 +195,15 @@ def analyze_top_reviews(data):
 #enddef
 
 def analyze_data(classifier):
-  analyzed_data = []
   for i in range(len(COMPANY_LIST)):
+    analyzed_data = []
     company = COMPANY_LIST[i]
     company_kw = COMPANY_LIST_KEYWORDS[i]
     print "# Analyzing " + company + " ..."
     data = get_data_from_json(COMPANY_DATA_PATH + company_kw + ".json")
-    pattern_sentiment, pattern_subjectivity, top_details_nphrases = analyze_details(data)
-    top_questions_nphrases = analyze_questions(data)
-    overall_sentiment, pos_sentiment, neg_sentiment = analyze_sentiment(data, classifier)
+    pattern_sentiment, pattern_subjectivity, top_details_nphrases = analyze_details(data, company)
+    top_questions_nphrases = analyze_questions(data, company)
+    overall_sentiment, pos_sentiment, neg_sentiment = "", "", "" #analyze_sentiment(data, classifier)
     most_positive_review, most_negative_review = analyze_top_reviews(data)
     a = Analysis.Analysis(pattern_sentiment, pattern_subjectivity, overall_sentiment, pos_sentiment, neg_sentiment, top_details_nphrases, top_questions_nphrases, most_positive_review, most_negative_review)
     analyzed_data.append(a)
@@ -217,6 +221,7 @@ def init():
 
 if __name__ == "__main__":
   init()
-  nbayes = train_classifier()
+  #nbayes = train_classifier()
+  nbayes = ""
   analyze_data(nbayes)
 #endif
