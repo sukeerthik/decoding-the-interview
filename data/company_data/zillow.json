@@ -1,0 +1,485 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "Pretty standard based on what everyone else on here said. 45 minute phone interview with basic technical questions, followed by 3 hour onsite interviews. Onsite increased in difficulty. First and last interviewer seemed engaged, second interviewer was on his phone while I was trying to solve questions and seemed generally uninterested in being there. Other than that, the whole process was pleasant.",
+        "questions": [],
+        "date": "Jan 23, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "I interviewed with Zillow recently. It was a great experience. My interviewers were smart and open. They worked with me on the problems. Place overall had a great vibe. I'd highly recommend working here.I did end up getting an offer. Although I did not actually end up accepting the offer(location reasons) I felt the process was really smooth. Recruiter and Hiring manager were really supportive throughout the process and were\u2026\u00a0 available to answer my questions whenever needed. I cannot recommend it enough.",
+        "questions": [
+            "Basic Data Structures and Algorithms related questions. The approach was more important than actually solving the problem. \u00a0"
+        ],
+        "date": "Feb 22, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5+ weeks",
+        "role": "Software Development Engineer",
+        "details": "Applied online. Got the link to a coding challenge. The 2 questions are available on Glassdoor. Then had 2 technical phone screens and onsite an interview. The onsite interview had 4 technical rounds - 1 hour each. The employees there were very friendly and nice. Unfortunately, I did not get the offer.",
+        "questions": [
+            "Technical interviews (phone interviews) - binary search related question, trees questions\u00a0Onsite questions - Signed the NDA \u00a0"
+        ],
+        "date": "Feb 16, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 days",
+        "role": "Software Development Engineer",
+        "details": "Had a coding interview, 2 rounds of phone interview and finally 4 rounds at the onsite location. Interviews went well except for one onsite round where the interviewer seemed to be working on his stuff while I was coding on the blackboard and seemed uninterested. Other than that, everyone were interactive and overall was fun.",
+        "questions": [
+            "Questions were about string and array manipulations, minesweeper game, LRU Cache, Blackjack game, trees \u00a0"
+        ],
+        "date": "Mar 16, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "Applied online and the recruiter contact me. After a phone technical interview I was invited to an onsite interview. Interviews are about projects, Algo & DS and database. The interview process is quick.",
+        "questions": [
+            "Interviews are about projects, Algo & DS and database. \u00a0"
+        ],
+        "date": "Jan 26, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Development Engineer",
+        "details": "Schedule a phone interview directly without online exam first. Zillow Engineer give me a calll and I take the call. The phone conversation was rather pleasant. The company using hakerrank code pair tool to test my coding skill.",
+        "questions": [
+            "Write a function that take an integer and return a reversed number. Ex. Reverse(1234), return 4321 \u00a0",
+            "Give a deck of card, calculate total number of point that is closes to 21. ex A,A,J = 12 , J,J,A,2 = 23A, 2 = 13 \u00a0"
+        ],
+        "date": "Jan 26, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Development Engineer",
+        "details": "I applied as a new PhD graduate. Two phone screenings and five 1:1 onsite interviews. To find me a better fit in the team, I had two extra phone interviews after the onsite. In general, their arrangements are awesome. The recruiter and the interview coordinator were able to make everything clear and also responsive. People I met or talked to are all nice and patient.",
+        "questions": [
+            "DSA and data science questions, because I am applying a position in the data team. \u00a0"
+        ],
+        "date": "Feb 15, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "After a one-on-one screening interview at my university, I was offered the opportunity for an onsite interview in Seattle. They flew me out, and the onsite was about four hours\u2014 they showed me around the office, provided lunch, and had three hour-long interviews with engineers from various teams. Each interview was relatively difficult.",
+        "questions": [
+            "Among others, a lengthy but not terribly complicated question involving manipulating strings and a question about writing an interface to keep track of website hit-counts. \u00a0"
+        ],
+        "date": "Nov 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "1+ week",
+        "role": "Software Development Engineer",
+        "details": "Very short PS - only 45 mins long with no technical depth. Feels like they are not trying to dig into and find score in your thinking process but rather looking for people that's skillful with PS coding questions. Although I got the right answer to both coding question 3 mins before time is up and think loudly during the whole process, still didn't make it to on-site.",
+        "questions": [
+            "Validate if a tree is a BST \u00a0"
+        ],
+        "date": "Nov 6, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Development Engineer",
+        "details": "Online Test. After I applied online, I received the online test in two days. Two questions, String to Long, insert and delete node in trinary search tree. Not hard and I finished them on time and then rejected after a week. No reason.",
+        "questions": [
+            "String to Long \u00a0"
+        ],
+        "date": "Sep 24, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Development Engineer",
+        "details": "Giving a code test, about trinary tree and reverse string, after 1 week get email that allowing to move on to phone interview session, then receive a phone interview, and get rejected. The interview question were normal mainly focus on front end. After a week or so, I get rejected by email notification.",
+        "questions": [
+            "what is different between null and undefined. \u00a0"
+        ],
+        "date": "Apr 24, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "role": "Software Development Engineer",
+        "details": "Got an email asking to solve 2 coding problems as soon as possible. Finished in one week, and got no feedback on the problems. After one week, received another email said that I was rejected.",
+        "questions": [],
+        "date": "Jan 30, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Development Engineer",
+        "details": "This was the stupidest interview I have ever attended yet. I was told to code two questions before a phone screen, passed that and went to the phone screen. A person called me and asked a very simple tree traversal question which I solved using recursion first. He then asked to solve it in a different way which I did and gave him three other solutions. All this took less\u2026\u00a0 than 20 minutes. I had written working code which you could compile and run. And then I get a reject next morning. I am relieved that I got a reject cause God knows how people work in this company. I would never recommend anyone to interview with them. There are much better places to work in Seattle so please don't even consider this to be an option.Pointer: For those who are still going to take a shot, I think the they filter out the code sample answers is by looking at the timestamp of your files that you send. So make sure that the date/time of creation and date/time of last modified is not more than one hour. A simple solution would be to solve the questions, create a new file and paste the solved questions, wait for about an hour, modify the file and send it.",
+        "questions": [
+            "Lowest common ancestor in a BT \u00a0"
+        ],
+        "date": "Apr 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Development Engineer",
+        "details": "Everything seems fine at beginning. I did really well during the two technical phone interviews and the interviewer said so, too. Yet two weeks after the time that I should be contacted, the recruiter told me that I was not selected for further process. I do not have any idea why it turned out like that. I am really confused where went wrong during the process that made me lost\u2026\u00a0 this opportunity.",
+        "questions": [
+            "Data Structure & Algorithms \u00a0"
+        ],
+        "date": "Mar 4, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "a week",
+        "role": "Software Development Engineer",
+        "details": "First they sent me two coding problems to finish. It's not difficult. The first one is convert a string to a long int. The second is implement insert and delete in a tri-nary tree. Two or three days after I submitted my solution, they made a phone interview with me. Why Zillow? How do I know Zillow? They also gave me some questions to coding in collabedit, such as Fibonacci,\u2026\u00a0 factorial calculation, which are not difficult.",
+        "questions": [],
+        "date": "Dec 15, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "Applied online, received word from a recruiter that they wanted me to complete a coding exercise, as others here have stated. Completed the exercise, sent it to them, was told that it would be reviewed by an engineer, and heard that I would not be moving forward.",
+        "questions": [
+            "Implement insertion and deletion in a trinary tree. \u00a0"
+        ],
+        "date": "Dec 19, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "Three weeks after submitting my resume, I got the email from recruiter. Two coding questions just like many have said. Two phone interview, just normal questions. And Onsite interview. Great office location.",
+        "questions": [],
+        "date": "Dec 2, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Development Engineer",
+        "details": "I was first contacted by email and asked to implement insert and delete in a trinary tree and also to figure out how to convert a long into an int and email back the solution. Afterwards I was contacted and told to schedule a phone interview. They asked me another question about trees which I don't quite recall. They told me they'd get back to me in a week and\u2026\u00a0 let me know if I was to advance in the process. I get no response so I send an email asking about whether or not a decision has been made yet. About a month later I get an email saying that they are still deciding which candidates to select and to wait until the end of the month to see whether or not I get an offer. Another couple of weeks go by and I got a rejection.",
+        "questions": [
+            "Implement insert and delete for a trinary tree \u00a0"
+        ],
+        "date": "May 16, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Development Engineer",
+        "details": "I talked to a recruiter at a career fair and gave them my resume. A week or so later they sent out a coding challenge, which I completed and sent back the next day. They responded very quickly, and I was set up with a phone interview for the following week, which consisted of big-O questions, then a short coding question involving data structures. We had some time left over,\u2026\u00a0 so he talked about working at Zillow and answered some questions I had. The interviewer was very nice and organized, and it went well overall.A few days later I got an email saying I had passed the phone interview phase and they wanted me to come in for an onsite interview sometime the following week. Onsite, I was interviewed by three separate employees for about 45 minutes each. They have you sign an NDA, but the questions were typical of what you expect from an interview for a coding position, nothing extremely easy, but nothing insane either. I got a bit stuck on one problem, but the interviewer did a nice job of nudging me in the right direction. After the technical interviews, they gave me a tour of the place and answered any remaining questions I had. I got a call two days later saying they enjoyed talking with me, and gave me an offer that I had two weeks to decide on, which I accepted. I received interviews with three other companies, and Zillow's was the most enjoyable by far.",
+        "questions": [
+            "NDA \u00a0"
+        ],
+        "date": "Feb 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "role": "Software Development Engineer",
+        "details": "They sent me one coding challenge consisting of two questions one is to implement insert and delete for tri-nary search tree, other one is to convert string to integer. They just asked me to send code in a file, they don't use Hacker rank or any such tools. I did both and tested it well, but i got a rejection mail after three days. I have read similar experiences.",
+        "questions": [],
+        "date": "Nov 20, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Development Engineer",
+        "details": "I applied for Zillow on its website and received an test including two algorithms problems without time limit. Got phone interview but did not pass it. I solved the the problems and follow-up. Don\u2019t know what\u2019s wrong",
+        "questions": [],
+        "date": "Nov 9, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Development Engineer",
+        "details": "Offline programming assignment containing 2 questions.1) Implement the function to convert a string to integer.2)Implement a ternary tree, i.e a tree in which each node has three children left, right and middle. Left is smaller than the node value, right is larger and center is equal to the node value.",
+        "questions": [
+            "No unexpected questions. \u00a0"
+        ],
+        "date": "Dec 3, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "6 days",
+        "role": "Software Development Engineer",
+        "details": "They first sent me a two programming questions to solve by email before anything else, and supposedly it is always the same questions. I am a hundred percent sure, as they are fairly easy, that I solved both them really well, however, after sending them in they simply said, thank you for your effort but we cannot proceed any further at this moment.",
+        "questions": [
+            "Given a string, write a routine that converts the string to a long, without using thebuilt in functions that would do this. Describe what (if any) limitations the code has. \u00a0",
+            "Implement insert and delete in a tri-nary tree. A tri-nary tree is much like a binary tree but with three child nodes for each parent instead of two -- with the left node being values less than the parent, the right node values greater than the parent, and the middle nodes values equal to the parent. \u00a0"
+        ],
+        "date": "Feb 21, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Development Engineer",
+        "details": "I applied online, the process took about three weeks. I was contacted about finishing a coding exercise over the course of a few days. After the coding exercise, I was given a 45 minute phone interview during which I wrote code online for the interviewer. The interviewer wasn't the best; He was difficult to engage in casual conversation and I could definitely tell that he was just running through a\u2026\u00a0 checklist.",
+        "questions": [
+            "Find the common ancestor of two nodes. There were other simpler questions that I do not remember. \u00a0"
+        ],
+        "date": "Aug 10, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "a week",
+        "role": "Software Development Engineer",
+        "details": "Applied online via their website. Was contacted shortly after and asked to complete 2 coding challenges. They were the same other people mentioned here. Convert a string to a long and implement insert and delete on a trinary tree. I have near 10 years of experience and know quite well how to do things such as this. Still, I took my time and spent about 4 hours making sure all\u2026\u00a0 of the code was write. I wrote plenty of unit tests to ensure it would all work and added comments all over as to be sure my intent in the code. After making sure the code was working perfectly, I submitted it to the HR person. A few days later and I find out that they decided to pass on me due to my answers to the coding challenges. I'm not quite sure what it is Zillow is looking for exactly. It boggles my my mind that they would pass on me this early on without even speaking to me any further or asking for more challenging puzzles to solve. The hiring process here is some of the worst I have seen. It would be nice to have a little feedback about what it is exactly they are looking for. I wanna agree with the other reviewer on here that more than likely they are using some kind of random guess or lottery pick to choose who gets to move on or not. I was not pleased with how this all turned out. In light of that, I do not recommend at all!",
+        "questions": [
+            "None, these were both easy questions to answer. I would have loved to opportunity to have tried something more challenging, then at least I would understand why they turned me down, but not for the ones they asked me. \u00a0"
+        ],
+        "date": "Sep 29, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "I had a wonderful experience with Zillow. I applied for a developer job in their San Francisco office and heard back within a couple of days. My first call was with a recruiter who spent time to understand my background and why I was interested in company. She clearly stated his the process worked so I felt happy. After I submmited a code and within a day was on a\u2026\u00a0 call with the director of technology! He challenged me with coding questions but made me quite excited about the possibility of working with the team. About a week later I was flown out for the interview where I was simply inspired by the group and role which I interviewed for. The day I got home the recruiter called and offered me the role! I am so exited to now work for Zillow",
+        "questions": [
+            "In addition to the coding questions I asked how I would interview potential new engineers as the team grew. How I would coach someone and how to give feedback \u00a0"
+        ],
+        "date": "Dec 17, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "role": "Software Development Engineer",
+        "details": "Initial HR Screen,Coding TestSubmitted the answers to their coding test after spending about a day. They rejected even for the initial phone interview right after the coding test. Not sure what went wrong in the coding test or what is their expectation. Whatever it may, set the right expectation for the coding test so that people don't waste their time",
+        "questions": [
+            "Trinary tree add/delete - Well, this can be easy or difficult depends on what you are trying to solve. \u00a0"
+        ],
+        "date": "Sep 22, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Development Engineer",
+        "details": "Referred by recruiter and given what seems like standard questions from the other posts on here. Very long turn around and getting final decision.1. String to long conversion2. Trinary (trenary) tree insert and deleteI spent about 3-4 hours getting problems coded up, documented, and tested. Solid rejection with no explanation other than my code wasn't good enough. Let's set things straight, I have 10+ years of experience, my code was\u2026\u00a0 well documented and had full java doc comments. I had accompanying unit tests to verify functionality and even made the trenary tree problem with generics. The only thing that could have possibly been done better is making the tree auto balancing, but given that most at home coding challenges are 30-60 minutes I felt like I already expanded enough effort.Whoever is reviewing the coding solutions has an UNUSUALLY UNREALISTIC BAR.",
+        "questions": [
+            "String to long conversion \u00a0",
+            "Trinary (trenary) tree insert and delete \u00a0"
+        ],
+        "date": "Jul 9, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "role": "Software Development Engineer",
+        "details": "The first call with a recruiter was followed immediately by their standard take-home coding exercises: insert/delete from a ternary tree (which they call a tri-nary tree) and converting a string into a long. Straightforward questions. I decided to include not only a solution but also unit tests, and in such a way that I would expect to pass a code review for check-in. This isn't my first dev job. While\u2026\u00a0 the code functioned, and as far as I know was production-quality, I received an email about one day after I submitted the response that they were not going to ask me in for a screening. Disappointing, as I have no idea what they were looking for that I didn't do. I heard this complaint from other reviewers, but I assumed that they just solved the problem the fastest way -- I thought for sure having tests, comment blocks, and code structured for use in an application would impress enough for an interview.",
+        "questions": [
+            "Questions weren't difficult, but obviously I wasn't able to provide something they were looking for (and not asking for). \u00a0"
+        ],
+        "date": "May 3, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "1. Submit code exercise online",
+        "questions": [
+            "No difficult questions, basic algorithms and data structures.Sum of the fibonacci number \u00a0"
+        ],
+        "date": "Feb 20, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Development Engineer",
+        "details": "Applied through Glassdoor, and have got the response pretty quickly got a coding challenge with two questions which were discussed earlier-> Convert String to Long without using library functions in any programming language-> Implement insert and delete in ternary search treeternary search tree - Same as binary search tree but does have one more node under the parent node with same valueexample -> node 5 has 4 on the left\u2026\u00a0 and 6 on the right and has 5 right below it. Three nodes to each node.the recruiter has sent me an email saying clearly :- Do it at your own time, As i had other interviews lined up for the week I have done it exactly in one week. I have got the answers right and checked every possible way and test cases. But the main reason to decline in my case i think was the time taken to submit the coding challenge. It exactly took me one day to finish the coding challenge. but i cannot explain it so the rejection.",
+        "questions": [
+            "Ternary search tree deletion. \u00a0"
+        ],
+        "date": "Mar 8, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ months",
+        "role": "Software Development Engineer",
+        "details": "Nov 18, 2014 - Contacted by a recruiter. Soon after she sent me the two coding tests, which I completed over the weekend. A week later I was invited for a phone interview.Dec 8, 2014 - Initial phone screenDec 22, 2014 - Second phone screenThen it's the Christmas and New Year holidays, so I haven't heard back from them for two weeks. The good thing was, my recruiter quickly replied\u2026\u00a0 as soon as I sent them to follow up. She said that I performed well in my phone screens. Then she passed me to another recruiter and scheduled the onsite interview.Jan 21, 2015 - Onsite interview with four interviewers. The first two are software engineers, the third is a Senior SDE and the last one is a manager (he did my second phone screen). From other reviews I guess if you didn't do well in your first two interviews you would not see the manager after all. Overall I enjoy the interview process. People are generally pretty nice, and the view was so great from the windows.Before I leave their office, my recruiter came in and told me that I would hear back in a week (\"early next week\", she said). However I did not receive anything by Jan 28. Two days later on Jan 30, I received an e-mail saying that the position was filled, and that they would contact me should their needs change. I guess I did convince them that I qualified in the interviews, but they already handed out too many offers to people who interviewed before I did so I was already interviewing for a \"substitute position.\" I do understand that's how hiring works, but I'm still disappointed. I love Seattle, I really want that position, and I cannot stop thinking what would happen if they process my phone interviews faster...",
+        "questions": [
+            "Lots of game design questions. Seem easy at the beginning but there are a lot of interesting follow ups. \u00a0"
+        ],
+        "date": "Feb 8, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Development Engineer",
+        "details": "Phone interview.1.Ask how to figure out if an integer is out of range.2.Common ancestor of two nodes in binary tree.,",
+        "questions": [
+            "Not difficult. But I am so nervous. \u00a0"
+        ],
+        "date": "Nov 18, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Development Engineer",
+        "details": "HR sent me 2 questions to answer at first. One phone interview was conducted to ask me several basic technical questions. Then on-site interview.",
+        "questions": [
+            "Basic technical questions like design a database and find a node in a BST. \u00a0"
+        ],
+        "date": "Apr 25, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "ask some technical questions, not very hard",
+        "questions": [
+            "Compare the node in an unsorted d- tree \u00a0"
+        ],
+        "date": "Feb 12, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "3 weeks",
+        "role": "Software Development Engineer",
+        "details": "Shortly after submitting my application I received an email asking me to complete and send in a coding test. They were simple questions including converting a string into an integer, and dealing with BST insertion and deletion. After I passed this test I had a 20-minute phone interview with just a couple quick technical questions. Finally, I was called in for an in-person interview. I interviewed with 3 different software\u2026\u00a0 engineers, each for one hour. The interviews were mostly technical questions, which I would write up solutions to on a whiteboard. In one of my interviews, the interviewer asked me a question and as I wrote out and described my solution I could see him working on his smartphone out of the corner of my eye. Then when I looked over at him to check in 5 minutes later he was dozing off. Pretty discouraging. Other then that the interview process was very thorough and I liked the other software developers I met with, who seemed very bright, friendly and passionate about their work.",
+        "questions": [
+            "Find all anagrams of a given word. A array including all English words is provided. \u00a0"
+        ],
+        "date": "Mar 18, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3+ weeks",
+        "role": "Software Development Engineer",
+        "details": "I applied online, and then was promptly asked for a code sample. There were two problems to complete which were relatively simple, involving string parsing and implementing a tree. I was given the rest of the week to finish the sample.After I supplied the sample, I was emailed for a phone interview. The phone interview was fairly smooth, with mostly programming and a simple math question, not a ton of\u2026\u00a0 behavioral / company fit questions. After the phone interview, I was emailed for an onsite interview which could last 2-4 hours.I arrived for the in-person interview. It was very relaxed, and fairly typical. I was placed in a room with a whiteboard wall, and I was told 2-4 people would interview me for an hour each. The interviewers increase in seniority, and I assume that if you do poorly, they don't bother to finish the last two interviews. I was given a lunch menu: Lots of vegan / gluten free friendly options.I was told I would receive a final say in about a week, but this was surrounding the holidays.",
+        "questions": [
+            "Reduce a mail address to a maximum of N characters while preserving all numbers, and maintaining readability. \u00a0"
+        ],
+        "date": "Nov 23, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Development Engineer",
+        "details": "They have a very thorough interview process starting with a series of phone interviews. The first stage was from HR where they confirm that you are still interested, then they setup a time for higher level HR phone interview. The second HR interview asked for some detail on work history, general knowledge of software development and pay range. After satisfying the HR review with the hiring manager. I received an\u2026\u00a0 email with some coding exercises involving creating a method to manipulate strings and creating a Class similar to a binary tree with several capabilities. Afterwards I received an invite to a phone interview with the hiring manager. That interview required fast and deep responses to questions about algorithms especially the one I had created.",
+        "questions": [
+            "They asked questions to get a feel for how well you understand Software development. \u00a0"
+        ],
+        "date": "Dec 5, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Development Engineer",
+        "details": "I applied online for a Lead Software Development Engineer position that consisted of direct contributing and managing a very small team of other developers. I heard back from a recruiting coordinator within a few days and he set up a phone call to discuss my interest in the position and my background. After that, he directed me to another recruiting coordinator who helped get me set up with a phone\u2026\u00a0 screen interview. Though the position was heavy on Java, I was allowed to answer questions from a C# perspective since I had more experience with that language. Overall, the conversation I had with the phone screener went well, but I think the general feeling on both sides was that I wasn't the best fit given my weakness with Java/server development and perhaps a little too much management experience (since I was used to managing teams with both direct and indirect reports). Although I came away with no offer, my conversations with the recruiting coordinators and the phone screener were positive.",
+        "questions": [
+            "How does garbage collection work in .NET? \u00a0"
+        ],
+        "date": "Mar 1, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "6 weeks",
+        "role": "Software Development Engineer",
+        "details": "I had applied online and also contacted the HR via email. The HR replied asking me to start on with the processStep 1: Take home coding challenge - the same 2 questions that Zillow asks everyoneI completed this in 4 daysStep 2: Phone interview\u00a0\u00a0\u00a0\u00a0\u00a0- general discussion on my previous projects\u00a0\u00a0\u00a0\u00a0\u00a0- find all pairs that add up to a certain value in an arrayStep 3: Skype interview\u00a0\u00a0\u00a0\u00a0\u00a0- general discussion on my\u2026\u00a0 previous projects\u00a0\u00a0\u00a0\u00a0\u00a0- find lowest common ancestorStep 4: Onsite - 4 technical rounds on whiteboard with different team members. The code that you write needs to be perfectly compilable.Over all my experience was great. The HR was very quick to follow up and I completed my process very fast. Amazing office in downtown Seattle, with a great view from the 34th floor.The interviews were very helpful and always carried a happy face.",
+        "questions": [
+            "a modified dynamic programming took me some time to figure out \u00a0"
+        ],
+        "date": "Dec 24, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Development Engineer",
+        "details": "Phone interview asked a variety of people and technical skills. Specifics on java's implementation of specific functionality were probably the most difficult questions. Was useful to have an anadote about a difficult concurrency problem you have solved and how you went about it. Interviewer and recruiter were very positive.",
+        "questions": [
+            "Describe a particularly difficult concurrency problem you have faced and you solved it? \u00a0"
+        ],
+        "date": "Oct 27, 2011"
+    }
+]

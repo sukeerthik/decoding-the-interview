@@ -1,0 +1,2702 @@
+[
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Three phone interviews, 1 behavorial, 1 technical, and 1 regarding verdict of decision. Pretty standard and straightforward. Technical questions ranged deadlocks to hash tables. Behavorial questions were standard i.e. why do you want to work for us?",
+        "questions": [
+            "What is a deadlock? \u00a0"
+        ],
+        "date": "Mar 15, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Applied online for the post Software Engineer (Entry level) from the IBM careers website. Got an email requesting to take an online aptitude test. Lot of Math problems. Difficulty level was very high when compared to time limit. Gave the test last week waiting for the result and next process.",
+        "questions": [
+            "Math and IQ problems \u00a0"
+        ],
+        "date": "Mar 4, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Phone and then f2f, recruiter set up the process for phone interview. 3 ppl took interview on the phone. then few days later face to face interview. 2 group of team took my interview.",
+        "questions": [
+            "technical questions from typical other interviews and lots of team work questions. \u00a0"
+        ],
+        "date": "Feb 11, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied online. Within a couple of weeks I heard back from a recruiter for the company. There was a phone screening - mine lasted about an hour, but it was just to get a feel for the company. It was very relaxed. I have not yet heard from the company.",
+        "questions": [
+            "Basic get to know you questions. \u00a0"
+        ],
+        "date": "Jan 19, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "role": "Software Engineer",
+        "details": "I applied online and was contacted a few weeks later by the hiring manager. He called me and asked me questions about my resume, including questions about teamwork experience and things such as that. Afterwards, I was emailed about setting up an on-site interview. They flew me out to their location a few weeks later and I met with the hiring manager, a software engineer that I would possibly work\u2026\u00a0 with and a project manager who would most likely end up being my boss. The hiring manager didn't ask me that many questions since he had already talked to me before. The software engineer asked me some technical questions (write a method that does this etc.) and some OOP conceptual questions (what would this program do, etc.). The project manager asked me more in-depth questions about my resume, including how well I work with others and such (the typical behavioral questions). A couple weeks later, they emailed me an offer and I accepted.",
+        "questions": [
+            "Write a method that determines if a string is a palindrome.Know OOP concepts such as inheritance. \u00a0"
+        ],
+        "date": "Feb 13, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "6 weeks",
+        "role": "Software Engineer",
+        "details": "I was referred by my friend who has interned in IBM. Before that I already submitted my CV to their online recruitment system, but I seriously doubt there's any use of it.There's a 1 hour phone screen with 2 interviewers at the same time. They asked some simple coding and behavioral questions. After that they're interested enough to invite me to on-site interview, but I still have to push them\u2026\u00a0 a bit because my other interviews were around the corner and I had to schedule them quick.I was invited to the IBM Watson office. At IBM almost every employee has a separated office room, so I just met every interviewer at his own office. The interview started early and there're about 8 interviewers (I lost count and they didn't send me the schedule either), each last for 1 hour except the one who took me to lunch, so the entire process is actually quite tiring.1 week later I sent a follow-up mail to the HR but only got silence. Then after another 2 weeks I sent another follow-up mail to the manager and some interviewers and finally heard from them that I'm no longer considered.",
+        "questions": [
+            "Almost every interviewer asked me to introduce my background and previous works, and then pick the part he's interested in to go further. Besides that, only 1 interviewer asked me algorithm question, and maybe 2 asked questions about C++ language; all the remaining are general behavioral questions.There's 1 interview with 2 interviewers from security department. I assume it's some kind of security measure since they obviously have fewer professional background.\u2026\u00a0 \u00a0"
+        ],
+        "date": "Feb 8, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "One phone screening with hiring manager, and then another phone interview with a member of the team. After that they send me th IPAT test. After one one week I got an offer for an onsite interview. The process was good and mostly about check your personality. Very basic Algorithms and Data structure questions and C++. Offer came after 2 weeks.",
+        "questions": [
+            "Polymorfism, keywords in C++, basic graph traversals \u00a0"
+        ],
+        "date": "Feb 5, 2016"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied online. After a week or so I got an e-mail from the hiring manager to schedule a call. I talked with the hiring manager. We discussed the position and whether it would be a good fit. There were no specific technical questions. We both agreed it would be a good fit and decided to move forward with an onsite. Between the call and the onsite there was an\u2026",
+        "questions": [
+            "he coding test was fairly standard algorithms questions from books like Cracking the Coding Interview. They weren't too hard, but if I didn't study I may have had a time crunch. One of the questions was a bit more complex with a page long specification and some unique requirements. \u00a0"
+        ],
+        "date": "Nov 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "There was a phone interview first to check my interest, followed by an in person group interview to test my skills and see if my personality was a good match. They were friendly and professional, and even though I didn't receive an offer, I felt the process was an overall positive experience.",
+        "questions": [
+            "What do you know about unit testing? \u00a0"
+        ],
+        "date": "Nov 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I was referred by a friend ,first round was a telephonic round where the interviewer asked me a simple code and asked about my background.After clearing the telephonic round I was asked to come onsite for back to back 3 interviewers.The first interviewer asked me some basic question and had asked two coding questions ,he was continuously interacting with me during the problem solving which was positive.The second interviewer didn't\u2026\u00a0 seem to have any interest in the interview and gave me a problem and sat on his chair typing something .He neither interacted with me nor reviewed the problem .It was the worst interview I ever faced ,IBM should not allow such people to take interviews .The third interviewer was a fresh graduate who himself was not sure what he is asking .Overall the experience was horrible with interviewer themselves not much experience to take interviews .Very negative interview experience",
+        "questions": [
+            "question on file traversal,string,arrays,rest,nosql \u00a0"
+        ],
+        "date": "Dec 5, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I had a technical phone interview that went over some basic coding questions. It was not too difficult. After this, there was an online exam that tested basic math and logic skills. There was a probability section, a basic math section, etc. You didn't have much time to answer the individual questions, but the questions were not too difficult.",
+        "questions": [
+            "What is the difference between a pointer and a reference? \u00a0"
+        ],
+        "date": "Oct 6, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Got referred by a friend. After 3 weeks I got a phone call to set an interview.I have to say that the interviewer wasn't that nice. He decided to cut the interview after he saw that I'm having a hard time solving the questions.",
+        "questions": [
+            "Create a random string (without using library functions) with a given length. \u00a0",
+            "Sort an array by mod3 -All elements of mod3=0 would be before all elements of mod3=1... So on. Do it in linear time. \u00a0",
+            "Given an unsorted array and int k, find all pairs of numbers from the array that sum up to k. \u00a0",
+            "Print the power set of the given set. \u00a0",
+            "Explain how hash table works. \u00a0"
+        ],
+        "date": "Nov 2, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I was recommended for a full time job after having interviewed me for an internship and not hiring me. In both interviews, there was a panel of 6 people asking different questions about me and my experience in both C and Java. In the full time interview I was given a coding challenge which I had to do on the board and explain my way through it.",
+        "questions": [
+            "They asked me to reverse a string but keep the spacing where it was. \u00a0"
+        ],
+        "date": "Oct 21, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "6+ weeks",
+        "role": "Software Engineer",
+        "details": "3 rounds and the IPAT (logic placement test)1) behavioral - the guy was kinda rude to me2) technical - Python and C questions and a riddle3) experiences and behavioralIPAT was hard and tiresome",
+        "questions": [
+            "What's a deadlock? \u00a0"
+        ],
+        "date": "Dec 5, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "- Phone screening with some technical questions- Whole day interview with multiple people- White board discussion - how would you solve this or that- People skills questions - what would you do if this or that- 'Why should we hire you ?\"",
+        "questions": [
+            "Why is the main method in a java class static ? \u00a0"
+        ],
+        "date": "Sep 7, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "The interview process was very easy, it started with a phone screen and I was immediately offered the job. Most of the interview was spent selling the company and position to me.",
+        "questions": [
+            "Tell me about a project you have worked on. Why do you think you would be a good fit for this position? \u00a0"
+        ],
+        "date": "Oct 20, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I inquired through email after my college passed on a message that a specific team was hiring shortly after I graduated. Applied officially online. Had a short phone interview and then 2 more 30 min phone interviews within a week. Mostly they just told me about what they did. Only really asked me to tell them about myself. I asked questions and tried to be 'insightful'. They implied I was\u2026\u00a0 hired but I had to take an iq type test. It took awhile to get through that and the background check (although they never actually said it was a background check... Just asked details about my prior work & education). That part is all outsourced to India and was very slow and took about a week.The iq test says you don't to prepare but I was frustrated to find I could barely remember the quadratic equation and other algebra topics you haven't used in years that were needed for the timed test. I think i did horrible, but they don't tell you how you did. Got an official offer letter from the Indian recruiting dept including bonus & relocation about a week later.",
+        "questions": [
+            "Tell me about yourself \u00a0"
+        ],
+        "date": "Sep 18, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I talked with one lady at a university career fair, and she had me talk to two other more technical people there before telling me that I was a pretty good candidate.They told me to apply online, which I did. The online application process isn't the most exciting thing. It asks you a lot of questions about how many years of experience you have in each language/technology, among other strange\u2026\u00a0 questions.I was contacted two days later to set up a meeting with the manager of the team that was interested in hiring me. He just gauged my interest and evaluated fit. It was a very non-technical interview.A week later, I got an email with another (more detailed) application. It was equally boring. I also got an invitation to take an online \"CAT\" employment test. Basically it was a mathematics test whose results are apparently correlated to how far you will progress within IBM when you are employed. There are a few sections in the test, basic algebra questions, proportions, and patterns. Patterns was the trickiest part. You don't get your results when you finish, and my possible results still haunt me to this day.. I guess I did good enough!After taking the test, I was also contacted by another manager who wanted to discuss employment with me.Both managers had new hires on their teams call me to talk to me about the team and their work, and they let me ask any questions that I had.The two managers planned a visit day where I could meet people on both teams and get a feel for the culture. The day was split 4 hours each with a lunch in the middle where I could talk to both managers at the same time.After this day, I was given a few weeks to make my decision. I decided the team and accepted the offer. There were no technical interviews the entire time. You just have to be well-spoken enough to rock the socks off the interviewers.",
+        "questions": [
+            "They really wanted to hear about your passion for software engineering. Bonus points for giving examples of doing it outside of school/work. \u00a0"
+        ],
+        "date": "Aug 17, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "After applying online, a month and a half later I was called to schedule an interview. The interview occurred over the phone, where I spoke with two managers in a conference call. After the interview, I was asked to complete an online aptitude test and supplement my application with additional information. A few days later, they called me back with a decision.",
+        "questions": [
+            "Tell me about a time there was conflict in a group you were a part of, and how did you resolve it? \u00a0"
+        ],
+        "date": "Sep 4, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I submitted a resume through a current IBM employee. I had a brief phone interview that only briefly touched my technical experience. I then took an aptitude test and that was that. It turns out it was an easy interview because they were not looking for specific technical experience (certain programming languages or what have you) but instead looking to see if you would be able to pick up on\u2026\u00a0 whatever would be thrown at you once you arrived.",
+        "questions": [
+            "Tell me about a past programming project you worked on. \u00a0"
+        ],
+        "date": "Jul 16, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Very personable interview to get to know who I am and what I'm familiar with. General technical questions but no trick or challenging or brain-teaser type questions. They talked more about what I would be doing on a day to day basis. They let me ask them about the company, my responsibilities, and just had a nice chat in general.",
+        "questions": [
+            "Familiar with Linux/Unix environment? \u00a0"
+        ],
+        "date": "Jul 7, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "I applied the job from HireTeamMate, which is posted by the hiring manager directly (HireTeamMate is called the Uber for Hiring).I got contacted a few hours after applied, and got phone interivew the 2nd day.",
+        "questions": [
+            "first check my background on design and system, and OOP case design.then write some simple code over the phone.then some general questions \u00a0"
+        ],
+        "date": "Jul 2, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "It is a very streamline process. First, we had a phone screen interview with 2-3 people where basically it was just a background check and finally some technical quizzes and coding on the screen using something hirevue platform. If you passed the screening a recruiter will call you for an onsite interview. Onsite interview went very smooth and long, it was 5 interviews, 2 whiteboard coding and 3 behavioral with\u2026\u00a0 managers.",
+        "questions": [
+            "Rather than asking complex algorithm quizzes, they asked me to implement some basic data structures like trees, merge sort, finally merging an array of linkedlists, but they want you to walk every step and they often interrupted with \"what if we want to implement this\" or \"can you imagine what design pattern need to be used if we were to implement additional feature Y\". \u00a0"
+        ],
+        "date": "Oct 13, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I applied through my university's program.After about a week, they contacted me through email. We scheduled a phone screen to see if we would be a good fit for each other.The phone interview was with 2 members of the team and consisted of details of what the job was about, both technical and behavioral questions relating to Computer Science, and technical questions about the projects on my resume.They wanted someone\u2026\u00a0 with strong Java and Javascript skills, and I was looking to get away from Java and only into Javascript. We agreed we were not meant to be and parted ways.Overall, very nice and professional.",
+        "questions": [
+            "Why IBM?What do you know about IBM?Why Computer Science?What interests you about the position? \u00a0"
+        ],
+        "date": "Jul 27, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "I applied through University career fair and got a call from the hiring manager after about 3 months. They said they were interested in discussing an intern position and gave me the details.The first round was a technical and social interview with the hiring manager and the project manager and the senior tech architect of the branch. Questions were on databases, my previous projects, few more technical questions to be\u2026\u00a0 solved (a little complex towards the end). I was then given a programming project to be done at home and submit the code along with description.I was interviewed on the project and few more technical questions by the hiring manager and then the third round was behavioral and social. They asked me to take an aptitude test which is a must for all their employees and was extended an offer.",
+        "questions": [
+            "-Parallel querying of databases-concurrency design \u00a0"
+        ],
+        "date": "Apr 3, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "5 days",
+        "role": "Software Engineering",
+        "details": "I contacted a manager who had sent out an email to our school's mailing list about a software development internship. I emailed him and he contacted me with a time for a phone interview. There was only one phone interview that was ~45 minutes. No coding technical questions, just questions about knowledge. There were no other rounds. They immediately made an offer a few days after the internship.",
+        "questions": [
+            "Describe Java inheritance \u00a0"
+        ],
+        "date": "Jun 30, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "one hour interview. tell us about yourself , technical questions and project based questions.aptitude problems need to completed in forty minutes. programming puzzles need to be solved agin in 40 min",
+        "questions": [
+            "Tell us about yourself \u00a0"
+        ],
+        "date": "May 7, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I was referred by my Uncle, who works for IBM. I would assume this allowed me to skip a step or two, but I know it at least short-listed me. I received an email from one of the managers who schedule a phone interview. The phone interview consisted of two parts: the first was with a group of managers who talked about the me as a person, why I chose\u2026\u00a0 the school I did, some of my background, mostly just general personality questions. They then left the room and brought in a group of techs. The tech group asked more about my programming experience and some of the programs and projects I had listed on my resume. Overall the interview took about 1:30, and ended on good terms. I heard back quickly about moving on to the next part of the process, and I expect to have the official offer within a week.",
+        "questions": [
+            "Didn't ask any specific testing questions, just wanted to know what kind of experience I had and what I'd worked with. \u00a0"
+        ],
+        "date": "Mar 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "On arrival, was given a tour around the entire building.Interview was conducted inside one of the conference rooms.Casual conversation, not too many technical questions since technical aspect of the interview was done through email prior to the actual interview.After the interview was over, was taken around the office and shown the recruiters cubicle and introduced to other interns. Was shown where the managers office were and who would contact me\u2026\u00a0 if I was to move to the second phase of the interview",
+        "questions": [
+            "Name a goal that you set for yourself and how you achieved it.Tell me about a time you did not agree with the higher ups and how you dealt with it. \u00a0"
+        ],
+        "date": "May 6, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "2 weeks after sending resume, got a response for video-code exam. A link was sent by email. I am allowed to choose to start in 3 days.If click the link,the interview have to finished in 2-3 hours.Questions: introduce yourself;some behavior questions;2 code writing1 explanation on why you were doing the code in the way",
+        "questions": [
+            "2 codes exams \u00a0"
+        ],
+        "date": "May 7, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Technical round was pretty simple. Basically a phone call interview with a website where they could see what code i was writing. The program they told me to write was pretty simple.",
+        "questions": [
+            "Walk me through your resume? \u00a0"
+        ],
+        "date": "Feb 26, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineering",
+        "details": "30 mins with the project manager and 1 hour with my prospective technical supervisor. The first round was mainly behavioural questions, second round involved some technical questions. Questions were not hard and a lot of hints were given during the entire process.",
+        "questions": [],
+        "date": "Oct 13, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5+ months",
+        "role": "Software Engineer",
+        "details": "Applied online. Waited a few months to hear anything. Process moved fairly quickly after initial response. Phone screen and then follow up interviews on site. Overall great experience, would recommend.",
+        "questions": [
+            "Standard interview questions. \u00a0"
+        ],
+        "date": "Mar 24, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "On Campus screening. Then there was an Interview with a hiring manager. After speaking with a hiring manager, if there was chemistry and an interest between both parties, an offer letter was sent out within the week. All interviews were technical. Two on campus interviews and one phone interview with the hiring manager",
+        "questions": [
+            "Given a level of a tree (level k) , print all of nodes at that level. \u00a0"
+        ],
+        "date": "Jan 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "It gave me a technical phone interview first. They just asked one basic algorithm question. After that, they gave me an on-site. It took 4.5 hours and interviewed with 4 engineer and one manager. Every engineer asked me 2~4 algorithm questions. I had answered all the questions very well. However, they felt my explanation was not good since my English was not good. They still rejected me at end.",
+        "questions": [
+            "The manager asked me what I know about the company. Also, one engineer asked about the rotation of the BST. I have done it before, but it is hard to solve this quickly since it has many case needing to consider about. \u00a0"
+        ],
+        "date": "Feb 3, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I applied through an employee referral for an entry level software engineer as I am a new BS graduate. I interviewed with IBM tea leaf in SFO after an initial phone interview for about 20 mins. The phone interview was very casual asking questions about your background and some OOP concepts. A week later I was invited onsite scheduled to interview with 6 people - developers, QA and director. Some\u2026\u00a0 of my interviewers didn't show up to work and in order to replace them some other random people interviewed me and it was a little disorganized.\u00a0Questions were mainly about my background, resume, and projects etc. They grilled me on each and every project/work experience on my resume and asked me questions on how I did whatever I did. I was asked a few technical questions here and there but no extensive whiteboard coding.",
+        "questions": [
+            "write pseudo code to add a node to a singly linked list \u00a0",
+            "have you ever used exception handling in your projects? any OOP concepts? \u00a0",
+            "how did the frontend connect with your backend in your project? How do you parse a JSON object? \u00a0",
+            "What is the most efficient sorting algorithm? What is its runtime? \u00a0",
+            "how do you check if a number is odd or even? \u00a0"
+        ],
+        "date": "Dec 14, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Was referred by an employee and had two phone interviews. The first was with the manager. He asked basic behavioral questions, why I wanted to work at IBM, what projects I worked on, etc. The second interview was with an engineer. His main goal was to see if I could talk fluently about computer science. He asked really simple questions such as the difference between a list and a set,\u2026\u00a0 and we talked about python scripting. After the phone interviews I took an IQ test involving sequences and algebra.",
+        "questions": [
+            "What is the difference between a list and a set? \u00a0"
+        ],
+        "date": "Aug 17, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Meet with about 5 managers and teams, it's a day long. They do more speaking than you have too. Be honest and tell them your interests. The managers go over what they do and sometimes they describe the entire organization. The questions they generally have are not too difficult, but you should be on top of things just in case. This didn't happen to me, but someone had to write\u2026\u00a0 a small circuit example for an engineering job.",
+        "questions": [
+            "There was no difficult question. \u00a0"
+        ],
+        "date": "Oct 30, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "I was called up, and asked about my former work experiences and told about the position they were trying to fill. They followed up with an online/ phone coding interview. I qualified to fly down to an onsite interview. Met the team, answered questions on my past work and commented on their existing work. Went through another code interview and a debugging interview. Had a meet and greet with employees\u2026\u00a0 and other applicants. Went to lunch with the team. and then was flown back home.",
+        "questions": [
+            "They gave me a series of CSS selectors and asked me to tell them which HTML elements were being referenced. \u00a0"
+        ],
+        "date": "Jul 15, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I received a phone interview. The hiring manager was very nice, and easy to have a conversation with. They told me they received my resume from a recruiter that grabbed it from my universities career services. I had a one hour phone interview, and received the job on the spot. My offer was in my email in a few days. They gave me seven days to decide if I wanted\u2026\u00a0 it or not.",
+        "questions": [
+            "They asked me if I knew anything about clustering. That was the area I was originally going to be working with. \u00a0"
+        ],
+        "date": "Jun 30, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "No Technical Questions. Mostly common scenario questions. Initially had a phone call from recruiter. Then invited for hiring event. You get to talk to more than one division. You will then be invited for on-site. Offer arrives in 3 weeks or less.",
+        "questions": [],
+        "date": "Oct 17, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "I submitted my resume to the career fair for IBM. A few weeks later, I was contacted by a manager that they were interested in doing a phone interview. I did the phone screen and then was followed up with another technical phone interview a week later. Both went well so later on I then took the IPAT test and submitted more details on my application. I later then received\u2026\u00a0 an offer. I asked for an extension to decide after some interviews with other companies. For now, I will say that I \"declined\" the offer, but it is still on the table and who knows if I will accept it in the coming month.",
+        "questions": [
+            "Why does the printf statement take so long to print from the Arduino in one of my projects? \u00a0"
+        ],
+        "date": "Nov 18, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "Very easy. 3 phone interviews: Behavioral, Technical, and mixed. One with a team member, one with 1st line manager, one with 2nd line manager. Homework to develop an application using relevant programming tools. Interview with team member was regarding what I will be working on - they acted as my tech lead for the onboarding process. Interview with 1st line manager was a mix between technical and behavioral, and what\u2026\u00a0 my outlook for the company is. Interview with 2nd line manager was mostly behavioral and questions were exchanged regarding work at the company.",
+        "questions": [
+            "They ask you items on your resume if it is relevant to what you will be working on. \u00a0"
+        ],
+        "date": "Jan 13, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I had two phone interviews with the hiring manager. These were straight forward with a few questions about my interests, my qualifications and what type of software I'd be working with if hired.",
+        "questions": [
+            "Write down the process and typical functions to transfer files from one location to another. \u00a0"
+        ],
+        "date": "Apr 11, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The interview consisted of a phone conversation. The phone conversation was relatively lax. I was not asked any technical questions. They mostly just asked what I was interested in working on. This probably is not the norm with IBM in the states",
+        "questions": [
+            "No technical questions \u00a0"
+        ],
+        "date": "Sep 17, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "You can apply through online portal or through friends referral. If you get shortlisted,HR will call you and provide you details about opportunity. Number of interview are generally depends on the team and kind of position. It sometime be done with 1 technical interview followed by HR interview or sometime it can be 2-3 technical interviews followed by HR round.",
+        "questions": [
+            "Why IBM? \u00a0"
+        ],
+        "date": "Aug 26, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "3+ months",
+        "role": "Software Engineering",
+        "details": "I applied online, got an email saying they were interested, and had two phone interviews (first personality, second technical) followed by a three hour online skills and logic test that made my brain hurt but that I apparently passed. Got the offer and was very excited, but decided on another position.",
+        "questions": [
+            "How would you design an ATM? \u00a0"
+        ],
+        "date": "Jun 27, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Called me for a phone interview, asking general questions regarding to projects that I had previously worked on, send me off to an on site interview with the manager that I previously talked with and a team lead. Interview questions is relatively easy, mostly regarding various software design cycles.",
+        "questions": [
+            "how you test GUI \u00a0"
+        ],
+        "date": "May 20, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "6+ months",
+        "role": "Software Engineer",
+        "details": "Referred by an IBM director and got an phone interview by the hiring manager in a month. Hiring manager asked for a technical exercise using one of the IBM core engines as part of the technical review. Presented the results via Webniar to a panel of tech people. Didn't hear back after few weeks regarding an offer.",
+        "questions": [
+            "I presented my R&D works + technical exercise. The hiring manager was quite impressed by them. The hard part is the salary negotiation (went through two hiring managers due to internal reorg). \u00a0"
+        ],
+        "date": "May 19, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I submitted multiple applications for various software development roles. About a month later I received a call asking to set up a phone interview. It was a comprehensive interview with multiple team members, covering points on my resume, Java-knowledge questions, and soft skill questions about how I work with other people. Soon afterwards, I received my offer.",
+        "questions": [
+            "General Java development knowledge, resume questions, and work ethic / situational questions. \u00a0"
+        ],
+        "date": "Apr 30, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "The interview process went very smoothly. I met with the HR Rep, then the Manager and the 4 other developers on the team. Each of them had there own interview style but each style complemented the other. The interview consisted of algorithm questions, white board coding questions, and personality questions.",
+        "questions": [
+            "basic algorithms and data structures \u00a0"
+        ],
+        "date": "Jul 18, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "this was a very simple interview process. there was a personal interview and 2 one-on-one technical interviews. The basics where asked as it was a entry level job.",
+        "questions": [
+            "Java definitions & simple data structure problems \u00a0"
+        ],
+        "date": "Nov 23, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Basic: phone screen, then on-site",
+        "questions": [
+            "Do an in-order BST walk without additional data structures and without recursion. \u00a0"
+        ],
+        "date": "Apr 7, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "The process was tedious and time consuming. The staff was somewhat friendly. They just stared at you the entire time. They always question your abilities and leadership skills. I feel as if the company needs to be more fair and respectful. I have never been in a process like this before. You must know someone from the inside of the company, to succeed in a job here. I will be\u2026\u00a0 going to DELL as their interview process is easier. IBM should be a shame.",
+        "questions": [
+            "Teach us the steps in technology \u00a0"
+        ],
+        "date": "Jun 15, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Was quite simple for me in that I was a contractor on a small team of contractors. Which is a good way for both potential employee to learn about IBM and also for IBM to learn about you, sort of a test drive. Key things are about execution, being thorough and thinking both big and long-term.",
+        "questions": [
+            "Was some time ago and really didn't do much of an interview, more of a trial. Most difficult thing was learning and programming on OS/2. \u00a0"
+        ],
+        "date": "Mar 5, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "In the phone interview, I was asked to introduced myself focusing on my developing experience and skills instead of being asked questions. Then I went to the second round interview, and talked with a technician in an office. I was asked how to design a website.",
+        "questions": [
+            "There would be a IQ test. Get well prepared for that or you might regret! \u00a0"
+        ],
+        "date": "Aug 14, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I first applied online and several months later scheduled two phone calls. The first phone call was simply preliminary background information such as what they department does and Q&A about my resume. The second phone call was a brief technical interview. This can vary depending on the department and position you apply. The last thing I had to do was to take IBM's IPAT test which is basically a skills/IQ\u2026\u00a0 test to determine how well you solve problems.",
+        "questions": [
+            "The IPAT test was strange but not too difficult so make sure you practice number series/patterns (ie: 2 4 6 8 .... what is the next number ) and converting word problems to algebra equations. \u00a0"
+        ],
+        "date": "Jan 10, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Two rounds of interview, first technical and second managerial round. Technical is difficult to get through but after that Managerial round is easy one. Most of the times they negotiation on salary part but I heard asking technical or case study types questions as well.",
+        "questions": [
+            "They will ask you more technical questions. \u00a0"
+        ],
+        "date": "Dec 10, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "The interview process has 1 HR phone interview and 3 Technical Phone interviews, the HR interview had questions about the team work etc, pretty easy. The technical interviews went through my experience in Analytics and few questions on Data processing.",
+        "questions": [
+            "How do you build a multi tenant cloud system \u00a0"
+        ],
+        "date": "Oct 8, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Had an interview on campus and then went to the rtp office to meet with the hiring manager.",
+        "questions": [
+            "Just questions on stuff on my resume, nothing too difficult. \u00a0"
+        ],
+        "date": "Nov 20, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Interviewed with my school's IBM recruiter and went on to apply online to the job postings I thought would best fit me. The recruiter sent the hiring managers a personal note along with my resume and application. I received an email a few weeks later asking to schedule a phone interview and asking me to rank my software skills. Phone interview went well and I got invited to an in\u2026\u00a0 office interview a few weeks later. Office interview started with a technical interview with a current Software Engineer and ended with a standard interview with the Manager. Received a call a few weeks later from the Manager informing me of the offer I would be receiving later that week and accepted the offer.",
+        "questions": [
+            "Name three different data structures. \u00a0"
+        ],
+        "date": "Jun 30, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "5+ weeks",
+        "role": "Software Engineer",
+        "details": "Met with 6 folks (some managers and tech leads) in a single day that began at 9am and ended at 4:30pm. Managers tended to describe the products and gauge how my personality might fit within the team. Technical leads grilled me on some of the finer points of Java development, heap/stack questions, and JEE. I was also asked brainteaser / riddle style questions. While in the presence of the interviewer,\u2026\u00a0 I was asked to draw on the whiteboard and talk my way through solving the riddle.",
+        "questions": [],
+        "date": "Oct 12, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "One phone interview, one onsite interview. Questions in the screen process is easy. They are more looking for candidates that are dedicated and show interests of working for them. I have to say the recruiting people are better at looking for the right candidate than I am at looking for the right position.",
+        "questions": [
+            "Dictionary in C to query data \u00a0"
+        ],
+        "date": "Nov 16, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "1 round of telephone interview and another round of onsite interview with mixed behavioral and technical questions",
+        "questions": [
+            "Why did you leave your last job? \u00a0"
+        ],
+        "date": "Aug 19, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Technical interviews, technical/logic tests, not bad",
+        "questions": [
+            "Nothing too tricky \u00a0"
+        ],
+        "date": "Aug 17, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Communication skillsorder managementbody languagetesting skillsaptitudeattitudegroup discussionspublic speakingtelephonic interviewclient communicationwalkthroughtest plantest labHP QCtest automationtest scenarios",
+        "questions": [
+            "How would you test a calculator \u00a0"
+        ],
+        "date": "Jun 25, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "The interview process was fine and good. Good interviewrs and they were so clear about what they want from me. I was been frank with them and that helped me a lot in acquiring this position. Loved the interview process",
+        "questions": [
+            "My name \u00a0"
+        ],
+        "date": "Nov 24, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "1) Phone interview with hiring manager2) On site interview => least technical and challenging out of all the other interviews I've had with other companies",
+        "questions": [
+            "How to test a GUI window \u00a0"
+        ],
+        "date": "May 5, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "5+ weeks",
+        "role": "Software Engineer",
+        "details": "The interview process was very easy and consisted of 3 phone interviews of about a half hour a piece. They asked no technical questions - only questions about my resume. I am still waiting to hear on an offer or denial.",
+        "questions": [
+            "They only asked me questions about my resume. I supposed that was unexpected. \u00a0"
+        ],
+        "date": "Apr 18, 2013"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "First, i received a call online",
+        "questions": [
+            "when to use a container vs abstract class? \u00a0"
+        ],
+        "date": "Mar 24, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "*Please note that due to the size of the company this process may vary.The interview came in three distinct phases. All were conducted over the phone. I was referred to the company by an employee so they seemed to be confident to not need an in person interview before making the decision.Phase 1 was speaking with someone from the skills management department. She was a neutral party unaffialited with the\u2026\u00a0 department I would be interviewing with. She gave a breif overview of the company and what the position would be. After confirming I was still interested I continued to phase 2.Next was a discussion with the hiring manager. This was not technical at all; mostly a meet and greet for both parties. I was asked mostly about my background and what I why I wished to work for the company. The manager shared some details about how the department operates and what I would be doing if I were to accept the offer.Phase 3 was the technical interview. I had expected a number of whiteboard style questions but there was a distinct lack of them. I had already sent in some code samples of a game that I had created previously. The most technical questions related to the reason why I had made certain design choices when designing the code for the game. After that, the questions become more about myself and why I was passionate about technology and to see if I really enjoyed working in this field. Once I believe the interviewer was satisfied with my ability the interview became less about one way questions and more about free flowing conversation to see if I would mesh well with the team. Shortly after this interview the hiring manager called to let me know that they would be extending an offer to me soon.The experience was a very positive one.",
+        "questions": [
+            "What was most unexpected was the lack of typical whiteboard style programming questions in favor of other topics. \u00a0"
+        ],
+        "date": "Sep 8, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ months",
+        "role": "Software Engineer",
+        "details": "First, I was first brought in for a day long interview with three people. I was asked mainly behavioral questions and a few basic Java questions. Then after I was initially turned down, they contacted me for another interview during a second hiring phase. This was just a phone interview about my interests and to explain the opportunities available. Afterward, I was given a project to complete and present to\u2026\u00a0 a technical lead. Finally, they had me take an online intelligence test. I was offered the job shortly after that. It was a long process that began in March and ended in July, but there is an excellent job at the end of the road if you can stick with it.",
+        "questions": [
+            "Why would one use pass by reference instead of pass by value? \u00a0"
+        ],
+        "date": "Jul 17, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "One phone interview with a panel",
+        "questions": [
+            "personal view on how to handle difficult situations \u00a0"
+        ],
+        "date": "Feb 20, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "I met with a recruiter at the Spring Engineering Career Fair at the University of Iowa and he took my resume and we talked a little. Shortly afterward I received an e-mail from IBM asking to set up a phone interview. A couple hours after the phone interview I received an email from a hiring manager asking me what I would expect as a salary. Finally, over the course of\u2026\u00a0 about 2 weeks I had to fill out an application and take an aptitude test.",
+        "questions": [
+            "The question was \"How do you swap two values without creating a new variable?\" \u00a0"
+        ],
+        "date": "Mar 8, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "phone interview, followed up by a technical in person interview",
+        "questions": [
+            "describe a time you misjudged someone \u00a0"
+        ],
+        "date": "Feb 19, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Very professional! Questions about past experience and ability with certain languages. Talked about the culture of the company and the ability to succeed as part of the team. Overall fair interview.",
+        "questions": [
+            "Tell us about yourself. \u00a0"
+        ],
+        "date": "Oct 22, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I was contacted by the Manager of the Group, and invited for an on-site interview.",
+        "questions": [
+            "Soft skills questions.. What experience do you have, and how would you deal with when working with someone culturally different, and you are having communication issues? \u00a0"
+        ],
+        "date": "Jan 31, 2013"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Talked to a recruiter at a career fair. He then emailed me back about a week later, and a week after the email I had a phone conversation with him and another guy. They just asked me about my resume. I had to take a critical thinking test (which I thought I had done really bad on), but within two weeks, they wanted me to come down and visit their\u2026\u00a0 campus (in Rochester), and I went and talked to the recruiter for about half an hour. I then talked to a team of about 10 people from various parts in that division. It was incredibly laid back, the conversation with the team was about their experiences with IBM and a little about what I had done - it was more of a conversation than an interview. They made me a very reasonable offer (highest I got) but I accepted with a different company doing work I'd rather be doing - their work sounded kind of dry",
+        "questions": [],
+        "date": "Nov 28, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "My interview was 1:1 for the first round and a panel for the second. The interview was pretty straightforward. We went through my resume and she asked about projects that I did for school. The panel interview was one of the technical guys asking about 3 tech questions.",
+        "questions": [
+            "I didn't have any unexpected questions, I went through extensive interview training prior \u00a0"
+        ],
+        "date": "Mar 4, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "University Campus recruiting. Required to put in online application to apply for the job. Had to wait about a month to get interview. Interview was over the phone and took about 75 minutes.",
+        "questions": [
+            "Do you like hot weather? \u00a0"
+        ],
+        "date": "Apr 13, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Straight forward, very friendly, multiple people in one day but a streamlined process. Lasted about 3 hours to meet with 4 people, very conversational. They just want to get a feel for how you are with the team, whether you're willing to learn and take initiative with the company and duties.",
+        "questions": [
+            "How do you feel about being on the phone for hour-long meetings? \u00a0"
+        ],
+        "date": "Jul 30, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Very casual interview done over lunch at local restaurant near school. Didn't ask many hard questions, just tried to get to know me. Submitted resume, credentials, etc online and also took a online math diagnostic test. After being hired \"orientation\" lasted for the day (tour of facilities, badging, getting laptop, etc).",
+        "questions": [
+            "No difficult questions were asked. \u00a0"
+        ],
+        "date": "Sep 14, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "communication is most important ...that is we have then we satisfied all query..requirement...",
+        "questions": [
+            "to developd to class software describe it \u00a0"
+        ],
+        "date": "Jun 24, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Many employees come in after one (or often many) internships. The internship interview was less technically challenging than some other companies'. There were two phone screens before hiring as an intern. Both interviewers were friendly and helpful.",
+        "questions": [],
+        "date": "Sep 4, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "phone interview, the on-site interview",
+        "questions": [],
+        "date": "Apr 28, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "IBM came down to the university for the Emerging leaders program. I was interviewed on campus by an IBM representative, and later called onsite at their RTP campus. Discussion was primarily on my technical background.",
+        "questions": [
+            "How do you see yourself 5 years down the line ? \u00a0",
+            "Describe your favorite project \u00a0"
+        ],
+        "date": "Mar 9, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "initial communications with company,organization and plan the interview as per the norms of the company one should be able to express her him in front of an interviewer in a presentable wat thats all..",
+        "questions": [
+            "questions might be asked related on java and other progamming languages \u00a0"
+        ],
+        "date": "Jun 5, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "I friend of mine in the company send my resume directly to the hiring manager. From there, the first interview was over the phone with a senior architect. This interview was not too technical but more to find out more about my background. However, he did asked me several technical questions. The second interview was on site, and it was a half day of interviewes. First, I interviewed with the\u2026\u00a0 hiring manager and two developers from the team I was applying. This interview focused on my previous work and how I would respond to certain challenges. Nothing to technical. From there I met with two other senior architects individually. One of them asked me technical questions and other was more informational of what the team was doing and how I think I could help them. At the end f the day, I met with the hiring manager for last minute questions. Overall the process was not too difficult since there were no really hard technical questions (google style).",
+        "questions": [
+            "I guess the most difficult question was how my past experience had prepare me for this job. \u00a0"
+        ],
+        "date": "Jun 22, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "Technical questions all over the place, the interviewers are very nice though. Questions involved toss coins, the probability of two boys if one of them is a boy. How to calculate the conditional probability of xxx if conditioning on xxx?",
+        "questions": [
+            "What's a virtual function, why we need it? \u00a0"
+        ],
+        "date": "Feb 7, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Was already working as a contractor when got hired.Was recommended by the contracting manager.Went through a series of personality tests and interviewThe tests were timed. Had to submit resume as well along with cover letterThe interview process now has changed. You apply online. If selected, a phone interview and then an interview in person. IBM is hiring mostly overseas where wages are low and don't have to pay US salaries.",
+        "questions": [
+            "Went through a few written exams \u00a0"
+        ],
+        "date": "Dec 17, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "1 phone interview with project manager, 1 phone interview with team member, IQ test",
+        "questions": [],
+        "date": "Jan 5, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "One telephonic followed by face to face. They will ask about your earlier projects, will do verification with last 2 employers. They will negotiate salary immediately after cracking interview. They will ask you to join as soon as possible.",
+        "questions": [
+            "Java fundamental questions \u00a0"
+        ],
+        "date": "Aug 25, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "phone interview, onsite interview, people are nice there. and lunch interview is good. did some programming tests and asked about technical questions, what i did in the past. some situation questions, what do u plan to do in the future.",
+        "questions": [
+            "what do you think your former employee will talk about you? \u00a0"
+        ],
+        "date": "Sep 25, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "-Why do u want to work for IBM?-Are you willing to relocate?-Are you willing to trave?-resume screen with technologies I know and I am confortable with?-SQlLstatements. select & update- interviewer gave me a scenario that on writing a jsp page with 20 fields that query the database and ask me how I will procede and how long it will take me to complete the task",
+        "questions": [
+            "Object oriented questions: inheritance, overloading , overriding \u00a0"
+        ],
+        "date": "Oct 29, 2009"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "I had a phone interview with the hiring manager for an hour mostly technical skills, then i had an in person interview with 3 team members focused mostly on in different areas java, db etc and then i had an HR interview",
+        "questions": [
+            "how do you debug and application or system crash \u00a0"
+        ],
+        "date": "Sep 10, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ months",
+        "role": "Software Engineer",
+        "details": "Submitted resume, on campus interview, then one day visit to company",
+        "questions": [
+            "Straightforward technical questions \u00a0"
+        ],
+        "date": "Aug 15, 2013"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "was great - nice guys many questions regarding skills and experience company management structure- email contact with them was efficient and succinct - second part of interview with upper management seemed a little over the top and made me not want to work with them at all and the salary range was not what i wanted it to be.",
+        "questions": [
+            "where do you see yourself within the company ? \u00a0",
+            "where do you see yourself in 5 years ? \u00a0"
+        ],
+        "date": "Apr 13, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I used monster.com to get started since I found a posting that seemed a good match for my most recent experience. I was eventually contacted by phone and I was told I was on a short list with very few people ahead of me. If those people declined the job, then I would be made an offer.",
+        "questions": [],
+        "date": "Mar 31, 2009"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Hard tests online but work quickly and don't get hung up on questions and they are not too bad. Assessment centre day then possibly a further telephone interview to match with a manager.",
+        "questions": [
+            "The general questions: Teamwork, Leadership etc. Example on each of the IBM competencies. \u00a0"
+        ],
+        "date": "Jan 21, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Applied to a manager, and they arranged a recruiter and an engineer. Just go on site. Some random algorithm questions (more like brain teaser), and basic Database questions. Not very hard, and get the offer. Whole process lasts an afternnoon around 5 hours. They provide some free food during the interview.",
+        "questions": [
+            "Q: Basic C++ questions, like the difference between C++ and Java. Some brain teasers like 25 horses problem. Also Database question, like what is group by... \u00a0"
+        ],
+        "date": "Mar 1, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Interviewed with 6 people (I was considered for a couple of teams, so both leads interviewed me), some technical, some HR, some personality.Technical interviews were not hard and people were very nice and polite.",
+        "questions": [
+            "Describe singleton, hasmaps \u00a0"
+        ],
+        "date": "Oct 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "it is simple they ask a bit tricky questions related to programming languagesThe HR round is interesting, where is asks about the placed you to visit. It was really one best interview experience I ever had.",
+        "questions": [
+            "Related to project \u00a0"
+        ],
+        "date": "Oct 4, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "First written test consist of 4 program subjective , c language objective, then face to face interview, round was technical all questions were relatd to linux, c, data structure, mostly from linked list. ie find a loop in list delete a node from list etc etc",
+        "questions": [
+            "WAP to find wether the system is little endian or big endian. \u00a0"
+        ],
+        "date": "Nov 22, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I had an on-site technical interview with two engineers from the software teamthe interview was about 45 minutes - 1 hourThey have asked few algorithmic questions and language based knowledge questionsI had two more technical interviews and one HR interview",
+        "questions": [
+            "count the number of &amp;#039;1&amp;#039; bits in a given integer \u00a0"
+        ],
+        "date": "Sep 15, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "2 interviews, one with technical person, one with manager.You will be asked questions on interview that are harder than the day job.There can be a test instead of a technical interview.1 phone negotiation and talk with HR person.",
+        "questions": [
+            "Explain 3 design patterns \u00a0"
+        ],
+        "date": "Sep 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "i applied thorogh my college. It took two days to complete the process but it was easy to get inside if you are good at Operating system concepts. I were having questions in process scheduling and process life cycle, semaphore, mutual exclusion, memory allocation and etc., and then some simple puzzles to solve.",
+        "questions": [
+            "explain about process life cycle and process scheduling \u00a0",
+            "write code for how the file can be initiated and read from it? \u00a0",
+            "some puzzles \u00a0"
+        ],
+        "date": "Nov 22, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "College recruitment from NIT, DurgapurThe entire process took 2 days as there were many appliants. The firt round consisted basically of aptitude and LR along with a some technical questions. Almost all the candidates cleared the !st round barring a few. It is more difficult not to clear the 1st round than clearing it. Then there was only one interview round of around 10-15mins. Very basic technical questions regarding OOPs\u2026\u00a0 was asked as I had highlighted that in my resume.",
+        "questions": [
+            "Difference bw c and c++A basic puzzle and some HR questions \u00a0"
+        ],
+        "date": "Dec 10, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "The Interview process involved one visit to the site in Damastown and comprised of two interviews and two written exams. The first Interview was carried out by a test lead and development lead and the second interview was carried out by the manager. These interviews were followed by two written tests - one on the programming language of my choice and one general knowledge exam which included questions on CSS,\u2026\u00a0 HTML, JavaScript, Java and XML.",
+        "questions": [
+            "The first interview was carried out by two team leads. Their questions were general queries into my previous experience and the subjects studied during my time in college. The second interview was carried out by the manager and was used to get to know me on a personal level. \u00a0"
+        ],
+        "date": "Mar 16, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "1 online round : it is online round which have 3 section apt , logical and verbal section which contain total 100 question .i did 95 ques i think 90+ ques of mine was correct :D1 telephonic roundis it basically data structure based . they asked you simple ques but dig in very deep so prepare with all corner case complexity etc..",
+        "questions": [
+            "round 1 : online Aptitude round (60 min)\u00a0- it contain 100 apt , logical and verbal questionround 2 : telephonic technical round-various algorithms and data structure question1)working code for in order , pre order and post order binery search tree2)reverse linked list iterative3)avl tree insert and search algo and complexity for all ques4)many c++ ,java, OS, DBMS and networking concept \u00a0",
+            "Q design data structure which hold all word of dictionary ?? \u00a0"
+        ],
+        "date": "Jul 10, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I did a technical interview and a behavioral interview. The asked me about my past work experiences. They wanted to understand my primary technical interests and they finally explained what the open position was about.",
+        "questions": [
+            "They give me a Java code snippet and they ask me to find the errors. It was a fair interview that anyone with a decent Java knowledge could easily pass. \u00a0"
+        ],
+        "date": "Jun 30, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "7+ weeks",
+        "role": "Software Engineer",
+        "details": "Manager wrote an email to me and set a phone interview with me first. He said the decision will make after couple weeks, but the process took over 40 days. Then, he sent me another email for a 1:1 interview.",
+        "questions": [
+            "What was the biggest challenge project you have worked on?How did you solve the problems. \u00a0"
+        ],
+        "date": "Jul 23, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "home assignment (use java reflection api). you have 4 hours to complete it and submit via their site. then an onsite interview with a technical test. it lasts about 2.5 hours. 2 questions and a debugging assignment.",
+        "questions": [
+            "build a dictionary so that searching a prefix for all the words that starts with that prefix would be efficient. \u00a0"
+        ],
+        "date": "Sep 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "I think it was the first round interview over skype. The recruiter asked me to use an online editor, so that he could see my coding in action and thought process. He didn't seem that nice in his tone though it was rather easy. Thus, I was a little nervous, so my code didn't look that delicate and concise, and its been 10 days since the interview. So, I am\u2026\u00a0 not sure if I passed the first round or not. I am still waiting currently.",
+        "questions": [
+            "Write a program to check if a word is a palindrome \u00a0"
+        ],
+        "date": "Jun 3, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Interview peocess was very easy but they rolled out my offer after 1 month and there were 3 rounds..1st technical, then manageral and then hr........................Interview peocess was very easy but they rolled out my offer after 1 month and there were 3 rounds..1st technical, then manageral and then hr........................",
+        "questions": [
+            "Core java \u00a0"
+        ],
+        "date": "Jun 26, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "The interview process starts with a telephone screen to go over CV. If you pass, you get an invitation to an on-site interview, which consists of several panel and one-on-one interviews, a presentation, and an HR round.The on-site interview first starts with the manager, who describes the interview process. Following, there are several rounds of panel interviews with team members and other, related groups. The interviewers describe the tasks of\u2026\u00a0 the groups in detail and try to match your experiences to their work. They may sometimes dig very deep into your skills but are also interested in your personality by asking behavioral questions.For the presentation, they allot a 30 minute time slot with additional time for questions. Most of your interviewers for the day will attend and ask questions at the end.Next, there is an HR round. As usual, the HR people ask a ton of behavioral questions. In my case, they even made a mistake and asked some questions that are not allowed by law, however, when I notified them, they immediately backtracked and did not require and answer.Finally there were two one-on-one rounds with senior management, who are mostly interested in figuring out how you may prosper and achieve your career goals as a part of the company.All of the interviewers are very friendly and take their time to answer all of your questions in detail.",
+        "questions": [
+            "Panel questions:Are you willing to participate in coding reviews? In a coding review, how do you react if your code is criticized? If you review the code of a senior employee and discover severe deficiencies, how do you approach a resolution?HR questions:Greatest weaknesses and strengths? Give three examples each. Greatest achievement and worst failure, each with examples. What are your short, intermediate and long term goals? How do you resolve\u2026\u00a0 conflicts? Why this company? Why change from academia to industry? \u00a0"
+        ],
+        "date": "Aug 21, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "1. one hour for paper test about threads, dead lock, operation system, programming, database, fix the bugs in the code, there are mainly 12 problems in this paper test2. two software department managers hold a face-to-face interview, they will ask you some important details about your answers on the paper test3. write the program on the white board",
+        "questions": [
+            "1. delete one block from a single linked list(can only use one pointer)2. give a number of x, check if there are two elements in an array whose sum is equal to x, and improve your code \u00a0"
+        ],
+        "date": "Apr 13, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I've received an email from IBM saying that I have to pass an IPAT which is a test very similar to an IQ test. Basically you have around 1min 45 seconds to answer each question. (40 questions in total). After completing the test, i got a rejection email saying I didn't get the required score to pass.",
+        "questions": [
+            "- Continue the sequence : 1,3,5,7,... (20 questions)- Math problems (If a printer prints 300 pages in an hour is down for 10 min knowing that it takes 3min 45 seconds to restart, how much pages did it print in 2h 30min?) \u00a0"
+        ],
+        "date": "Mar 25, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "They are less interested on skills and more interested on salary negotiationsProject DetailsHow many team membersWhat were your roles?Easy questions on JavaAbstarction real time exampleCasting conceptsThreading concepts - SynchronizationProgram on Thread communicationException HandlingCollections - where you used ArrayList , Map, Set in projectHow to maintain user profiles in collections?Hibernate conceptsJQuery , json , ajax are you familiar with these ?",
+        "questions": [
+            "Can you join us in a Week! \u00a0"
+        ],
+        "date": "Feb 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I got an email for the interview. it was 1-1 interview, interviewer asked for the previous projects i have done besides the academic projects, some behavioral questions about conflicts with other people, if someone doesn't contribute to the project in the group.... and at the end one technical question, how to delete a node from linked list. It was pretty easy, haven't received any offer yet.",
+        "questions": [
+            "Deleting a node from a linked list \u00a0"
+        ],
+        "date": "Feb 2, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "They had a normal test of Quant and reasoning after that test of english was there which has formal. On clearing both the steps there was an interview. It was easy and casual where HR was only interested in basic IQ and communication skills. he also asked current affairs and basic questions about project. No specific subject.",
+        "questions": [
+            "current affairs and projects \u00a0"
+        ],
+        "date": "Sep 23, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone Interview, set a time through e-mail, get a phone call to talk about previous work, skills set you got, why, and ask about your most liked program language, basic coding questionsAnd lastly some algorithmic questions, optimize solution and etc.",
+        "questions": [
+            "what is your favourite Program? \u00a0"
+        ],
+        "date": "Feb 19, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "5 weeks",
+        "role": "Software Engineer",
+        "details": "There were 4 rounds totally, phone in, 1:1, technical, HR. It was easy, not many difficult questions, all were basics. Technical test was bit difficult. Interviewers were very friendly and was mostly trying to understand my passion to the particular role I was interviewing.",
+        "questions": [
+            "Related to particular skillets \u00a0"
+        ],
+        "date": "Apr 28, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Talk about your previous working experience, your projects (especially group project), your experience in dealing conflict, your passion for this position, how can you contribute to the specific team, easy technical question.",
+        "questions": [
+            "What is your weakness? \u00a0"
+        ],
+        "date": "Nov 17, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "4 rounds of technical interview, follow up by managerial rounds and HR rounds.After 1 week asked for documents submission. technical interview consists of questions related to OS, Linux, shell script, C, data structure, hardware knowledge , Testing, test methodologies, programming. They will also look for better communication and convincing ability. Also they look for how much you have interest to try out for anything that comes in your way. Overall\u2026\u00a0 attitude and teaming skill.",
+        "questions": [],
+        "date": "Dec 15, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "The Hiring process for Graduate programming involves submitting CV and academic results. An online numeracy litaracy and word problem solving test is required to complete. Its followed by a face to face interview.",
+        "questions": [
+            "Do you do any social work? \u00a0"
+        ],
+        "date": "Dec 16, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "it took 2 days , more than 500 students applied .It was off campus drive . IBM came to our campus.first ppt, then online testnext day was interview tech and then hr",
+        "questions": [
+            "all from resume . nothing else \u00a0"
+        ],
+        "date": "Aug 21, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "One Aptitute test and one Vocabulary and E-mailing test. Both were online tests. Aptitutde test was there for an hour, while Other one was of 20 minute. Whoever have cleared these round will almost get into the company unless and until they do some blunders. Process was very easy if you have gone through some Soft skill training and know some basic Mathematics and Programming langauges.",
+        "questions": [
+            "Tell me about yourself \u00a0"
+        ],
+        "date": "Apr 6, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "i was contacted by hr after three weeks and few days later scheduled for a technical interview with a member of the team. Interview went well and the interviewer was nice. IBM has a communication problem.",
+        "questions": [
+            "there was no unexpected question \u00a0"
+        ],
+        "date": "Sep 29, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Worst.No management and valid justifications.Hire in bulk and don't value cream candidates.They called as scheduled interview but it happened to be walkins Suggestion to never go for it.Went at 10 am in morning,got 1st round done at 6 pm.No management of HR operations at all.",
+        "questions": [
+            "Asked in HR round to work for just in 10 percent hike and don't expect much later upfront. \u00a0"
+        ],
+        "date": "Sep 28, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Had two interviews, one over the phone, another onsite. Most pleasant experience with interviewers. Mostly algorithmic questions over the phone, such as given a number and integer array find if there are two elements that sum to the target.Onsite interview also primarily technical, one of them questions being given a string print it in a spiral into the matrix.",
+        "questions": [
+            "Design chess movement validation software. \u00a0"
+        ],
+        "date": "Aug 27, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "- Quite brief and clear process, 3 stage interview; Phone (HR/ Talent Acquisition),1st stage face-to-face (TL or Tech Lead), 2nd stage face-to-face (Manager/ Director).- Ensure to bring along the necessary documents required (as stated in email by HR) during face-to-face interview.- If your shortlisted, the hiring team will provide you few documents to complete (personal & dependents details, bank details, salary computation) and including a background check criminal record.",
+        "questions": [
+            "Why do you find yourself suit for the job? \u00a0"
+        ],
+        "date": "Jan 12, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "first i was contacted by phone, that wanted to setup a call for a technical interview and we set it up for the following week.on the day of the interview the interviewer called at the time and it was over all about 1 hour discussion , i talked about my slef , what i do what is my experience and what is my education ,then he asked me a technical\u2026\u00a0 question and we started to discuss it and along the way i was giving answers and suggestion for solving the problem he raised ( Navigation system - like Waze and how to model it and how search for a route).at the end we finished the session , he thanked me and said that i willl be contacted for further interview.during the week after IBM HR rep. sent me a mail and scehduled a meeting in IBM for the following week and i arrived to that interview and was interviewed by 2 project leads they asked me one technical question that was about modeling a digital circuite in a C Style Data structure and code to calculate the output of the curcuite , at end that took me to thier manager and we had another meeting with him and he gave me the work proposal and i took it , i started working there 1 month after.",
+        "questions": [
+            "interview over phone -talk about my self , why i want the job at IBM , talk about my previous experience , and then a technical question - suggest the data structures you use to implement a navigation system , how you old the data and how you search for route from s to t.frontal interview at IBM , talk about my self , they talked about IBM what the\u2026\u00a0 department do and then 1 question about logic circuit and how i five a C function to calculate output (recursive flow). \u00a0"
+        ],
+        "date": "Aug 27, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "1. Ipat testEasy to crack.practice series questions.Check sites n practice for 1 day easy to crackTime is a factor so try to solve quickly.a particular time is there per question n if time expires it will automatically get skipped2.tech interview + hrBasic easy question. Communication skill is a major factor..prepare well for technical interview if it is java or .net.. Only basic questions.",
+        "questions": [
+            "Tell me about yourselfWhy ibmTech in java asked fromThreadOverridingCollectionException \u00a0",
+            "Why IBM is called big blue \u00a0"
+        ],
+        "date": "Aug 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "I found their job post in a Job Board (glassdoor.com) and applied to their site directly. Few days later or a week after they called me and invited me for an interview. I was not informed of the written exam.",
+        "questions": [
+            "There were lots of coding items in the written test for 1 hr. First part is multiple choice. About Java threading and memory management. Second part is the coding. Most items are using arraylist. I was not able to finish the exam so during the interview they asked me how did I arrived with my answers. I felt I was able to answer them well or convinced them with my\u2026\u00a0 answers but I was wrong to assume on that.I made a follow up if I passed. Unfortunately, I receive the confirmation that they will not proceed further with my application. \u00a0"
+        ],
+        "date": "Apr 8, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone call from recruiter. She seemed distracted and not to be listening to my answers. Was very terse. Asked to complete and online test.",
+        "questions": [
+            "Why do you stand out for this role? \u00a0"
+        ],
+        "date": "Mar 8, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "I applied in their site, had to wait one month for first contact.First step was a Telephone interview where some technical questions were made and a review of my experience. Two days later i had the information i would have a face-to-face interview.In the second interview i meet the Manager and the Senior Engineer for the project, the interview started with a review of my professional experience, then moved to\u2026\u00a0 discussion of aspects like Continuous Integration, Technical Questions. Also another aspects of my soft skills were put on test during the interview.",
+        "questions": [
+            "Explained one of my projects architecture, the question was how i would rewrite the project \u00a0"
+        ],
+        "date": "Apr 18, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "3 rounds of interview - one written test followed by a one on one interview with an existing full time employee. This is then concluded by an onsite interview with a panel of interviewers. Interviews were technical with the exception of the group were a few general questions were asked. Hiring was a simple phone call and email followed by a one day on-boarding process which took care of legal\u2026\u00a0 details and company pollicies.",
+        "questions": [
+            "The most difficult question started of with a recursion of the fibonacci series. Then it progressed into obtaining algorithms that fit a use case eg. create a recursion that generates this subset of the sequence represented by a binary tree but has to execute in (n*logn) \u00a0"
+        ],
+        "date": "Feb 17, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "2 Rounds, 1 Technical and 1 Management Round",
+        "questions": [
+            "Why this Job Change? \u00a0"
+        ],
+        "date": "Feb 27, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I applied through campus recruitment process.First round was an online aptitude test which mainly comprised of sequences and series, time-work problems.The second round was another online test which had questions related to business writing, basic grammar.And finally HR interview which lasted for around 30 minutes.I was asked basic questions in C and the routine HR questions.",
+        "questions": [
+            "Basically, I am Biotech student.He stressed upon the reason to change my field. \u00a0"
+        ],
+        "date": "Jan 5, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "It was a one day process, aptitude test based o number series, refer the previous year papers, after that a verbel test which was based on business mails and simple english, then hr interview with usual questions.",
+        "questions": [
+            "Situation based quuestions \u00a0"
+        ],
+        "date": "May 13, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "It was off campus interview for freshers.Aptitude process and followed by interview based on resume.Asked me some presence of mind questions like advantages of pen other then writing, etc and project specific questions",
+        "questions": [
+            "What are the advantages of Pen other then writing? \u00a0"
+        ],
+        "date": "Apr 9, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "quantitative aptitude followed by gd, interview was pretty easy, all basic c, c++ questions",
+        "questions": [
+            "questions from c, c++, data structures \u00a0"
+        ],
+        "date": "May 16, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Very simple process applied directly to company, got interview and technical test",
+        "questions": [
+            "Some c++ questions about memory \u00a0"
+        ],
+        "date": "Mar 3, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Aptitude test was the first round. It had a lot of number series related questions. It was a bit challenging. But if you prepare with previous year question paper it would be quite easy. The next set was full of general aptitude questions. This was followed by communication proficiency test. It was quite easy. The HR interview was a cake walk.",
+        "questions": [
+            "General Questions like, self intro, and some questions on C C++, etc and some general HR questions like Why IBM etc \u00a0"
+        ],
+        "date": "Oct 2, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I got an internal reference from my friend. After the manager got my resume, I had a face to face interview at the company.",
+        "questions": [
+            "A bout my project at school. \u00a0"
+        ],
+        "date": "Jul 15, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "there are two round of online test . 1st round only aptitude and reasoning .time duration for each question is 2.15 sec. 2 nd round grammar test . vry vry... esy.....",
+        "questions": [
+            "tell me about your self?hare your interview experience insights with job seekers so that they can know what to expect during the hiring process. \u00a0"
+        ],
+        "date": "Aug 16, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Hi Friends,Here are some questions I faced. Hope they are useful to others.1. Tell us something about yourself.2. Do you have any other qualities which you have not mentioned in the CV?3. What are your limitations? What are you doing to overcome them?4. Why should you be hired for this position?5. Which is your favourite sport? Why?6. What would you do if a dam in your vicinity breaks and you\u2026\u00a0 find your village surrounded by water all of a sudden?7. Your performance in engineering has not been as good as 10th and 12th. Why?8. What are your hobbies?9. What do you want to work at IBM?10.What do you know about IBM?11.How do you rate your learning skills?12. Would you like to ask me any questions?",
+        "questions": [
+            "write a program on double linked list? \u00a0"
+        ],
+        "date": "Feb 26, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "There was 4 rounds of interview with a Written test, English proficiency test, Group discussion, final interview. Questions about C and C++, brain teaser. What would you do if you got stuck in a place with no transportation",
+        "questions": [
+            "Difference between C and C++? \u00a0"
+        ],
+        "date": "Mar 23, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Single phone interview between being invited to apply for a job and getting hired. I talked to the hiring manager and to an engineer on the team. I also had to do IBM's online standardized test, where you get 2 minutes to answer each of a series of logic or algebra problems.",
+        "questions": [
+            "Tell me about a project you worked on in school \u00a0"
+        ],
+        "date": "Dec 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "IBM started with an online aptitude test. Questions were very much confusing, and i dint see the point of those.After that interview process was very smooth. Though they dint gave choice for location. They just choose randomly people on based of written for various locations.They did gave many offer letters but the package was not up to what other companies offers for same position. Even the don't have much perks\u2026\u00a0 as other IT companies of same league",
+        "questions": [
+            "I dont remember the exact question, but they grilled us down in C programming.You must have deep C knowledge to clear C interview process. \u00a0"
+        ],
+        "date": "Jan 29, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "get a paper test first, the paper test include IQ \uff0c java/c++ and other computer science knowledge which include data structure, OS, and so on.",
+        "questions": [
+            "the data structure of soap message \u00a0"
+        ],
+        "date": "Jan 15, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone-call interview, skill interview, manager interview",
+        "questions": [
+            "Nothing, it won't be hard \u00a0"
+        ],
+        "date": "Jan 8, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "written , technical round and then HR.after written test, they took near about 4 days to announce the result and then they called me for the technical round. and then HR",
+        "questions": [
+            "creative thing you did in your life \u00a0",
+            "database questions and some basic programming skills \u00a0"
+        ],
+        "date": "Aug 21, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "2 phone interviews. 1 with the hiring manager and 1 with a software developer. Phone interview consisted of a number of questions to check my breath of knowledge. This was anything from OOPs concepts, data structures, databases, etc. Then i was called onsite where i was interviewed by 4 people.. There was a code review round, coding questions etc. Finally met with the hiring manager again. I heard back from\u2026\u00a0 them a week later with a coding exercise. Hear back from them a week later with an offer. Negotiated a bit and accepted the offer.",
+        "questions": [
+            "None \u00a0"
+        ],
+        "date": "Nov 24, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "1 aptitude test, 1 gd and an interview.the test was only for half an hour. questions were easy but time was the biggest factor.interview was rather pleasant.",
+        "questions": [
+            "how many white hairs on my head? \u00a0"
+        ],
+        "date": "Nov 1, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone interview, then on-site interview with direct manager and manager's manager.",
+        "questions": [
+            "Solve an algorithmic problem in Java. \u00a0"
+        ],
+        "date": "Oct 21, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I met through a friend and got hired via his manager. The hiring manager is professional and trust-worthy.",
+        "questions": [
+            "None. \u00a0"
+        ],
+        "date": "Sep 10, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "It was a campus recruitment process. First it started with an written test which was easy. Almost 80% of those who wrote cleared the test. Then we had letter writing in which we have write a letter to a client about an addv. This was the point were many got rejected. Then it was GD and an HR interview.",
+        "questions": [
+            "Interview is just HR for all mechanical students and all cleared the interview \u00a0"
+        ],
+        "date": "Dec 27, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Two telephonic interviews. One technical.",
+        "questions": [
+            "Implementing circular sort and search within a few minutes. \u00a0"
+        ],
+        "date": "Apr 4, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "My experience started in August with a trip to my University's career fair. After discussing my resume, shaking hands, talking about my interests, etc. I was handed multiple individuals business cards and told to apply online for a couple different positions as well as take their aptitude test online (the one with the math and other items).I applied online to 3 (maybe 4 - I can't remember since it was\u2026\u00a0 a while ago) positions and about a week later, got the \"Thanks but no thanks\" declination email for all of my applications. So, I looked into other companies and accepted an offer.Fast forward a couple weeks:I get a call from a representative at IBM saying that I was going to be extended an offer and that details had already been sent to me (I checked my email while on the phone and there they were). I asked if they had the right person and they responded with my name. I was surprised to say the least and explained to them how I was told to try again next year a couple weeks ago and ask why I was being approached now. They said that after looking over my application, they thought I would be a great fit.I declined on the spot over the phone because I had already accepted an offer a week earlier.There were no interviews (save for my conversation at the career fair), no questions other than the aptitude test, just an offer out of the blue.",
+        "questions": [
+            "The most unexpected part was getting an offer (a very competitive one at that) even though I went through no interview process and was earlier rejected.The most difficult part was their online aptitude test (and it was only the hardest because it was the ONLY thing I had to do) \u00a0"
+        ],
+        "date": "Dec 24, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "out of college, don't remember what was asked. but it wasn't hard since the manager wasn't technical either. :)",
+        "questions": [],
+        "date": "Jul 19, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "it was simple .. they just asked about myself and asked few technical questions.",
+        "questions": [
+            "some programmes were asked. \u00a0"
+        ],
+        "date": "Jul 27, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "written testVerbal written test which has the details of questions about aptitude, logical reasoning. - Just like GRE exam.Some folks had english language test alsoface to face interview - TechnicalDiscussion with ManagerDiscussion with HRTelephonic Discussion with director",
+        "questions": [
+            "More about data structures \u00a0"
+        ],
+        "date": "Nov 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "It was a thirty minute screening interview. I was asked about my background and informed about the position and the work at IBM. It was an exciting opportunity, but it was obvious that I wasn't a good fit.",
+        "questions": [
+            "What do you know about IBM? \u00a0"
+        ],
+        "date": "May 6, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Everything they asked what ever you have........",
+        "questions": [
+            "what is the idea behind graphics.h ...... full technical description? \u00a0"
+        ],
+        "date": "Apr 16, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "Is there any one who can tell me how much time it might take to get the official offer letter after the verbal offer.? Thanks",
+        "questions": [
+            "Ask questions about projects \u00a0"
+        ],
+        "date": "Apr 18, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Java:What is Garbage Collection?C++:staticDatabase:What is Descartes?Algorithm:How many sorting algorithms are there?Software Test: software test classification?",
+        "questions": [
+            "Java:What is Garbage Collection?C++:staticDatabase:What is Descartes?Algorithm:How many sorting algorithms are there?Software Test: software test classification? \u00a0"
+        ],
+        "date": "Mar 4, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "The phone interview was based on the OOP concepts and a few basic database questions. They just want to know tht whether you have the idea or the base to workThen in 1:1 interview they ask a few indeatils OOP concepts again, n the interview is calm as the interviewer was really nice and if we dont know something she would help by giving hints and aslo explained abt the\u2026\u00a0 kinda of work they do very nicely.",
+        "questions": [
+            "What is advantages of OOP ? \u00a0",
+            "Diff bwt abstract and interface? \u00a0",
+            "what are static blocks? \u00a0",
+            "All other core java questions and basic DB questions like types of joins, normalization \u00a0"
+        ],
+        "date": "Apr 3, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "at very first they conducted an group discussion of 6-members in one panel and around 150 members attended the interview. In that some people were selected forwarded to next round that is technical interview and i got through it and went for last round that is personal in that i was failed to express my views when interviewer started asking question",
+        "questions": [
+            "how do you manage your typical day? \u00a0"
+        ],
+        "date": "Apr 28, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "very long and antagonising, the process began with me applying online then, once they chose me, i went in for an interview. i then sat down with the employer worker and he then asked me a series of questions.",
+        "questions": [
+            "have you had any experience being a software engineer at another corporation? \u00a0"
+        ],
+        "date": "Oct 11, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I took 2 written exams. The first one is IQ test and the next one is a technical exam. When the test results came out as positive, you will be called for a panel interview. Questions are technical in nature. If the result is positive, you will have another round of interview with the project manager. The questions were more personal in nature.",
+        "questions": [
+            "What is the biggest challenge that you faced in your career? \u00a0"
+        ],
+        "date": "Mar 2, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Attending interview with peaceful mind makes you more confident.",
+        "questions": [
+            "Why your aggregate is less? \u00a0",
+            "Why your choosing IT field not business ? \u00a0"
+        ],
+        "date": "Jun 17, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "process was pretty much standard and we company followed the standard process and all the employees which gave this interview was selected via normal process. Post that had discussion with the HR folks and the salary negotiation got finalised.",
+        "questions": [
+            "standard SDLC life cycle questions. \u00a0"
+        ],
+        "date": "Mar 17, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Server based online test. Then group discussion on a general topic to check for effective communication skills. This was followed by a 1:1 interview. Self introduction followed by questions about the final year project . then basic HR questions like willingness to work in any location. and if having any other previous offers",
+        "questions": [
+            "If our final project was developed as real time system what would be its estimated cost? \u00a0"
+        ],
+        "date": "Jun 21, 2012"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "applied for java & j2ee for software engineer, interview questions were mostly from core java and oops concept, cleared all the rounds there..",
+        "questions": [
+            "oops concepts in depth with examples, deep about oops features, why they came, what are they used for, collection features & conditional questions \u00a0",
+            "database conditional queries \u00a0"
+        ],
+        "date": "Nov 26, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "role": "Software Engineer",
+        "details": "1 Interview with HR, 2 Technical Interview, 1 Manager inteview.Exactly what you can expect when dealing with a big corporation.I received the final feedback 1 week after the final interview and the offer letter after 2 weeks.",
+        "questions": [
+            "The technical interviewers did not go very deep in technical stuff. Unexpected. \u00a0"
+        ],
+        "date": "Jan 13, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "1.- Phone interview to know about yourself2.- Technical questions about DB2 Administration (Backup strategies, Performance and Tuning, load) / Shell development (linux commands awk, grep, sed ) / Unix/Linux system commands, User, Groups etc.. /Java Development questions3.- Describe past projects and how you resolved them",
+        "questions": [
+            "Data migration process within shell scripting and system monitoring commands \u00a0"
+        ],
+        "date": "Aug 16, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Interview was a very pleasant experience. Started with HR asking few puzzles followed by 2 rounds to technical and final HR round",
+        "questions": [
+            "why do u want to join our company.. \u00a0"
+        ],
+        "date": "Apr 2, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "High level questions, for the support role. Regarding the role software developer you need to pass a test in Java or C++, you can choose. In general depends the position and the band level.",
+        "questions": [
+            "Did you have have use a configuration file? \u00a0"
+        ],
+        "date": "Jun 7, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "Two interviews.The first one consisted of a meeting with the future team leads and a Java test on paper. Questions mainly concerned my CV and education. Java test was very easy.Second interview was with the managers from Ireland and US. Phone interview. Questions on Java. From text book. Relatively easy questions.",
+        "questions": [],
+        "date": "Oct 14, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "4 interviews, they ask you everything and try to make sure you know it all, just to ruin your life stay away from this hell",
+        "questions": [
+            "if you are going to mars, what will you take with you(only have 2 choices) \u00a0"
+        ],
+        "date": "Sep 5, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "one interview which includes-call,face to face,group discussions....",
+        "questions": [
+            "why are you choosing our company? \u00a0"
+        ],
+        "date": "Sep 12, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Asked about my study carrier.Got a good conversation regarding my college project with interviewr.Asked about my background and my flexibility level to work.",
+        "questions": [
+            "Background,Project,Communication \u00a0"
+        ],
+        "date": "Jun 6, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Rather easy. First a test about programming in Java. If u have SCJP you should be fine with the knowledge. In addition some questions about databases and UML. Standard questions about describing a project, challenges in it and solutions for them.",
+        "questions": [
+            "Difference between checked and unchecked exception, when to use each of them. \u00a0"
+        ],
+        "date": "Mar 29, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "It was good interview. They asked me some basic questions about core java, struts. It was nice experience got me in last 3 employers. It is very easy interview and the process",
+        "questions": [
+            "Core JAVa, Struts \u00a0"
+        ],
+        "date": "Nov 26, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "The interview process was done by: first interview with the hiring manager who mostly asking about more soft skills to see if you fit with the company/team culture. Then the hiring manager invited the team leader who was focused on understanding your capability to excel the job requirements. Afterwards a second manager from the company walked in to have a casual chat. All the process was done within one day.",
+        "questions": [
+            "Past experiences related the job content (in my case was Linux operating system) \u00a0"
+        ],
+        "date": "Jul 25, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "1st Q:Write a C function that reverses a single-linked list.2nd Q:Write a C function that compresses a C string from a sequence of characters to a sequence of characters & the # of consecutive times they appear. For instance, Compress(\"aabcccdd\") = \"a2b1c3d2\".3rd Q:Describe an algorithm that enable a host to store its state on a storage system & recover from it.",
+        "questions": [
+            "Write a C function that reverses a single-linked list \u00a0"
+        ],
+        "date": "Jul 11, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "He gave me some problems and asked me to write pseudo-codes of C++ method to solve that problem on the whiteboard. While writing, he asked me things like how my algorithm worked, why I used this data structure, what were the advantages of using this instead of others, what were possible errors and exceptions that I need to handle.",
+        "questions": [
+            "Given an array ar[ ] of numbers, write a method to return array ans, where ans[i] equals to the product of all all elements in ar[ ] except ar[i] \u00a0",
+            "Given two strings, determine whether the one is anagram of the other \u00a0",
+            "Give an idea of data structure to represent a document of characters which has highlights on some groups of adjacent characters \u00a0"
+        ],
+        "date": "Apr 19, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "3 stages, with 3 different managers level. The first 1:1 interview was to let recruiter understand candidate character and job affinity area. The second 1:1 interview was lead in foreigner language (English) as assessment of the grade. The final 1:1 was with board of direction that conducted supplemental interview to complete candidate profile.",
+        "questions": [
+            "what would it be your worklife balance ratio? \u00a0"
+        ],
+        "date": "Oct 30, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Write C++ code & review another.",
+        "questions": [
+            "Write in C++ a parser for a string that clean more then 1 occurrence of a given char. \u00a0"
+        ],
+        "date": "Mar 27, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "A project resource initially conducted the Technical round of Interview at IBM location on phone. Then said I will be notified of the outcome. After a few weeks got the call from the HR and said they wanted to have another round, and the same resource conducted this one as well. This time, he verified if I have got myself updated based on the previous interview.Once done with Technical Interview,\u2026\u00a0 HR contacted me and had a discussion for half an hour. This primarily was only salary negotiation.",
+        "questions": [
+            "Are legacy systems better or new technology \u00a0"
+        ],
+        "date": "Jun 29, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Easy and simple to understand process with 3 rounds including aptitude, technical and HR round. Team was helpful and supportive without any major issues. This make easier for team to do the process and going through the overall interview excessive was very helpful. This shows the credential and process capability of the interviewer and depth of the knowledge.",
+        "questions": [
+            "What was the Linux and OS parameters and how to tune database \u00a0"
+        ],
+        "date": "Jul 8, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "3 rounds of interview process, first via external agency. First via phone, second at agency and final with IBM HR. It took quite a while to get a definite offer, but finally after one month I got the green light.",
+        "questions": [
+            "Interesting question was to estimate the fuel consumption of private cars on an average day in Amsterdam. \u00a0"
+        ],
+        "date": "Nov 17, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "Day 1:- written test which includes lots of mathematicsDay 2:-long and sluggish interview process.Which included HR interview plus Techinical Interview.DAY:-3- Result announcement and filling the employement form.",
+        "questions": [
+            "Why IBM? \u00a0",
+            "Why IT? \u00a0"
+        ],
+        "date": "Apr 27, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "First there was a written test, which had apti n mahematical questions and there was a different section on computer science which comprised of data structures and algo. Then after shortlisting, 1st rounf of tech interview.1. Serialization in Java.2. Life cycle of a servlet.3.Synchronization in Java.4. XML related questions.\u00a0\u00a0Could answer almost all of them.Then was a managerial round followed by HR and offer.",
+        "questions": [
+            "Life cycle of a servlet \u00a0",
+            "Synchronization in Java \u00a0"
+        ],
+        "date": "Jun 12, 2012"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I was asked basic computer science algo, OS concept and C programming questions.",
+        "questions": [
+            "Reverse a singly linked list \u00a0"
+        ],
+        "date": "Jan 1, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Interviewed through campus , got through an apptitude, technical and a hr. Simple and lengthy interview process, no need of doing this",
+        "questions": [
+            "Spelling of Czechoslovakia \u00a0"
+        ],
+        "date": "Aug 29, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "3+ weeks",
+        "role": "Software Engineer",
+        "details": "Hiring process was smooth, While the interview process was a bit rocky...Invited for the technical interview, Made to wait for 20 mins. Technical interviewer finishes the interview. Made to wait for 2 hours to inform that the Mangerial round of interview will not happen the same day. Had to travel to IBM office after a couple of weeks and the interviewer was rude as he was asked to take this\u2026\u00a0 interview all of a sudden and he didnt have time for me. FInished the interview, no salary negotiation.Offer letter was send by courier in a weeks time, well behaved HRs. HRs responded to all queries.",
+        "questions": [
+            "All straight forward questions in technical roundManagerial round was with open ended questions and interviewer showed lack of interest in interviewing. \u00a0"
+        ],
+        "date": "Feb 22, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "Aptitude Written Test , 2 technical written test , 2 technical interviews , 1 managerial",
+        "questions": [
+            "Database normalization process \u00a0"
+        ],
+        "date": "Feb 21, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Ordinary questions about Java,J2EE, describe a tough or interesting project you experienced, how did you handle challenges",
+        "questions": [
+            "No special question. \u00a0"
+        ],
+        "date": "Feb 26, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Phone interview with Manager. Programming questions and \"fit\" questions.",
+        "questions": [
+            "Describe a situation in which something went wrong, and how you dealt with it? \u00a0",
+            "What are your biggest technical flaws? \u00a0"
+        ],
+        "date": "Mar 27, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "An online written, followed by telephonice interview, then a written test. Two technical rounds, a manger round with two people.The HR is super slow, the worst I have seen keep calling or they would never process it :), and even after you are selected you may not get the offer for a month, be careful.",
+        "questions": [
+            "Core java dn design questions \u00a0"
+        ],
+        "date": "May 31, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Technical Interview was very intense with a strong focus on basic concepts.",
+        "questions": [
+            "Technical Questions (Mainframe) \u00a0"
+        ],
+        "date": "Jun 21, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "First there will be phone interview,and then paper technology test.After that ,you will be notices by a 1-1 face to face interview ,technology staff.And then there will be the manager interview mainly about your character.",
+        "questions": [],
+        "date": "Dec 12, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "IBM's fresher recruitment includes, aptitude, technical test, GD, Technical interview and HR interview. Technical round will be easy if you have scored good scores in technical test.",
+        "questions": [
+            "HR interview is lengthy and includes some stress interview also. \u00a0"
+        ],
+        "date": "Nov 23, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Easy to crack",
+        "questions": [],
+        "date": "Jun 10, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "The test is of group basis. A group of candidates are required to finish a set of questions printed on the paper. The paper covers 3 aspects: Technical, English and Ap. Test. For the technical part, candidate can choose either answer in C++ or Java. I chose Java an the questions mainly focus on OO concepts like what is polymorphism...etc. The English part asked some simple English questions while the\u2026\u00a0 Ap. Test is a very demanding one. It requires candidates to finish 30 logical questions within 5 mins.",
+        "questions": [
+            "What is Polymorphism? \u00a0"
+        ],
+        "date": "Apr 28, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "This year (2010) IBM India planned to hire about 10,000 new recruits (freshers + experienced personnels), so it was relatively easier (I strongly stress \"relatively\") to get counted in. We first had a 1-hr aptitude written test, followed by a group discussion of 15 mins. After that we had 1:1 personal technical interview. The final interview was the HR round. What bothers me is that the package they offered is\u2026\u00a0 below my expectation for such a strongly reputed company. The drift to more service-based work is another scare.",
+        "questions": [
+            "Puzzle: How do you weight an elephant without using a weigh machine? \u00a0"
+        ],
+        "date": "Apr 23, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Initially there was a written aptitude test. It consisted of 3 sections. No technical ques at all. Just checking your IQ. Questions were not difficult but time was very limited.\u00a0\u00a0\u00a0\u00a0\u00a01st section consisted of 20 ques on matrices. there were few matrices(5x5, 6x6 etc.), each of them consisted of some numbers and alphabates and few ques on them such as swapping the rows and columns, locating rows n columns satisfying certain\u2026\u00a0 conditions(time - 13 min). I attempted 12-13. NO Negative marking.\u00a0\u00a0\u00a0\u00a0\u00a02nd section consisted of 20 questions(time - 4 min). on number series (very simple). I attempted 18. It had negative marking.\u00a0\u00a0\u00a0\u00a0\u00a03rd section was mathematical quantitative aptitude. It consisted of 15 ques(time - 15 min).It was toughest among all sections. I attempted 6-8. It had negative marking.\u00a0\u00a0\u00a0\u00a0\u00a0Then Group discussion and finally technical and HR interview. There may be 2-3 interviews depending upon the interviewer and your performance. They just ask your TE, BE project and some ques on data structures, C, C++ and database.Interview is not so difficult but you need good communication skills.\u00a0\u00a0\u00a0\u00a0\u00a0This way I got selected...Best luck for you.",
+        "questions": [],
+        "date": "Jan 25, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "This consists of the three phases. The first phase is apptitude where speed really matters. in the secon phage the GD round. after that person will have technical round and hr round. they will ask the question mainly from the area you are intested in. simple algorithms to implement.",
+        "questions": [
+            "What will happen if you don't get the work of your own choice? \u00a0",
+            "Basic concepts of object oriented programming. \u00a0"
+        ],
+        "date": "May 26, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "It was good",
+        "questions": [
+            "Questions on database? \u00a0",
+            "Questions on Project in CV? \u00a0"
+        ],
+        "date": "Jun 5, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "They take a written test and then 2 rounds of interviewsInterview process fairly simple and iviewers may ask random question as they are not trained .Mine was campus recruitment so everything went smooth.You dont get very much technical advancement inside the company and most people who are looking for technical growth leave the firm shortly .",
+        "questions": [
+            "How to detect loop in a linked list \u00a0"
+        ],
+        "date": "May 9, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "nice people, very friendly and approachable.question range is quite largea lot of things need to covergenerally, just be natural, keep calm and talk a lot, sometimes they will give hints or something to help out if you seems to get stuck.just general ideas also help i guess",
+        "questions": [
+            "Given an array of size n, find all the possible sub set of the array of size k(all the subsets must be of size k). \u00a0"
+        ],
+        "date": "Nov 26, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "For freshers they hire from campus generally tier1-2 colleges like NIT,IIITsFor experience teamlead will take your interview and 1-2 team members also",
+        "questions": [
+            "There was nothing like difficult question , they just ask for what they want you to know \u00a0"
+        ],
+        "date": "Dec 1, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Met with managers and team members",
+        "questions": [
+            "Did not get technical questions at all \u00a0"
+        ],
+        "date": "Mar 27, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "3 rounds of interviewround 1: aptitude testround 2: computer science objective testround 3: One on one PI",
+        "questions": [
+            "Given a paragraph containing ( , {, [, ], }, ) and other ascii charcters.You need to find whether all the brackets are correcly placed aor not. \u00a0"
+        ],
+        "date": "Dec 1, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "I applied online for a job at IBM. I heard from an IBM hiring manager and had a brief phone interview. Since there was a match, I was invited to come into the office for a formal interview. There were four people at the interview including myself. The interview was reasonable. I thought I did ok, but I did not hear anything for several weeks. I followed up, but they\u2026\u00a0 said the position had been filled. No hard feelings, however better communication on their part would have been nice.",
+        "questions": [
+            "Can you name a situation in which you failed ? \u00a0",
+            "Where do you see yourself in 5 years ? \u00a0"
+        ],
+        "date": "Jan 10, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Interned at the company, then was sent to the Assessment Center for interview with HR, group discussions and role plays (4 others were invited for this day), a presentation and multiple 1:1 interviews with technical people.",
+        "questions": [
+            "How would you design a search engine, what components does it have? \u00a0"
+        ],
+        "date": "May 1, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Team lead asked questions related to the product and general Java interview questions",
+        "questions": [
+            "About OS level threads \u00a0"
+        ],
+        "date": "Mar 17, 2011"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "It was very nice and comfortable. 10 of us were all seated in a row facing 3 judges. We were all asked to describe ourselves, our strengths and weaknesses, our motivation for the position. The company culture was very nice but I turned down the offer because there were sales quota to be met.",
+        "questions": [
+            "Why did you take so long to apply? \u00a0"
+        ],
+        "date": "Jun 15, 2009"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "It was a on-campus recruitment process. First there was the pre-placement talk then the written test was help which consisted of technical as well as analytical questions. Then there was one round of technical interview which comprises of basic questions from OS,DBMS,Software Engineering. And then the results were anounced and offers were made to the selected candidates.",
+        "questions": [
+            "All questions were pretty simple and basic related to OS,DBMS etc. \u00a0"
+        ],
+        "date": "Aug 3, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "The interview was pretty based on my resume. I was asked about my previous engagements, also some technical questions. Finally we discussed remuneration package. All in all it was a pleasant experience.",
+        "questions": [
+            "How will you describe yourself? \u00a0"
+        ],
+        "date": "Jul 3, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "i b m",
+        "questions": [
+            "Why do you think,\"You are suitable for this job\" \u00a0"
+        ],
+        "date": "Jan 11, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Recrited as fresher from college, had a round of written test followed by Technical interview followed by Manager interview all in a day.",
+        "questions": [
+            "Asked me to explain about the project that i was working on at college \u00a0"
+        ],
+        "date": "Sep 1, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Very easy interview. Campus selections. Lasted 15 min.2 people on panel. 1 HR and 1 techie.Couple of puzzles.Was asked some questions on C/C++/Java. Object-oriented programming concepts. Structured programming, scripting basics. Unix/Linux OS questions.Offer made on the same day.",
+        "questions": [
+            "UNIX Operating System specifics \u00a0"
+        ],
+        "date": "Jun 6, 2012"
+    }
+]

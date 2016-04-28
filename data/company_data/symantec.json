@@ -1,0 +1,653 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "I applied on the school career fair and talked with their head recruiter. I did a simple coding test and about two weeks later I received an email from one of their techinical department manager to arrange an one hour phone interview. Now I am still waiting for the feedback.",
+        "questions": [
+            "Technical interview. I talked with one technical department manager and he mainly asked me about problems and basic concepts in sql. Questions are like how to select data with common features. \u00a0"
+        ],
+        "date": "Mar 3, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "I'm a current Symantec employee. The interview was extremely disorganized. It's ironic that my colleagues and I interviewed at companies like Google, Amazon, and Facebook and got offers from them but are not qualified to work at our own company.",
+        "questions": [
+            "Random questions unrelated to the job description (Java required). Very old school, asking about C/C++ memory malloc, storage alternatives to DBs, RAM, etc. They just wanted to argue without following a logical explanation for an answer. \u00a0"
+        ],
+        "date": "Mar 11, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Phone interview, need to solve a coding problem. The interview will also ask basic questions related to experience, skills and projects that are on your resume. Mostly a software engineer of your future team will take the phone screen.",
+        "questions": [
+            "Based on String manipulation \u00a0"
+        ],
+        "date": "Mar 17, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Very simple process, but a lot of interviews: 2 technical phone screens, long on-site interview. I was contacted by a senior engineer and interviewed over the phone using Google Drive. On-site interview in Mountain View, CA. Had a lot of data structure and algorithm questions. Thought process was also very important",
+        "questions": [],
+        "date": "Oct 28, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I applied this from school career fair and got phone interview a week later, the first is initial phone call, asked me something about my resume and then gave me a technique phone call next week.",
+        "questions": [
+            "1, combination and permutation2, basic java problem \u00a0"
+        ],
+        "date": "Oct 11, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "One technical phone interview, just general data structure and algorithms and then I was told they wanted to bring me onsite. Onsite has four rounds, lunch, and three technical. During the lunch interview, the interviewer said there would be more people joining interviews later, they are team members, and just wanted to check if we could work together well and they were there to support the main interviewers. Second round\u2026\u00a0 was good, the guy is a senior engineer, very friendly and always willing to help. The other experiences were bad. In the next round, one of the team member who has worked there for 5 months didn't get my idea when I was solving the question. He kept asking the same question until the other interviewer stopped him and told him what my idea was, and explained the design to him as I did for thousand times. He still couldn't get it. And it wasted us for more then 15 minutes, he just didn't read my code carefully and didn't understand what Java can do. It gave me a bad impression of interviewer's professional. The next round still had two interviewers involved. They kept gauging me about same concept and were very impatient and not helpful. It looked like they aimed to fail me in the beginning, even though I solved the technical question later. I didn't meet any interviewers like that, unfriendly and not helpful, when I was doing the whiteboard their face expression told me I was totally wasting their time while I have no idea what did I do to offend em.",
+        "questions": [
+            "general data structure and algorithms, linked list, hashmap \u00a0"
+        ],
+        "date": "Feb 14, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I had an 1 hour on-site interview with two people. They are friendly and ask all about technical software questions. The first guy asked some concepts about object-oriented programming and a small class design. The second guy gave me two coding questions and asked me to write on the white board. The questions were not hard at all, but you should get used of writing code on a board.",
+        "questions": [
+            "Describe inheritance \u00a0"
+        ],
+        "date": "Nov 23, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I was contacted by a recruiter. The position was for a software developer for cloud engineering. He asked me some basic questions about hadoop.After that he scheduled another round with one of the senior engineers from the team I was being hired for.The interview went well and I was given a call to the next round which was supposed to be the final round, a video conference interview with three\u2026\u00a0 members from the team and the hiring director.One day before the interview, I received an email from the recruiter that they had already found someone for the position and they cancelled the final round.I thought this was really unprofessional of them to do this as I had spent an entire week preparing for the final round. I communicated the same to the recruiter when I called her back.I hope this makes everyone interviewing for this company aware of what could happen, not saying this will happen to every candidate. It is always good to know before hand that this level of unprofessionalism can also be expected from what I thought is a reputed Fortune 500 company.",
+        "questions": [
+            "Find duplicates in a sorted array and print the unique elements?e.g. A = {1,2,2,3,3,3,4,5}, the output should be {1,2,3,4,5} \u00a0",
+            "Write a function to convert roman numerals to integers \u00a0"
+        ],
+        "date": "Sep 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Interviewer from Symantec emailed me about an hour before our scheduled time and asked if we could push up the interview to right then. I told him no since I was not in a place where I could do the interview until the original time and he seemed annoyed. Interview started at original time and he told me a link to go to so he could see me live coding.\u2026\u00a0 I implemented 2 algorithms and I guess it was not satisfactory because I was told right away that he did not think I would be a good fit.",
+        "questions": [
+            "Sorting algorithms \u00a0"
+        ],
+        "date": "Nov 25, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "The interview process was pretty smooth. Got a call for technical interview initially. After that had another round of technical interview. Finally a HR round. The whole process took around 3 weeks.",
+        "questions": [
+            "The questions were specific to the team I was being interviewed for1. Basic java and C++ ( checked vs unchecked exception, usage of volatile keyword )2. Multithreading related questions3. Singleton design pattern4. Multiprocessor related scenario based question5. Question from the resume - mostly about previous projects6. Security related questions - virus, worms, IDS, firewall \u00a0"
+        ],
+        "date": "May 5, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineering",
+        "details": "Friends referred me. Sent the resume to manager. The manager quickly set up the interview through phone. First round manager asks behavior questions and some questions based the resume. Then another 2 more technical questions from senior software engineers. About 1 week later, I got the offer. The whole process took about 2-3 weeks, and it was very smooth.",
+        "questions": [
+            "Some basic algorithm and data structure white board coding. \u00a0"
+        ],
+        "date": "Apr 8, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "totally 2 rounds of telephone interview, first round is just something about resume, the interviewer asked some question about my project design and detail. No programming questions.Second round is of some programming questions and some concept questions about OO programming, hashtable and etc, both rounds are about half hour. On average the interview is not so difficult and the people are nice and very easy to talk to. Good experience.",
+        "questions": [
+            "Describe the difference between hashmap and hashtable \u00a0"
+        ],
+        "date": "Mar 19, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Talked to company reps on college career fair and got a call back 2 months later for a phone interview. There was one onsite after the phone interview which include 2 one-to-one interviews with the software engineers.",
+        "questions": [
+            "Mostly about data structure, OOP and basic knowledge on C++/Java. Make sure you are very familiar to the fundamentals of DS. \u00a0"
+        ],
+        "date": "Oct 9, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "On site interview consisting of several programming questions done on white board. The interview was with several different people and involved a question in your desired language with each person. The entire process was about 2 hours long and was scheduled at a time convenient for me. Parking is provided.",
+        "questions": [
+            "How to determine the time of a clock based on the angles of the hands. \u00a0"
+        ],
+        "date": "Mar 22, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "HR called and set up a phone interview then was called for onsite.There were 3 onsite interview1. Coding interview where they asked to do tree traversal2. Coding interview where they made me do directory traversal3. Testing interview where I was given a scenario which I had to write test cases for",
+        "questions": [],
+        "date": "Mar 17, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Interviewed in September 2010. Had a phone interview. The interviewer was nice to talk to. Started with a discussion of project mentioned on my resume. Asked basic questions about C coding such as static variables, auto variables, register variables. Stack vs heap. Memory allocation. Structure vs union. Ended with a brief discussion of the position.",
+        "questions": [],
+        "date": "Mar 8, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "They gave me an interview from a career Fair, a month or so later i received an email that was fairly badly written asking for an interview.I went and they asked about conversion of mb to KB and pb and a method that could do it. Also asked about the Fibonacci sequence.Nice environment and people, seemed very business like.",
+        "questions": [
+            "Fibonacci recursively and iteratively \u00a0",
+            "What is java brief down into before it's compiled? \u00a0",
+            "Convert kilobytes, megabytes, bytes and petabytes to each other from user input of size of data \u00a0"
+        ],
+        "date": "Dec 21, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "The process was quite straightforward. I had 3 telephonic interviews. The first one was the Hiring Manager round followed by two technical rounds of interview. The whole process took around a week. The recruiter was nice and helpful.",
+        "questions": [
+            "1. Basic java and C++ questions2. Multithreading related questions3. Resume based questions \u00a0"
+        ],
+        "date": "Jul 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "On-campus interview. Questions on implementing fibonacci and palindrome. Then a couple of questions on recursion vs. iteration and memory allocation in C++.",
+        "questions": [
+            "All questions were easy. \u00a0"
+        ],
+        "date": "Feb 4, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I talked to one of their recruiting representatives at the univ career fair, and then after three weeks, I got a call from one of the hiring manager requesting for an on-site interview. On the interview day, I meet 6 persons including the hiring manger, half an hour for each interviewer. They mainly asked project experience from the resume and coding problems. Some of them also asked about some system\u2026\u00a0 design questions and brain teaser questions. I followed up after two weeks, no one replied my email.",
+        "questions": [
+            "a system design question about client and server design and the speed limits. You need to consider both the hardware part and software part, also need to know some virtualization techs. \u00a0"
+        ],
+        "date": "Nov 30, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "It began with a phone interview with the hiring manager which lasted about 15 minutes and was mostly about my C++ experience. Afterward, I was invited for the in person interview a week later. I met with the hiring manager and a software engineer and discussed my project experience and was asked some basic questions about C++. I was scheduled to meet with two additional people but was told that\u2026\u00a0 they were in a meeting and the interview concluded. I received an e-mail that I didn't get the position 45 minutes later.",
+        "questions": [
+            "What is the difference between heap and stack? \u00a0",
+            "Explain the difference between public, private, and protected in C++. \u00a0"
+        ],
+        "date": "May 20, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Contacted through Campus career fair. The process was straightforward, 1 screening, 2 technical interviews. The recruiter was nice and helpful and became a personal friend later. The first interviewer was a bit quiet, which was uncomfortable for me, so I don't think I did very well. The second one was nice and more talkative, which allowed me to discuss the problem more. Overall, the interview experience was average.",
+        "questions": [
+            "The first question was about parsing in C (char array, etc.). The second interview question was simply to quickly write a program to return the angle between two hands of the clock. It was more about approaching the question and being thorough with inputs/outputs, etc. \u00a0"
+        ],
+        "date": "Oct 15, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "Phone screen from recruiter, discussed position salary and benefitsGot technical phone screen from Dev Manager and senior developer within a week.Was called onsite for face to face which lasted for 2 hours, 30 mins with 3 developers and 30 mins with entire team.",
+        "questions": [
+            "Basic Java questions, web services, cloud, in person interview was asked to provide a solution to the elevator problem \u00a0"
+        ],
+        "date": "Mar 28, 2016"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Was referred to the hiring manager, contacted him, and set up an interview. Interview was 1 on 4, and consisted of mainly technical questions, also some code writing on a whiteboard, and a couple more standard questions as well. Interview went well, and they indicated they'd get an offer out to me within a couple days. One month later, an offer finally arrived, but by that time I had already\u2026\u00a0 accepted elsewhere. They have a nice building and nice staff, but I got the feeling that they are severely understaffed and highly stressed.",
+        "questions": [
+            "How would you go about finding the security vulnerabilities in our 2 million lines of code? \u00a0"
+        ],
+        "date": "Nov 27, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I was contacted by the HR , who asked few questions about my resume. She asked me some questions about DNS. I was interviewed for the next round, which was mostly on C++. Questions ranged from basic definitions like polymorphism, copy constructors, virtual, mutable keywords to multi threading and deadlock concepts. It took place for 45 mins.The next round of technical interview was also a 45 min interview, a bit\u2026\u00a0 more in-depth. Questions were related to algorithms, complexity, sorting techniques, etc. I was asked to solve an in-place array sorting program in O(n) complexity. The last round was a 20 minute interview, which mostly concentrated on general questions. They gave me a situation about multi processors and asked me how I would tackle the situation. Some questions on multithreading and operating systems.I felt a positive vibe through all my interviews. After the last interview, they never contacted me. They didn't even bother to reply to my emails. I felt it was very unprofessional.",
+        "questions": [
+            "virtual, mutable and const keywords. Examples of their usage. Virtual destructors? Multi threading concepts. \u00a0",
+            "Heap sort, algorithms, complexities \u00a0"
+        ],
+        "date": "Sep 10, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "recruiter called me. I passed the phone interview of 1 hour.I went on to a face to face interview at their office in Culver City, 6 people including the Hiring Manager, taking 45 minutes on each person. All the guys interviewed me were young, in their early 30, very friendly.Questions were mostly about algorithms and data structure. Interview went ok but I haven't heard from them for 2 weeks. Checked\u2026\u00a0 with recruiter and got update that they didn't offer the position, citing looking for more senior one.",
+        "questions": [
+            "how to detect cycle in linked list \u00a0",
+            "print out binary tree's nodes in certain layout (it was in order traversal) \u00a0",
+            "print out nodes of a binary tree by levels. i.e., all nodes on level 1, then all nodes on level 1, then all nodes on level 2, etc. \u00a0",
+            "convert the result of 7^n (7 to the Nth) to string \u00a0",
+            "find lowest common ancestor of 2 nodes in a binary tree \u00a0"
+        ],
+        "date": "Jul 10, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Everything moved very quickly. Manager was very motivated and lobbied for higher money and perm position. One phone interview and then a site visit meeting with 3 pairs of people. All very nice. People, office and culture are nice. Have an office which is rare in Silicon Valley.",
+        "questions": [
+            "Why did you leave your last position? \u00a0"
+        ],
+        "date": "Mar 18, 2009"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "There was no phone screen as my resume made it to the compnay thro' a recruiter who had talked to me over phone. I'd 2 sessions on 2 different days on 1:1 interviews with 3 people on each of the days - each person interviewed me for approximately 45 minutes.",
+        "questions": [
+            "Linked list related problem don't remember the full details \u00a0"
+        ],
+        "date": "May 15, 2009"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Applied through college campus drive. Round 1 online technical aptitude test. Round 2 technical round at symantec. Round 3 technical round 2 and Round 4 HR round. Online aptitude has questions on coding like what will be the output and what errors it will show.",
+        "questions": [
+            "Describe your projects, DBMS questions Normalization, indexing. Basic principles of OOPS, polymorphism, Inheritance and that all. \u00a0"
+        ],
+        "date": "Oct 28, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Aptitude followed by 2-3 rounds of interview.There was an aptitude test followed by interview. The aptitude was conducted in 2 slots. Slot 2 profited from it coz the aptitude test remained the same.",
+        "questions": [
+            "Why Symantec? \u00a0"
+        ],
+        "date": "Sep 5, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "technical roundtotal 3 section1st sec-pure virtual function code o/p2nd & 3rdwrite pseudo code/c++ codeit took whole day they asked to waitquestions were moderateexam duration is two hoursall c++ quetions",
+        "questions": [
+            "check whether two btrees are identical?find out ancestor of any two nodes in BST?delete alternative nodes in singular linked list?without using lib function find superset of set? \u00a0"
+        ],
+        "date": "Apr 26, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "Symantec has made Interview process quite long , it gets stretched over one and half month as you have to face 8-9 technical rounds but interviewers are awesome technical persons and they help you when you get stuck during interview.You will get interviewed by almost person at every level from senior software engineer to Tech VP.But over all a good experience and they offer you best pay package(CTC +Stocks) in\u2026\u00a0 industry with perks.",
+        "questions": [
+            "Implement a generic LRU cache in Java? \u00a0"
+        ],
+        "date": "May 24, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "1) telephonic which is easy. there are very less c++ ,c questions2) face to face technical. there are very less c++ ,c questions3) Managerial round. ask for managerial questions4) HR round. nothing much it just take 5 min to complete",
+        "questions": [
+            "how u find the sum on 100 numbers? \u00a0"
+        ],
+        "date": "Dec 30, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Total 5 rounds of Interview.I appeared for UI development profile. Mostly questions were around latest trends in UI framework, few JS and jQuery questions. They have given an assignment which I have to complete within 2 days. After that they have a discussion on the assignment and asked for few modifications. 3 Managerial rounds and one VP round. Other then domain specific they asked few questions on data structure as\u2026\u00a0 well. Overall it was a learning experience.",
+        "questions": [
+            "Basic HTML and CSS questions. New properties for CSS3 and HTML5. \u00a0"
+        ],
+        "date": "Feb 21, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "It was merger and acquisition so only 2 rounds of formal interview. It was one to one and they asked big data questions like what is the architecture of hadoop and how oozie workflow is done",
+        "questions": [
+            "Describe functioning of map reduce job \u00a0"
+        ],
+        "date": "Dec 10, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Got shortlisted in there written test in campus, the test consist of mainly data-structures basics, algorithm, OS etc. and then 2 technical interview and 1 HR interview were conducted in Pune office.1st technical interview was on basic knowledge of algorithm, OS, data-structures and 2nd on projects and programming knowledge.",
+        "questions": [
+            "Windows driver programming know-how \u00a0"
+        ],
+        "date": "Aug 14, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Recruiter called me for the telephonic round.",
+        "questions": [
+            "Got many questions on DS \u00a0"
+        ],
+        "date": "Dec 7, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "Nothing much usual interview process, got a call from HR and schedule a telephonic and 5 face-face rounds and took so much time to release offer. And some scripting was asked. Then they called for another interview where they asked debugginh",
+        "questions": [
+            "Some basic c++ question and DS \u00a0"
+        ],
+        "date": "Mar 4, 2016"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Contacted by hiring manager after posting my CV, first call then on site meeting.",
+        "questions": [
+            "how to reverse a linked list \u00a0"
+        ],
+        "date": "May 5, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Two Interview:1)Coding -> Higher Level2)C/C++ basics",
+        "questions": [
+            "nothing \u00a0"
+        ],
+        "date": "Mar 18, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Hiring manager called and then scheduled, asked some c++ and operating system question, also asked past experience about c++.",
+        "questions": [
+            "Do you know exceptions? \u00a0"
+        ],
+        "date": "Jun 30, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Highly technical interview with good level of complexity.Coding tests, problem solving, in depth technical interviews with minimum 3 technical rounds.Symantec is very technology oriented product based company that hires very selective people with good technical, verbal skills and interview process is genuinely talent oriented.Interview panel is very friendly, polite, technically sound. No non sense questions all are job relative or requirement oriented.",
+        "questions": [
+            "Multithreading, Java, Databases \u00a0",
+            "Core Java, Sybase database, c++, unix \u00a0"
+        ],
+        "date": "Jan 13, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "The phone interview was very cool.But in the f2f they asked very usual scenarios in programming which you will not face.",
+        "questions": [
+            "In one method u will create a hash map and put values and send it to other method. But in the other method you will not find a value for a key.Then how do you debug. They also asked logical question like puzzles. \u00a0"
+        ],
+        "date": "Mar 3, 2012"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Prepare well for your projects. Most of the questions are on OS, Data structure and algorithms. From the discussion It was clear that they have flexible timings like other organizations. Overall it was a good experience. They took around four tech rounds and one HR round. First they started with a phone screen but it was not a technical round.",
+        "questions": [
+            "Difference between semaphore and mutex? \u00a0"
+        ],
+        "date": "Jan 25, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "There were 4 rounds.1 technical written test (consist of questions mostly on OS, DBMS, DS, ALgorithms)2 technical interview (Most of the questions were on programming puzzles)1 HR round (Just a formality )",
+        "questions": [],
+        "date": "Nov 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "The Process Consisted of PPT,Written Test,3 rounds of technical interview and an HR interview.In written test,General Computer aptitude questions and a few quantitative Aptitude.In the interview They ask questions on OS,a few on networks,Data Structures,C++(OOPS) and an interview puzzle",
+        "questions": [
+            "Implement a Singleton Class. \u00a0"
+        ],
+        "date": "Oct 17, 2011"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "There were 2 Telephonic interviews.Then they had 3 face to face interviews of which 2 were technical and one was taken by Manager.It was a whole day event as all the interviews were done in same day.On techincal front they major topics were C/C++, STL, problem solving etc.",
+        "questions": [
+            "How many threads can be created in a process? \u00a0",
+            "Implement a STL vector. \u00a0"
+        ],
+        "date": "Jan 11, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "4 technical discussions followed by management round. Interviews were very detailed and it also involves programming on paper. Questions on operating systems and multithreading. A lot more focus on applications of data structures for solving problems. programming languages C/C++ questions. Performance optimizations for given problems.",
+        "questions": [
+            "difference between processes and threads \u00a0"
+        ],
+        "date": "Nov 4, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Post was for C-Unix and Scripting Developer with Storage Division.There was written test objective type - 30 mins.After clearing test, 3 rounds of technical interviews.Final round with director.",
+        "questions": [
+            "Objective test contained questions about C, debugging, printf +++ statements,Interview rounds:Mostly questions around C, Unix and Scripting.C- Pointers.,Memory allocation - mallocTypecastingFunction PointersForkThreadsLot many questions around your current projects design, implementation details, problems faced. \u00a0"
+        ],
+        "date": "Jun 2, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 days",
+        "role": "Software Engineering",
+        "details": "Phone Interview . Went in jeans n Tshirt as it was an impromptu interview since i worked in the next building for a diff company. 3 days 6 ppl. 1 week later offered.. accepted.",
+        "questions": [
+            "About you, and ur experiences, grad projects etc \u00a0"
+        ],
+        "date": "Jul 6, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Symantec tests on a person ability to think logically .. Best for people who want to work more on development and white box testing",
+        "questions": [
+            "Salary negotiation \u00a0"
+        ],
+        "date": "Feb 5, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "The first round was a technical one. The focus was completely on C, doesnt matter if u dont know any other programming language. Then some logical questions were asked based on data structures. Some puzzles were also asked. The interviewer was very friendly.\u00a0The second round was also technical but was short. The third round was with HR.",
+        "questions": [
+            "Memory management of a C program in DOS. \u00a0"
+        ],
+        "date": "Aug 8, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Written Exam: Objective Questions + Code to writeQuestions are mostly from Networks, OS, Database, Compilers etc.Interview: 2 to 4 round of technical interview and 1 round of HR interview",
+        "questions": [
+            "Something related to disaster recovery. It was open ended question. \u00a0"
+        ],
+        "date": "Oct 29, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Initially telephonic interview, then FTF of two rounds.Took almost 2 weeks for offer.I have joined as fresher. So basic questions about OOPS concepts, Java and some questions to test problem solving skills.",
+        "questions": [
+            "Almost all the questions are answerable. not that difficult. \u00a0"
+        ],
+        "date": "Jul 1, 2014"
+    }
+]

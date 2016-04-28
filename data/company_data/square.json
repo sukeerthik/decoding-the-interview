@@ -1,0 +1,647 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Applied online, got a call the next day. Scheduled for a Skype interview. Interviewer was very patient and helped when I got stuck. Didn't hear back from them and wasn't expecting to since I didn't write the most optimal code.",
+        "questions": [
+            "Question related to n-ary trees \u00a0"
+        ],
+        "date": "Mar 7, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "The phone interview was one of the most intense ones I have come across till date. I had to think of the data structure, implement the data structure and then using the data structure implement an online crossword puzzle solver. I fell a little short of time but the interviewer was very cooperative and was working along with me to give useful pointers.",
+        "questions": [
+            "Implement an online crossword puzzle solver. \u00a0"
+        ],
+        "date": "Mar 25, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Square does a really good job on the process. E-mails are promptly replied and recruiters are very friendly. Two initial phone interviews with developers were set up very quickly. They were very friendly and we got the problems solved in time and efficiently. After that I was invited to the SF office for the on-site. 3 pairing interviews with coding and other interviews focus on more on other aspects of\u2026\u00a0 the company and the candidate. Most interviewers were very friendly and professional.However, here ends the good story. A coding interviewer let me know that he is having a bad morning. The coding problem itself was not very complicated, but I could feel he is not particularly enjoying to interview. I felt as if I am responsible for his bad mood. He was constantly looking at his watch and counting the minutes instead of actually discussing with me the problem and the approach chosen. He seem to have no interest whatsoever interviewing or assessing the candidate.Another thing I was very concerned about was the actual \"pair programming\". I could tell they use it for interviewing purposes. Once hired you seem to rarely pair with someone. Thus the interview is more described as \"code while someone is watching over your shoulders and making notes on every mistype you make\". I guess \"pair programming\" sounded better than \"technical interview\". But in this case there is no difference.My final thoughts and advice: If someone is 'sharing' his unstable mood with you on the interview, there is definitely something wrong. This was a very BIG WARNING SIGNAL for me. I personally think Square is still a good company, but maybe they should focus stronger on people they choose for the interviews than replying feedbacks on glassdoor.",
+        "questions": [
+            "simple algorithmic questions. (nda) \u00a0"
+        ],
+        "date": "Feb 12, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Overall Square's interview process was fairly standard. They try to improve upon the process, and in some ways they do, but overall it falls short of what they're trying to do. For the most part it comes down to luck (who you get to interview you) and memorization. With 3 coding interviews and 2 technical discussion (and a talk with the manager) this is a test of endurance.Process: The interview\u2026\u00a0 process is \"pair programming\". The issue is they leave it up to the interviewer to determine how to implement that. Out of the four programming exercises I had I would say only one was true pair programming. The other mostly sat there taking notes and semi engaged (or slightly bored?). So expect more of a whiteboard session with an IDE and Google. After the coding you'll have open ended discussion with people on various teams. This isn't tough but after 3 hours of coding with 3 separate people it can be tough to be engaged.Questions: Despite what I read here most of my questions were variants of pretty standard interview questions. Design this, manipulate that, find this, etc, etc. Nothing was too difficult but they're not things you do in the real world and not something I can solve and implement while still entertaining the interviewer in the hour given. So memorize basic implementations of standard problems so you can spend your mental energy engaging the interviewer with your coding presentation.I would say my experience was fairly negative but I'll give props to a slightly better interview experience than other companies. I didn't get a confirmation of my onsite until the night before (but had been in contact with the recruiter so I knew things were still on). Out of the four coding interviewers I worked with one was fantastic, two were fine (took notes, not much feedback or engagement), and one was probably among my top worst interviewers. The interview is a full day which is pretty exhausting and works against most people (also makes it hard for people who already have a job).",
+        "questions": [
+            "Not going into detail but they were variations of standard OOP, String, and mathematical questions. \u00a0"
+        ],
+        "date": "Mar 28, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "6 weeks",
+        "role": "Software Engineer",
+        "details": "Had two phone screens, the first went poorly, the second went well enough to get an on-site.On-site was nice, two interviews and lunch before a wrap-up with HR.I thought the on-site went well as I had running solutions for both interviews ( which they expect ) but I didn't get an offer.The whole process was quite streamlined overall although I'm disappointed i didn't get an offer or feedback.",
+        "questions": [
+            "They don't ask standard leetcode questions for the on-site, it's better to prepare for OOP. \u00a0"
+        ],
+        "date": "Mar 30, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Quick and simple interview process. No pointless recruiter calls. 2 rounds of 1 hour phone interviews. Then 2 back to back 1 hour onsite interviews with lunch and a tour. Quick rejection and expense reimbursement emails after onsite.",
+        "questions": [
+            "They expect running code. For the onsite, be ready to code on a Mac and learn the default hotkeys for your preferred IDE or figure out how to import your hotkeys quickly.There aren't many leetcode/CTCI questions. They ask about real world applications of data structures. \u00a0"
+        ],
+        "date": "Jan 29, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "6+ months",
+        "role": "Software Engineer",
+        "details": "I was referred by a friend in summer 2015. Didn't end up having my interview until January 2016, and they never sent me the online skills assessment they were supposed to. Overall, they seemed very unorganized in the process. When I finally interviewed with them, it was a 45-minute technical interview on coderpad with little time for questions about the company.",
+        "questions": [
+            "Given an encrypted code, determine how many possible decodings there are using the language of your choice. \u00a0"
+        ],
+        "date": "Jan 7, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Hiring was quick and responsive. I cold-emailed a local recruiter and immediately scheduled my interview. Since Square wants to see how you code in real-life, interviews are peer-to-peer, interactive, and very fun. This, of course, has its downsides. My first technical interviewer and I had great chemistry; but my second technical interviewer and I had a lukewarm connection at best, which is what got me rejected.",
+        "questions": [
+            "Pretend you don't know the alphabet. Given a list of alphabetically ordered words, can you construct a new \"alphabet\" using the letters that you have and your knowledge about alphabetical orderings? \u00a0"
+        ],
+        "date": "Jan 16, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Two skype interviews using coderpad.io. Originally told there would be one phone interview then an in person interview. The first interview was smooth, and the interviewer was on top of his game, talkative, friendly, and had good chemistry. The second interview was crippled by multiple technical issues with Skype which ate into our time. Switched over to phone. The interviewer seemed bored and pressed on time. After introducing himself and\u2026\u00a0 the coding problem, he didn't say much or comment on the proposed solution much. Felt like I was talking to a brick wall, and quickly lost interest. The interviewer didn't give time to ask questions or go over my prior experience, which left me with a negative impression. Generic rejection email the next day. Overall the whole process felt disorganized.",
+        "questions": [
+            "Average coding questions geared more towards seeing your thought process than getting a perfect solution. \u00a0"
+        ],
+        "date": "Jan 19, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Had 2 Skype interviews.Gave 2 solutions to the problem in the second interview but still was rejected as they wanted a clearer description of the approach I was using for solving the problem, which is surprising as I told the interviewer about the solution I was thinking of before I started coding.",
+        "questions": [
+            "Standard interview questions \u00a0"
+        ],
+        "date": "Jan 27, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Phone interview 45 mins, asked 1-2 technical algorithm questions and let you choose your preferred language. And asked your thinking process during the programming period. They asked you to implement a bunch of words by scanning the prefixes. Such as Simple, single, solution. And you should print out by sin sun so for the output!",
+        "questions": [
+            "Find unique prefix \u00a0"
+        ],
+        "date": "Mar 11, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ months",
+        "role": "Software Engineering",
+        "details": "The process lasted for around 4 months. I took first two rounds Skype interviews and then flied to SF for the final two rounds onsite interviews. My recruiter was very helpful and always let me know the feedback very quickly. Their pair programming culture was very impressive for me that engineers work with candidates to solve a problem together.",
+        "questions": [
+            "Tech coding questions. \u00a0"
+        ],
+        "date": "Jan 28, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "The interviews were for the most part straightforward. Two phone interviews with pair programming. Then an on site interview with 2 more pair programming interviews. The on site interviews were the same difficultly as the phone interviews.",
+        "questions": [
+            "Asked to implement simple problems. They seemed more concerned about the thought process and code cleanliness than perfect solutions \u00a0"
+        ],
+        "date": "Nov 16, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "got phone call by recruiter, and schedule the phone interview, phone interview was pretty easy, please refer to leetcode easy level problems, but onsite was super hard. more on the game implementations... tough, but very positive experience! all of the people work there are smart and nice. even I cannot figure out a lot of game rules, interviewer will guide me for this",
+        "questions": [
+            "implement a poker game \u00a0"
+        ],
+        "date": "Dec 22, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5+ weeks",
+        "role": "Software Engineer",
+        "details": "After my initial contact with the recruiter, I didn't hear from him again from him until 27 days later. Then I was scheduled for a technical interview over Skype. The technical interview was a disaster. My interviewer was pretty rude, talked almost the entire duration of the interview, didn't really give me a chance to solve the problem, and then ended the interview about 25 minutes early. The entire process\u2026\u00a0 from beginning to end was cumbersome and really disappointing.",
+        "questions": [
+            "In the X/Y plane, create a function that stacks blocks on top of each other like they do in Tetris. \u00a0"
+        ],
+        "date": "Feb 18, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I honestly liked it a lot. I applied for new grad software engineer. I got to second round but got rejected. The interviewers smile a lot and make u feel comfortable but that may be misleading. You should really practice simple data structure and stirng manipulation questions but the most important thing is practicing saying your thought process out loud because they do pair programming.",
+        "questions": [
+            "Alphabet soup and having to find words within it, in a 2D array format. So when a new line appears or when there were spaces between words. Think of edge cases. \u00a0"
+        ],
+        "date": "Oct 20, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineering",
+        "details": "Interviewed at my college with 2 engineers after submitting my resume at an event. Got asked to go to fly out for on-sites where there were 2 or 3 1-1 interviews. Really collaborative with the interviewer and they seemed to focus on asking actually interesting and more real-life questions than just things like \"reverse a linked list\".",
+        "questions": [
+            "Comparing JSON objects and printing the differences in a specific way \u00a0"
+        ],
+        "date": "Feb 4, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Applied for Android position. Initial phone screen with internal recruiter followed by an in-person tech interview with a fairly new engineer to the team and a pair programming exercise to find and fix a bug in second interviewing engineer's Android Java code.",
+        "questions": [
+            "Find the bug in this program and fix the error \u00a0"
+        ],
+        "date": "Oct 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "The recruiter contact me because my resume in the conference database. Then we booked the time slot, it is 1 question with 2 follow up in one hour. You also need to introduce your project in your resume. It is a pairing programming, one to one. My interviewer is very nice and smart to find the bug in my code.",
+        "questions": [
+            "it is about 2D Matrix \u00a0"
+        ],
+        "date": "Oct 18, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "2 technical phone screens, followed by an onsite with 2 pair-programming style interviews. The interviewers were quite nice, but I also didn't have too much trouble with the questions. I produced working code for all but one out of the 4, but wasn't expected to produce working code for the last one. My recruiter was very responsive and the process went very smoothly.",
+        "questions": [
+            "Implement an LRU cache. \u00a0"
+        ],
+        "date": "Dec 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I was applying the software engineer intern position. This was the first technical interview. 45 minutes. First is about project for 10 minutes. Then is the technical question about prime number. Algorithm is given, I only need to implement it. So it is easy. The followup is about the performance. At last is about questions that I can ask. I learned that in Square the interns are integrated in real\u2026\u00a0 group and work with them. It was pleasant interview.",
+        "questions": [
+            "Find the prime numbers smaller than N. The Sieve of Eratosthenes algorithm is given to implement. First start with first prime 2. For each identified prime umber, mark all multiples of the prime as composite. Increment the index and check to see whether the number has been marked as composite. If not marked it is a prime. If marked it is skipped. The followup question is about how to improve\u2026\u00a0 the performance. \u00a0"
+        ],
+        "date": "Dec 12, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "6 days",
+        "role": "Software Engineer",
+        "details": "Starts off with a coding challenge online through hackerrank. you have 2 hours for 2 problems. The problems, in hind site, were not very difficult but with no external help (Google) really allowed the little things that you don't remember off of the top of your head can trip you up.",
+        "questions": [
+            "Find minimum number of steps to perform series of tasks on a grid. \u00a0"
+        ],
+        "date": "Sep 28, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineering",
+        "details": "Online coding challenge, a few phone interviews, and onsite interviews. The recruiters responded promptly and were very helpful in arranging flights and accommodations. Had an amazing lunch at the office and spoke with an engineer.",
+        "questions": [
+            "Something about elevators \u00a0"
+        ],
+        "date": "Sep 2, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineering",
+        "details": "Applied online through the website. no referral. Got phone interview a week after I applied. scheduled soon after and had the interview the following week. Phone interview was technical: 1 hr to solve a problem.",
+        "questions": [
+            "Implement a payment system validator \u00a0"
+        ],
+        "date": "Oct 13, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Applied online, was contacted by the recruiter and had a pair programming interview set up. The interviewer called on Skype and was asked to code on Coderpad.io. Interviewer was not very friendly.",
+        "questions": [
+            "General coding question - medium difficulty \u00a0"
+        ],
+        "date": "Oct 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Applied online through Square's website. I was contacted by a recruiter from Square about the position. Had a short phone screen with that recruiter, who passed me onto a coordinator to set up a Skype interview with one of Square's engineers. The Skype interview was about 1 hour long. It was primarily focused on a problem with little to no introduction from the engineer. However, the engineer left time to\u2026\u00a0 make small talk about the company and myself. Received an rejection email about three days after the Skype interview. Overall, a pleasant interview process.",
+        "questions": [
+            "Which part/product of Square do you want to work on and why? \u00a0"
+        ],
+        "date": "Jul 28, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Was very nervous at first about what I would be asked seeing as I hadn't interviewed in the past 3 years. I applied through a recruiter that then helped me schedule a Skype call with an engineer at square. I was afraid of the question I would be asked because I have read that the interview was very difficult. When presented with the question I was surprised because I was\u2026\u00a0 capable of solving it. There was a 45 min time limit and you were allotted 15 min at the end for questions. I was capable of solving the question but I took too long doing so and for this reason I failed. By the way I am a decent programmer and I think the question asked was very fair. Just make sure you do many practice problems so that you are quick on your toes when coding the solution.",
+        "questions": [
+            "The question was very fair. \u00a0"
+        ],
+        "date": "Jul 21, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Its about online code challenge I met. I did not pass the code challenge so did not get the opportunity for an interview. But I hope the experience of code challenge can help someone else who will apply the same company. The code challenge is only one hour and one question online. And have to pass all the test cases.",
+        "questions": [
+            "There's a tree, a squirrel, and several nuts. Positions represented by a matrix, like x, y. And the goal is to find the minimal distance for the squirrel find the nuts and put them into the tree one by one. \u00a0"
+        ],
+        "date": "Feb 27, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "sign up through university online and then get called in for an on site interview. before the on site interview, had to do a test online to code for certain functions. 1 hour long test of pure coding knowledge. can be coded in any language. then went to the on site interview. 2 hours long coding session",
+        "questions": [
+            "How to code a program that gives you the day of the week given a date \u00a0"
+        ],
+        "date": "Feb 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "Met engineers at career fair, were great fun to talk to and listen to their vision for the company. After that, gave resume to recruiter who promised to be in contact. Received coding challenge from recruiter shortly thereafter, and then got an email a month later saying that they had decided to move forward with other candidates.",
+        "questions": [
+            "A complicated shortest path algorithm implementation. \u00a0"
+        ],
+        "date": "Oct 7, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I was first sent a HackerRank challenge (one hour timed); all it wanted was to simulate a game (rules were explained) by reading inputs and determining who won, who lost, or if there was a tie. Passed 4/6 test cases.The next two interviews were pair programming on coderpad and Skype. Both were one hour long, and the interviewers were interested in not just solving the problem, but in having you\u2026\u00a0 talk the whole time. I have the feeling they gave major bonus points for using object-oriented principles in your solution (they always started typing when I used inner classes), and they let you choose your language.I was only asked about run-time once.The final interview was on-site in San Francisco, they covered all transportation/food costs. I came in with a group of six or seven other potential interns, and the first hour or two was a tour, history of Square, and lunch. Then they led us to a set of open desks where we had our last two technical interviews back-to-back (each one hour long -- I spaced out on the last one, that disqualified me).After that we had coffee, a sit-down chat with some engineers, and then a send-off with swag. Overall, it's been my favorite interviewing experience (no whiteboards at all, just coding and chatting).",
+        "questions": [
+            "Imagine you have an x-y grid of floats. Define a method to drop a parameter block of a certain height and length (also floats) beginning at any x coordinate. Subsequent blocks dropped will fall on top of any previous blocks, 'stacking' their height. Define another method to return the height at any requested x location. There was a third method, but I didn't have time to do it. \u00a0"
+        ],
+        "date": "Mar 17, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Two phone interviews and one onsite. Recruiters were all friendly. One phone interviewer ditched me and no explanation was offered- simply had to reschedule again. At the onsite, I had trouble with one of the questions and the interviewer felt slightly adversarial. The second interviewer was actually worse- complaining about having to do interviews early Friday morning, was on his phone while I walked through and completed the question by\u2026\u00a0 myself (not sure why they bother to call this a pair programming interview?). Since they hold the \"pair programming interviews\" in a big room, another interviewee actually told me afterwards how rude it was that they could see my interviewer on the phone! He absolutely hated my Q&A questions at the end- apparently you can't ask them to answer to some criticisms of the company. Perhaps I should have felt it out better since he was clearly already in a bad mood and didn't want to be there, but come on! Overall, it really was a negative experience compared to other company onsites I've had.",
+        "questions": [],
+        "date": "Dec 8, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Started with a phone screen in which an engineer asked the typical questions. Spent a day on-site working on pair coding problems and some design questions. Most of the people were fairly friendly and I liked the pair coding format. They let you use whatever language you are most comfortable programming in.",
+        "questions": [
+            "In the interest of professionalism and confidentiality, I refuse to provide hints as to what they ask in their interviews. One thing that I would mention is that the interview was difficult, and included somewhat typical CS-related questions. Some of the questions were somewhat pointless and would be poor predictors of success at the company. Being completely devoted to Ruby on Rails is probably a better predictor of success at\u2026\u00a0 Square. \u00a0"
+        ],
+        "date": "Dec 14, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "1+ week",
+        "role": "Software Engineering",
+        "details": "I applied on Piazza by sending a message. They then gave me a coding challenge where I had to implement the count-out-loud sequence, which was fairly straight forward. Next I had an interview with an engineer. I had to implement an inorder tree iterator in java. I had a hiccup with it along the way which screwed me over.",
+        "questions": [
+            "implement an inorder tree iterator in java \u00a0"
+        ],
+        "date": "Nov 9, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "It took about two weeks. Everyone at square was very nice and helpful. I began with an online code test that I panicked and did horribly on. I got to the first interview though, which was conducted over Skype. That was relatively easy. Then I got to the second Skype interview and bombed on it.",
+        "questions": [
+            "Write an escape function for some input strings \u00a0"
+        ],
+        "date": "Sep 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "a week",
+        "role": "Software Engineering",
+        "details": "Applied online and a recruiter contacted replied within a week. She asked me to complete a 1 hour Hackerrank online challenge within the next day. I was really busy, but still made time to complete it. I solved the question adequately and it passed every test case. I followed up but did not receive a response. Kind of rude on their part.",
+        "questions": [
+            "Question was based on darts. You're given 2 players' throws as input and should output the result of the match. Hard to explain since the prompt was very long. \u00a0"
+        ],
+        "date": "Oct 20, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Applied via college/university. Recruiter reached out with a coding exam, which was pretty easy to solve. Next, a phone screen was scheduled, but I did not make it past this stage. The phone screen consisted of some resume questions and a programming question based on CoderPad, so the interviewer can watch you write your solution, though you are also free to implement your solution on an IDE first.It does seem\u2026\u00a0 that they want people who can think of a good solution and code pretty quickly, and if you use API docs, that you use them properly by making the correct calls that are appropriate for what you want to do and that provide the best theoretical performance. The technical questions themselves weren't too bad, but they set the bar at a pretty high level for the solution that you deliver. So in this case, simply being able to deliver a workable solution isn't enough.",
+        "questions": [
+            "In implementing the solution, the interviewer did ask how I could optimize my solution further. It was kind of a unique case. \u00a0"
+        ],
+        "date": "Oct 24, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineering",
+        "details": "I received two interviews on campus which were each 45 minutes long. Interviewers were nice and the questions were standard data structure/algorithm screening questions. Then I flew out to San Francisco to spend on the day on square campus, was shown around, did two more pair programming interviews (nice because you can use a laptop, check docs, etc.) and recruiting videos and whatnot.",
+        "questions": [
+            "String segmentation question (e.g. given string \"therearefourwords\" separate it out into \"there are four words\") \u00a0"
+        ],
+        "date": "Oct 13, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I was selected for first round technical interview with Square through my local campus recruiter. The first round is a series of technical challenges on an online platform, HackerRank. They give you 3 days and 1 hours to complete their challenge up to a certain standard. Still waiting to hear back...",
+        "questions": [
+            "Algorithms and Data structures \u00a0"
+        ],
+        "date": "Sep 19, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Short simple problems along with discussion, geared towards a complete rather than clever solution. Some very experienced interviewers that made for a pleasant experience. Set up as a \"pairing\" experience but without much direct help (as in normal pairing). Design questions were taken from the real world and very well chosen, it was clear the interviewers had a deeper knowledge about the subject and were open to variation.",
+        "questions": [
+            "What day of the week was the Unix Epoch? (geared towards algorithm implementation) \u00a0"
+        ],
+        "date": "May 12, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Quick phone call followed by a coderpad-based interview done over Skype. The interview consists of the guy from Square giving you the problem statement, and I was expected to write a working solution - including test cases - which is compiled and run within coderpad. I had to do two of these because the first one was inconclusive.The first problem I got was writing an arithmetic expression parser with only\u2026\u00a0 parentheses and the '+' sign. This was fairly straightforward. Then, he asked to parse a list of expressions instead of just one. Then, some expressions could reference others in the list (e.g. A3 + 1) which was as far as we got. I successfully wrote the code but I think he was displeased with my messy design as it was \"patched through\" on the initial design. Eventually the recruiter informed me that I need to do another coderpad session.The second interview was much like the first. The problem this time was to write a class scheduler, where each class could have multiple time slots and we need to choose a combination of times so that we can take each class. I tried this time to focus on designing it properly in OO but it took so much time that I was only able to reach one evolution of the problem - return all possible arrangements instead of just the first. I haven't received an official response yet but I'm pretty sure I effed this one up as I was probably expected to reach at least step 3 or 4. Oh well..",
+        "questions": [
+            "Overall, both problems were non-trivial and the requirement of writing working code + tests in a one hour interview makes this probably the toughest interview I've done to date. If you're doing this, make sure you are able to solve the above problems quickly and properly OO. Use python (or similar) to save some time on list comprehension. Good luck! \u00a0"
+        ],
+        "date": "May 28, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "Had two phone interviews which are coding on a shared document and they were pretty easy. And was flew in to their SF headquarter for the onsite. I had three paired coding interviews and finished all the requirements and tests ahead of time. And then I had three Q&A interviews focusing on past experiences and a lot of behavior questions. They seem to be happy with my answers. In general\u2026\u00a0 I feel they like me. However I just got a rejection email from the recruiting team saying that my coding was not good enough and they are on the edge of accepting but in the end decide to pass.",
+        "questions": [
+            "To me nothing feels really difficult. But I guess I know how high their bar is this time. Getting the coding questions done correctly ahead of time doesn't assure you that you will pass. It only guarantees you that they will let you finish the whole schedule which means meeting everyone you are supposed to meet. Maybe they judge people with a few more years of experiences with a much\u2026\u00a0 higher standard. Some people I interviewed with are founding members of some big names in the Bay area. \u00a0"
+        ],
+        "date": "Feb 4, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I had an oncampus interview where I had to pair program with an engineer. I had to design a LRU cache that had no constraints on time complexity. I implemented a class that worked perfectly but got a rejection 3 days after.",
+        "questions": [
+            "LRU cache problem that supports get and set operations. \u00a0"
+        ],
+        "date": "Nov 19, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Had a very easy on-campus interview then got invited to the final round. Had 3 back to back pairing programming interviews onsite. Some people were asked to have a forth interview. What surprised me most is that there was no algorithm questions. All the questions are very practical.",
+        "questions": [
+            "signed NDA \u00a0"
+        ],
+        "date": "Nov 8, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I submitted my resume to my university's career website, after which I received an email to complete a coding challenge online. This was used to determine whether I got an on-campus interview. There were two questions, both of which I put below. I finished the first and got halfway through the second one.After that I got the on-campus interview, which was pair-coding style. We implemented a least-recently-used cache in Java.\u2026\u00a0 It was fun, and I was able to Google syntax I didn't know, and we ended up getting it to run.A bit later, I got an email to set up an on-site interview at Square in SF. This consisted of breakfast, three pair coding interviews, lunch, a few talks, coffee at Sightglass, and then that was it.The three questions I got were:1. find all prime numbers under a given number2. Fraud detection: if two merchants have swiped the same card, they are part of the same component. Find the size of the component.3. parse TVL bytes and return cardholder name.I struggled with the last one in particular. I was notified of no offer after a week.",
+        "questions": [
+            "input: coefficients line (a\u2019s), lines of values from transactions (x\u2019s)y = a0 + a1*x1 + a2*x2 + ... + aN*xNy &lt;= 0 not fraud, y &gt; 0 suspect fraudoutput fraud/not fraud for each line of N lines \u00a0",
+            "input: two numbers, N and M, which define an NxM gridstart at top left corner of grid (1,1):- step forward- turn right- if space in front of you is out of board or you already walked on it, turn rightkeep going until you can\u2019t walk anymoreoutput is number of steps you take before stopping. \u00a0"
+        ],
+        "date": "Nov 3, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "A mix of technical coding interviews & verbals. Coding is paired programming at a computer.",
+        "questions": [
+            "Brush up on those CS fundamentals as you may encounter an algorithm. \u00a0"
+        ],
+        "date": "Sep 26, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "I was contacted by square. The person said a few key things that peaked my interested, but not enough information to make a decision if I liked it or not. They forced me to go through the full cycle before discussing anything.Spoke with at least 9 people though the course of 4 calls/meetings. Not a single person seemed happy or enthusiastic. Everyone seemed as though they were forced into talking\u2026\u00a0 to me and it was such a burden to deal with me.Finally got a \"screen interview\" setup. The day of the interview, the interviewer was switched to someone else. That person had absolutely no personality what-so-ever. Gave me no feedback, wouldn't talk to me about anything and if I asked a question, to confirm a requirement, he responded as though I was a nobody and wasting his time.I solved the series of problems. I asked for some feedback (because he wouldn't say anything) and he made a comment about his personal preference of adding a bunch of print to console statements everywhere.Next day, \"declined because of my background\". I asked for some feedback from the recruiter, nada. Wrote the original person I spoke to for some feedback, nada.Obviously they think they are above decent human interaction and feel it's their way or the highway. I don't care that I didn't pass, but they could at least tell me what was wrong. I mean, I asked at least 5x. Maybe I had a reason I did something a certain way. Who's to say their way was better than mine without even discussing it.It was for the better though. Why would I want to work somewhere everyone is so unhappy? I only considered it because I wanted to work with smart people, not for money. It became clear to me that smart != happy.",
+        "questions": [
+            "I don't know the technical term, but it was just a calculator that's operators do not appear in normal order. The interviewer did not explain the requirements well, so once it was clear, I was able to do it.The interview went like this:calculate(\"2 3 +\") # => 5.... a few otherscalculate(\"12 2 /\") #=> 6calculate(\"48 4 6 * /\") # => 2Instructions: \"Write the calculate function\" \u00a0"
+        ],
+        "date": "Apr 16, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "Most intense interviewing process of all the companies I talked to! I did two 1-on-1 pair programming interviews, each lasting 1 hour. Each time, they let me know about next steps either that day or early the next day.For the full day on-site, I did 4 one-hour pair programming sessions, lunch included, and a couple other interviews. By the end of the day I was exhausted! While definitely the most\u2026\u00a0 difficult series of interviews, it was overall a positive experience knowing how seriously they take hiring.",
+        "questions": [
+            "Pair programming interviews covered walking trees/graphs, algorithms, and some UI \u00a0"
+        ],
+        "date": "Apr 8, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Full day of small projects. Very specific, mix of DevOps and SRE implicit which was not what I was there for. The lunch was good, though this was several years ago and they've moved buildings, gone public and not done so hot in the market / relative to their competitors.",
+        "questions": [
+            "Install Redis. \u00a0"
+        ],
+        "date": "Feb 3, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "First a on-line test, solve two problems in 1 hour. The questions are simple, but you should carefully consider the time and space constraints. Then a skype interview, write on a shared board, and the interviewer will run your code in his compiler. If there is bug, he will paste that to you, and ask you to solve it.",
+        "questions": [
+            "The interviewer compile your codes written in the shared document. \u00a0"
+        ],
+        "date": "Mar 9, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Remote phone interviews with collaborative editor.Onsite you do 3 pair programming sessions.",
+        "questions": [],
+        "date": "Feb 15, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineering",
+        "details": "Submitted resume + list of personal projects (no cover letter) through university. Good interviewer, very helpful and punctual. No complaints. Asked about my interest in Square and if I had any questions for him.1 technical question. Real-world using IDE. Code something to find the number of days between 2 dates. It was about 30 minutes long. Made a few mistakes, but wasn't too difficult of a problem.",
+        "questions": [
+            "1 technical question. \u00a0"
+        ],
+        "date": "Mar 20, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I did a series of Skype screen calls remotely, and then was brought onsite for a full day of interviews. The process was fun, based on the fact that you can write code on an actual computer, and run it. At the end of the day I got the chance to have a more informal conversation with one of the managers and learn more about the company and possible roles.\u2026\u00a0 I received an offer a few days later.",
+        "questions": [
+            "I signed an NDA. \u00a0"
+        ],
+        "date": "Feb 6, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "Got a call from the recruiter after an employee referred me. Recruiter was very professional, on time and kept me in the loop.Interview consisted of several pair-programming sessions. Moderate head-scratchers but almost all of them were relevant. As a software engineer .. I thought that the pair-programming sessions were much better than white-board sessions that other companies have.After the pair-programming sessions there were interviews with HW managers and the VP\u2026\u00a0 of HW.The process was great. I didn't see any attitude issues that you see in web-companies. Great bunch of people.",
+        "questions": [
+            "Memory AllocatorPattern matching in a string \u00a0"
+        ],
+        "date": "Jan 3, 2013"
+    }
+]

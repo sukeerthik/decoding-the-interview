@@ -1,0 +1,547 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "First round of interview happened in university through career fair. The interview was completely on the resume. I was asked about my experience and the areas I am strong in. Also few few team based questions",
+        "questions": [
+            "Your manager strongly disagree's with your opinion on a particular task,what would you do in convincing that your suggestion is good enough \u00a0"
+        ],
+        "date": "Jul 24, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Technology Analyst",
+        "details": "Campus Interview and three rounds of tech and Behavioral in Charlotte. The campus one was a phone interview and medium to easy level tech questions were asked. The behavioral rounds were mostly to check whether you fit in any of the teams the three interviewers are from. The questions in these 3 rounds range from tech to team contribution questions and your coding skills etc..",
+        "questions": [
+            "First round was all sorts of technical questions: sorting, sql queries, algorithmic analysis and a puzzle \u00a0"
+        ],
+        "date": "Jan 1, 2016"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3+ weeks",
+        "role": "Technology Analyst",
+        "details": "1. Conversation about background during the career fair on campus2. On-campus interview with two staff one day after conversation during career fair3. Onsite interview in NYC after 2 weeks: 3 stages, 25 minutes each stage4. Get notification within 48 hrs after onsite interview",
+        "questions": [
+            "Technical Question usually based on your background (your strongest languages), multithread questions.Usual non-tech questions (how do you see yourself in few years? what do you like in working at BoA? ..etc) \u00a0"
+        ],
+        "date": "Mar 12, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Technology Analyst",
+        "details": "Applied through the job portal. Got a phone interview. A bunch of behavioral questions. No technical stuff.The interviewer was extremely kind and focused on giving a detailed job description. She did not ask technical questions but rather asked me why I was interested in pursuing my career in bank of America.",
+        "questions": [
+            "Basic technical question regarding java and mainframe stuff. \u00a0"
+        ],
+        "date": "Mar 3, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Technology Analyst",
+        "details": "First round was telephonic interview. Final rounds consisted of 4 interviews and 2 written exams.Telephonic interview - Java questions, OOPs concepts, questions on resume. Received a confirmation after a week for final rounds.Final Rounds - The on-site interview were of two days:Day1 - There was a coding exam with 4 easy questions to be done in 45mins. Questions on linked list, sorting, string to integer conversion. Second exam had 3\u2026\u00a0 python codes and there were debugging questions asked on it.Day2 - There were 4 interviews. 1 interview was a technical case study. We were required to pick best approaches of an algorithm. 3 other interviews were technical and behavioral. Technical questions included SQL joins, deadlocks, Java and OOPs concepts, white board coding on linked list, arraylist and sorting technique.The entire interview process was very well organized and the journey was very smooth.",
+        "questions": [
+            "Implement deadlock in java. \u00a0"
+        ],
+        "date": "Mar 10, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Technology Analyst",
+        "details": "Submitted resume through campus career fair. Got asked to take the first phone interview. The interviewer was very a nice female manager. Lots of behavioral questions were going on. Then three days later, got invitation for on-site interview at Charlotte. Four rounds of interviews with 5 managers in total on different teams. Only one round asked technical questions. For others, they all asked behavioral questions and introduced what their teams\u2026\u00a0 were doing. All of them were very kind, polite and friendly. Just be yourself and show what you are best at.",
+        "questions": [],
+        "date": "Dec 8, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Technology Analyst",
+        "details": "I was sent email for 30 minute telephonic interview. I had 2 weeks time. Interview went. General behavioral questions and technical question that too very simple one. After 2 weeks I got an email stating that I was selected in first round and I need to go for face to face interview. I had 5 face to face interviews. All the interviews were general behavioral questions.",
+        "questions": [
+            "easy and simple questions. All questions from my resume \u00a0"
+        ],
+        "date": "Jun 6, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Technology Analyst",
+        "details": "Applied online and got a call form recruiter after 2 weeks to set up telephonic interview. Everything went well, the interviewer asked me about Data structures and difference between Hash map and Sets. I got a call for onsite interview, but I was not able to go because of my 2 midterms on the same day",
+        "questions": [
+            "There was no difficult question at all. \u00a0"
+        ],
+        "date": "Jul 29, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "My first round was in the university and second round was on-site. On-site interview was series of five 30 mins interviews back to back. The on-site interviews were both technical and non-technical. They invited like 40 students from various universities and approximate 50% were selected.",
+        "questions": [
+            "I cannot disclose any question but there were many technical and non-technical interview questions. \u00a0"
+        ],
+        "date": "Feb 11, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "On Campus interview - 30 minutes long",
+        "questions": [
+            "Nothing unexpected. Interviewer asked basic JAVA and OOP concept related questions \u00a0"
+        ],
+        "date": "Feb 6, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "I applied online through my school's career center.",
+        "questions": [
+            "Where do you see yourself in 3 years? Name a time you had a difficult project? Did you fail\u2026 or how did you succeed? \u00a0"
+        ],
+        "date": "Feb 20, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3+ months",
+        "role": "Technology Analyst",
+        "details": "One call interview. No need to mention about technology. Only mention your ability to communicate well. Highlight a previous experience about miscommunication between teams/groups/sectors - and how you went about to understand it, and got both sides perspective and be diplomatic.",
+        "questions": [
+            "None. Talk about communication. \u00a0"
+        ],
+        "date": "Jan 25, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "I got a phone interview and was invited for interview on their site",
+        "questions": [
+            "Difference between abstract class and interface \u00a0"
+        ],
+        "date": "Feb 25, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "Nothing technical. I had 5 rounds and I was asked only behavioral questions. Even resume will be touched upon",
+        "questions": [
+            "describe step by step procedure on how to implement a technical solution \u00a0"
+        ],
+        "date": "Jan 7, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Technology Analyst",
+        "details": "Applied through college job site, got selected for an on campus interview. One 30 minute interview, lots of SQL questions and data structures questions.About 2 weeks later i got an email to do a final on site interview at one of the HQ in Cali. It's a close drive so I didn't have to book a hotel or anything.The on site round had 3, 30 minute interviews.1st interview - Brain\u2026\u00a0 teasers, logic questions, SQL questions2nd interview - Whiteboard C++ programming, dealt with Data structure (Binary trees, c-string manipulation)3rd interview - More function design with data structures, and difficult SQL questionsThen after the 3rd interview, they gave me a written test with more programming questions before I left. The written test took me about 45 minutes to finish. After, I went home!Two days later, I got a call and they told they were offering me a job!",
+        "questions": [
+            "Lots of questions on SQL... I.e. Indexing, how to index, how to normalize data sets, etc. \u00a0",
+            "Standard data structure questions, i.e. Questions on Binary tree traversals and string manipulation (Reverse a string, reverse a sentence) \u00a0",
+            "Questions on classes and OOP, i.e. Design me a class that can work for to store and maintain strings (A dictionary) \u00a0",
+            "Standard Behavior questions. I.e. I have many applicants being considered for this position, Why should I pick you? Given a problem, how would you go about solving it most efficiently? \u00a0"
+        ],
+        "date": "Mar 28, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Technology Analyst",
+        "details": "1st Round on Campus --- 30 minutes.Two sessions AM & PM; I would say about 40 people total for unknown number of slots.If you are in the AM session will have breakfast with other applicants, if PM lunch.Was grouped with ~ 5 other people those 5 people will be interviewing with the same people you interviewed with as well2nd Round 30 minute back to back interview [x4]+a small break +\u2026\u00a0 House building exercise",
+        "questions": [
+            "Build me a house... \u00a0",
+            "Suppose I had 8 apples in a bushel, design and algo to find the one rotten apple [interviewer a] - Project manager type role \u00a0",
+            "How to calculate how many golf balls can fit into a car [interviewer A] - Project manager type role \u00a0",
+            "What do you know about data bases etc [interviewer B] - Data Cube \u00a0",
+            "Tell me about the economy, what caused the financial crisis etc [Interviewer C], tried to get at you will be working at a financial institution etc - Unsure, charged of funding for groups \u00a0"
+        ],
+        "date": "Mar 5, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "Ist round is a phone interview",
+        "questions": [
+            "Any feature that you would like to see in BoA mobile application \u00a0"
+        ],
+        "date": "Feb 18, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "First round was phone interview.",
+        "questions": [
+            "Behavioural questions \u00a0"
+        ],
+        "date": "Feb 21, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "Got emailed to schedule a phone interview. Lady was very nice. Asked about 4 behavioral questions about different situations",
+        "questions": [
+            "Name a time where you had a difficult time dealing with a client and how did you respond \u00a0"
+        ],
+        "date": "Feb 6, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "4 weeks",
+        "role": "Technology Analyst",
+        "details": "Relaxed, asked some questions about Java and C++. Objects, structs, classes, types of privacy when declaring variables. Why do you want to work here?",
+        "questions": [
+            "Know about Java, C++, or Python (which ever you're interviewing for). \u00a0"
+        ],
+        "date": "Feb 5, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "First round phone interview, mostly behavioral questions and questions from resume.",
+        "questions": [
+            "None really! \u00a0"
+        ],
+        "date": "Mar 10, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Technology Analyst",
+        "details": "I had applied for the technology analyst position through my college job portal. Within a week I had an interviewed scheduled for the position. The interview was scheduled in my college itself. There were two interviewers, 1 was a project manager and the other an intern who had converted to full time. Basically during the entire process they both were busy typing in or writing my responses, try not to\u2026\u00a0 get distracted by that. Initially they started with some behavioral questions like which projects have you worked, what did you like about your work, so on. Then they asked me which programming language I was most comfortable with. There were many questions on data structures and with each question they went more in detail of the particular data structure, comparison in the efficiency of different data structures, then some simple coding questions inserting data using arrays and linked list. There were questions on different architectures used and how efficient they are. But on the whole, they interviewers were a pleasant lot. It was a good experience.",
+        "questions": [
+            "How does a Hash map workdifference between a tree and a map and which is more efficientdifferent ways to define a hash table \u00a0"
+        ],
+        "date": "Jan 22, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ weeks",
+        "role": "Technology Analyst",
+        "details": "Applied online. Got a phone interview call (behavioral) after month. Exactly two weeks after the phone interview got an email stating \"we wish to proceed with your application, please wait fr next email\". But unfortunately, I did not receive any communication after that. But later I found that the email that they sent had got in my spam folder, and I had to rush my process in the last moment.\u2026\u00a0 Luckily, They had hotel reservations and arrangements already done at Charlotte. I just had to call them up to book my flight tickets from Chicago to Charlotte the previous evening. In spite of my late call, they responded very well.On the interview day, all the candidates called for a lunch. There were four 30 minute one on one interviews. They were more like a discussion than an interview which usually starts with a \"tell me about yourself questions\".After the interviews, there was a team activity where the interviewees were divided into groups to work on a small fun activity.",
+        "questions": [
+            "Phone interview : \"How do yo maintain relationships with seniors in your organization?\" \u00a0",
+            "Phone interview : \"Describe a situation where you had to make an unpopular decision?\" \u00a0"
+        ],
+        "date": "Feb 13, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "initial on campus interview followed by 3 interviews on site. Mostly questions related to resume.",
+        "questions": [
+            "how do banks make money \u00a0",
+            "are you ready to work on saturdays and sundays if required \u00a0"
+        ],
+        "date": "Mar 11, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "The interview process consisted of simple questions on database and programming basics. I thought I did very well, but did not make it to the second round.I could not think of any reason I was rejected, as I also had relevant prior experience and they did not tell me details of what they were exactly looking for.",
+        "questions": [
+            "What is polymorphism, abstraction, object oriented programming? \u00a0"
+        ],
+        "date": "Jun 13, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Technology Analyst",
+        "details": "I had applied through my University's career center. The first round was an HR round. The guy was really friendly. He was a techie and was asking questions out of question sheet.General HR questions:What is your strenght?One instance when you have led a team and what was the outcome?One project when you achieved more than the expectations of your boss or your teacher?( I dont remember any more questions but\u2026\u00a0 all of them were behavioral)2nd round: I got a call in the evening of the first day that I had been selected for the second round of interview and was told that it would be a technical interview.The interview was actually a mix of HR and technical. There were two people on the panel and both of them had been with BOA for more than 10 years.They asked me in detail about everything I had written on my resume. They went into the technical aspects of some of the projects that I had done. There were some basic HR questions thrown in between.I had mentioned on my CV that I knew SQL and C++.They asked me a few basic questions about databases like different types of keys, joins, a few questions on RDBMS.C++: A few questions on concepts of OOP, virtual functions etc.PS: I am a graduate student in Industrial Engineering so they interviewed me mainly for a business analyst's role. So probably the technical questions they asked me were a lot different from what they would have asked from Comp Sc graduates.",
+        "questions": [],
+        "date": "Feb 28, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Technology Analyst",
+        "details": "Initially there is a phone screen round - mostly HR questions, followed by a super-day which has multiple rounds with mixed questions.Questions are often generic with puzzles, basic tech questions, behavioral questions and case study based questions.",
+        "questions": [
+            "find out all substrings in a given string with some rules \u00a0"
+        ],
+        "date": "Sep 21, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Technology Analyst",
+        "details": "2 rounds of phone interview, which is uncommon for my school, which is a target school.MOST of the kid only did 1 round of on campus, and HR made decision on that .first round is told to be behavior, and is behavior.second round is warned to be technical, but end up being behavioral again...no tech at all...not sure whether i would placed as developer or project manager...",
+        "questions": [
+            "have u had any experience of miss deadline \u00a0"
+        ],
+        "date": "Mar 26, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "Applied online through college recruiting and got an interviewWent in for the interview on campus. Consisted mostly of pretty simple core Java questions, some object-oriented terminology, and a quick programming brain teaser.Overall the interview was very relaxed and the interviewer seemed very easy going.",
+        "questions": [
+            "If my hash map runs out of space and I hit a conflict during an insert, what would be a good way of keeping both items in the hash map \u00a0"
+        ],
+        "date": "Mar 3, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Technology Analyst",
+        "details": "I was contacted by a recruiter after applying through my school's job posting website. The recruiter sent an automated message indicating that I must apply directly to the website.One day later an e-mail came into my inbox for one job that explained that a phone interview would be conducted within two weeks. The description included a 30 minute interview with another recruiter and was behavioral based. The information requested was\u2026\u00a0 the graduation date, visa sponsorship requirement, and location.A rejection letter followed two and a half weeks later, about one week after the interview.During this time period of the interview for the first position, I was brought in for an on campus interview (at my school) and was asked behavioral, technical, past experience, and hypothetical questions and then again asked for my location preferences. Another phone interview was conducted for a different position.One week after the rejection I received an e-mail requesting an on-site interview. (I mention the rejection because both happened parallel, it may be that I was rejected for the first to participate in this one, it wasn't made clear and these interviews happened a few days apart).The on site interview was 5 days after the e-mail.The on site interview consisted of 2 daysDay 1: Settle in at an expensive paid hotel and mingled with current employees at a restaurant with drinks and food. Listened to a speech by a manager and spoke to people from many departments. A folder was given to us that explained the schedule for the next couple of days and the people we would interact with.Day 2: Escorted to another hotel in a convention room with about 9 curtained booths that hid interviewers from the company. Breakfast was served for an hour or two and interviews began. I was interviewed by 3 people, one an obvious hardcore banker, one very experienced banker with a more relaxed attitude, and one who was a technical person with a CS degree. The other half of the participants performed a group interview , which was the second portion. Teams were assembled randomly and seated at round tables with materials in the middle. In the middle, there was masking tape, paper clips, rubber bands, news papers, and pipe cleaners. The objective was to make a bridge that sustained an unknown weight. First 5-10 minutes were the planning phase, 10 more minutes were used to construct, 10 more minutes were constructing without speech. The test was to see how our interaction was and our method of communication under pressure with given materials.After the interviews we spoke to the employees once more and left for our flight.",
+        "questions": [
+            "If your partner and you were presented with a task and both came up with a method that would end with the same result (same answer and same time and same effort) but the method itself was different who's would you take? \u00a0",
+            "What is a project that you had to complete but you were not able to and what did you do to recover from it? \u00a0"
+        ],
+        "date": "Mar 16, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 days",
+        "role": "Technology Analyst",
+        "details": "I got to apply for the position through the career service at the university. I was then contacted for the first phone interview after one month of submitting my application. The phone interview involved questions to know the candidate. I was contacted for a WebEx interview two weeks after my telephone interview.",
+        "questions": [
+            "Why Bank of America Merrill Lynch? \u00a0",
+            "Tell me of a moment when you faced a challenge with your group members in a project. \u00a0"
+        ],
+        "date": "Jan 31, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Technology Analyst",
+        "details": "Resume screening followed by interview at Harbour Front Office",
+        "questions": [],
+        "date": "Jan 17, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "Applied online in September, didn't hear back until late December with an offer to attend an assessment centre.",
+        "questions": [
+            "Interviewers have a large list of technical questions for a number of languages in front of them ranging from basic to advanced. Make sure you know what you said you knew on your application. Don't be put off if your not from a Computer Science background though. \u00a0"
+        ],
+        "date": "Feb 11, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Technology Analyst",
+        "details": "Applied online, got invitation to telephone interview in a couple of weeks. Phone interview was very short. Just a couple of technical questions. I wasn't asked any competency questions apart from the usual why bank of America.",
+        "questions": [
+            "What is functional programming? What do you mean by a trusted key? \u00a0"
+        ],
+        "date": "Dec 4, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Technology Analyst",
+        "details": "The first stage was an online application. After the initial application I was sent a numerical test, which I passed successfully. Should a candidate pass the numerical test he is sent three questions:1. In your own words, please describe the function of your 1st Divisional Preference?2. Please detail why you have chosen to apply to the Financial services Industry and specifically why Spring Insight Week at Bank of America Merrill\u2026\u00a0 Lynch?3. What is the personal achievement of which you are most proud of? What did you learn from this experience and how does it differentiate you from others?4. Please use the space below to include any additional information that you would like to support your application (for example, personal interests, sports interests, positions of responsibility, travel experiences, additional voluntary work and other extra curricular activities)?After this stage I waited for 14 days and I was schedule an interview the following the. The next day after the interview they told me that I was successful and I will be sent a contract.",
+        "questions": [
+            "In which division you would not work and why? \u00a0"
+        ],
+        "date": "Jan 23, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "2 weeks",
+        "role": "Technology Analyst",
+        "details": "Interviewd at the college career center. Was interviewed by one SVP. Asked all about behavior questions. It was good through out",
+        "questions": [
+            "Cultural difference \u00a0"
+        ],
+        "date": "Oct 22, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "Questions from a shee.Basic OOPs concept,SQL-Foreign Key Constraints.-Different types of index-Polymorphism use",
+        "questions": [],
+        "date": "Apr 25, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Technology Analyst",
+        "details": "This was an on campus interview for a fixed half an hour duration. There were couple of managers who interviewed me, in person. Since it was slated to be a short interview, they told to keep the intro short(literally cut it out). There were a few technical questions testing basic programming and database skills which were quite easy. Since I had worked for about 3 years earlier, they asked about\u2026\u00a0 the kind of work I did, challenges I faced and how I'd taken them on. Also, they enquired regarding the reporting structure and any leadership opportunities I had. Overall, it was a nice discussion more than an interview. In couple of weeks time, I had the offer confirmed first over phone and then through email. I had three weeks to respond to the offer. I responded in two, accepting the offer.",
+        "questions": [
+            "What were the difficult situations you had faced at work in which you had to demonstrate leadership qualities while not having a leadership role? \u00a0"
+        ],
+        "date": "Jun 22, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "Made worse impression than Morgan Stanley, stuff and applicants much less proficient. But nice office at Canary Wharf, interesting experience for a first time. The job spot is on King Edward's street, more in central London. Questions quite easy imho, about java, sql, python. I applied on my 2nd year at AGH UST in Cracow.",
+        "questions": [
+            "Your biggest failure. \u00a0",
+            "Your biggest success. \u00a0"
+        ],
+        "date": "May 28, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Technology Analyst",
+        "details": "the hiring process was a walk in and had an aptitude test followed by a 1:1 interview. They were asking basic technical questions. If you are good with the basics you will be good!!",
+        "questions": [],
+        "date": "Sep 26, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "The interview was held by a man from the Fixed Income Tech department. He wasn't very talkative and stuck to cliche questions. If you got passed this round they would invite you to the next round in New York City in person. If you got through that one you would have to go through HR.",
+        "questions": [
+            "How would you find the max height of a tree? \u00a0",
+            "Water level if you threw a rock off the boat, higher or lower? \u00a0",
+            "What's the difference between a HashTable and a HashMap? \u00a0",
+            "How would you traverse from one corner of a cube to the direct opposite (diagonal) corner of the cube, in the shortest path? \u00a0"
+        ],
+        "date": "Jul 27, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "it was a on-campus interview consisted of questions related to resume and a few technical questions. Most of the questions were pertaining to the past projects I have done and how I could make them better, etc.",
+        "questions": [
+            "What is the most difficult project you have worked on and why? \u00a0"
+        ],
+        "date": "Apr 10, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "Phone interview :I have been asked the general introduction questions: Why BofA ? Why technology ?Then some competency based questions like describe a situation when you took leadership.For the last part I had some technical questions: what's a deadlock, how can one avoid it.I must mention that the interviewer was very friendly.",
+        "questions": [
+            "No unexpected questions \u00a0"
+        ],
+        "date": "Apr 8, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Technology Analyst",
+        "details": "It consist of presentation based on case study, group case study, 1:1 competency based questions and finally an online logical test.",
+        "questions": [
+            "Join \u00a0"
+        ],
+        "date": "Dec 28, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Technology Analyst",
+        "details": "first round of interviews on campus - was completely a technical interview with questions asked about SQL queries.Final round at BOA HQ at charlotte with mutliple 1-1 interviewsstarted with an informal cocktail gathering and next day interview sessions.1. case presentation2. technical interview3.personality review4.behavioral interviewoverall positive,",
+        "questions": [
+            "describe software development life cycle \u00a0"
+        ],
+        "date": "Mar 17, 2011"
+    }
+]

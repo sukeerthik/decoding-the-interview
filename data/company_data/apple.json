@@ -1,0 +1,1969 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "The Interview is not difficult pending you know your resume in detail . They see everything and ask every detail of your project . In the end I could not get the offer as my role was pretty specialized although they will consider me for a junior role in the future . I can safely say the process should not be stressful if you are confident and the people are\u2026\u00a0 really nice . So keep in mind that you should hold a conversation confidently as a EngineerOverall I had 9 rounds and 1 recruiter round during the Onsite Interview and a phone screen prior to the onsite Interview",
+        "questions": [
+            "Describe a project where you struggled and How did you overcome it ?Weak vs strong Pointers ? \u00a0"
+        ],
+        "date": "Mar 6, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "Pretty standard, I applied online and was contacted by a recruiter, and set to interview with a specific team. I sent in a resume and cover letter. I scheduled an interview for the next week and then was promptly given a no-offer the next day.",
+        "questions": [
+            "Reverse a linkedlist recursively \u00a0"
+        ],
+        "date": "Mar 22, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Recruited on LinkedIn instead of their careers page. Had a chat with recruiter who told me she was building a team like she was the hiring manager or something (yeah right). I had to sign an NDA before I got the interview, however I was still told the project was confidential even though I had signed the NDA. Then had an hour long phone screen where I was rejected 10-15\u2026\u00a0 MINUTES after the phone call. \"Not a fit.\" Very rude interviewer who tried to cut me off multiple times when I said I was thinking about the answer and just moved on to the next question like he didn't care or already made up his mind. After asking the interviewer how I did, he said he would have to \"look at his notes\" which was a clear sign that he didn't want me. No rejection feedback was given and emails were not returned.",
+        "questions": [
+            "Easy Android trivia questions, using a hashmap counter that I got correct. Biggest kickers were \"do you even know what asymptotic means? A lot of people don't.\" which was rude and uncalled for. He kept asking me scenario questions for some reason even though I had never researched how to do those things before since I didn't need to in my applications. Also stupid questions like \"why can't you use\u2026\u00a0 primitives in a hashmap.\" Who knows? I didn't implement the collections class so how should I know. \u00a0"
+        ],
+        "date": "Feb 18, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Two phone interviews about my background, one code session about my coding and programming ability. The first interview last for 15 minutes and the second one last for one hour, the third one is a little bit longer, last more than one hour.",
+        "questions": [
+            "Introduce me one project that you have done recently \u00a0"
+        ],
+        "date": "Feb 14, 2016"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Pretty standard interview process. I had an HR interview to start with (just to discuss the roll and my background). After that it was a couple of technical interviews followed by an onsite in Cupertino.The onsite was a little tiring with ~6hrs of interviews but everyone was really nice and it didn't seem like any of them wanted to stump me. I was a little frustrated because they never allowed\u2026\u00a0 me to see anything other than the interview room and the cafeteria. It would have been nice to at least be able to see the workplace I would have been in.",
+        "questions": [
+            "Write a basic fibonnaci sequence implementation \u00a0"
+        ],
+        "date": "Dec 10, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineering",
+        "details": "Submitted resume online through Apple's application. Contacted by two university recruiters, one recruiting for a manager of one team and one recruiting for a director of another. Interviewed first with both manager and director. Director arranged an interview with a team member. Received offers from both teams. All interviews were phone screens. Very quick process overall.",
+        "questions": [
+            "Assorted HTML/CSS questions. \u00a0"
+        ],
+        "date": "Jan 8, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3+ weeks",
+        "role": "Software Engineering",
+        "details": "I got an interview by talking to some recruiters at a hackathon by talking about my past projects and my Objective C/Swift experience. My first round interview was a phone interview about some data structure questions, no coding, but designing data structures and some basic Objective C stuff. My final round interview was also a phone interview, but with the head of the team I would work under. These questions\u2026\u00a0 were more based on Objective C, but more detailed questions. After this interview, a lot of emphasis was put on my portfolio and my past projects, which I believe significantly helped me get the position!",
+        "questions": [
+            "How would you design a data structure that is an array, but with so many elements such that the array almost fills up the entire RAM? \u00a0",
+            "How does delegation work? \u00a0",
+            "How does ARC work in Objective C, and how is it different from garbage collection? \u00a0",
+            "Difference between strong and weak pointers? \u00a0"
+        ],
+        "date": "Dec 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I went through three rounds of interview: A phone screen with a recruiter, a longer technical interview over the phone, and then a half-day on-site consisting of several interviews with different members of the team I applied for. Unlike a previous interview process with Apple, the final interview with my on-site was with the head of the organization I\u2019d applied for. The questions covered a broad variety of areas, from\u2026\u00a0 CS fundamentals to application architecture to Cocoa design patterns. I was ultimately not hired, and encouraged to brush up on CS fundamentals before applying again.",
+        "questions": [
+            "How would you reverse a singly-linked list? \u00a0"
+        ],
+        "date": "Oct 17, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The interview process was simple. Started with phone interview, then on-site. The hiring manager himself did the phone screen. He asked a lot of knowledge base questions. No coding questions.",
+        "questions": [
+            "Hashtable mechanism \u00a0"
+        ],
+        "date": "Nov 3, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I met them face to face at a campus recruiting event. After briefly talking to them, I was offered an on campus interview the next day. Dressed up for the interview, while they were in T shirts.",
+        "questions": [
+            "Run time of a binary search tree \u00a0"
+        ],
+        "date": "Oct 22, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "1 phone interview with a team manager about my past experience (discussion on resume) and the expected intern role. The manager primarily wanted to see if I'm interested in the role and etc. After the phone interview, I was invited to an onsite interview to meet the recruiter and one of the lead engineers from the team. The onsite interview was all technical questions.",
+        "questions": [
+            "What do you want to learn from this internship? \u00a0"
+        ],
+        "date": "Oct 13, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "HR -> Phone screens -> Additional phone screens.Overall it was good experience with lack of preparation from my side. There were even several parallel tracks for different teams all of which I have failed (maybe besides one track which I have declined).",
+        "questions": [
+            "I was asked to no share them. \u00a0"
+        ],
+        "date": "Oct 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "After a few phone calls you go to an onsite interview at the Apple campus. Apple interviews engineers for the specific team you'd be working with. Meaning that if you don't get through an interview with one team, you have to start all over for another team. Onsite you go through a few different interviews, each one had 2 interviewers who mostly asked white boarding questions. I found 2 interviewers\u2026\u00a0 in many sessions over about 6 hours exhausting. It's hard to judge what interviewers want when there are two of them staring you down while you write a solution to their question.",
+        "questions": [
+            "They ask a lot of OS X and iOS memory management questions. \u00a0"
+        ],
+        "date": "Sep 26, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Apple came to my college campus and I went to them, talked to one of their software engineers in the Safari team and then got an on campus interview the next day. The interview was a white board coding and in the end I asked a few question about Apple",
+        "questions": [
+            "find the most frequent element in an integer array \u00a0"
+        ],
+        "date": "Sep 28, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "I received an on-campus interview from a university job fair. The interview lasted 30 minutes and consisted of one whiteboard question as well as some quick questions that tested my knowledge of Java. The interviewer also asked why I wanted to work for Apple and why I thought that I would be a good fit for the company.",
+        "questions": [
+            "Is Java pass-by-value or pass-by-reference? \u00a0"
+        ],
+        "date": "Jan 8, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "role": "Software Engineer",
+        "details": "Spoke on the phone with a recruiter who contacted me. Approximately a week later I spoke with an engineer on the team for the position. This was a technical interview in which I did not do all too well (my fault) but was invited to complete a programming project as a follow up. The individual interviews were not the reason for the negative rating - the reason is that there\u2026\u00a0 was NO communication from Apple unless they needed something. Even when I was still under consideration, they would not answer questions or inquiries then magically contact me a couple of weeks later.",
+        "questions": [
+            "What data structure would you use to auto-complete a dialer when the phone may have thousands or hundreds of thousands of entries. \u00a0"
+        ],
+        "date": "Feb 1, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The period is about 30 minutes. First, he asked about my resume and some behavioral questions about my internship. Then, we started the technical questions. After the technical question, I showed him the projects I have done.",
+        "questions": [
+            "Kth largest number in an array. \u00a0"
+        ],
+        "date": "Nov 15, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "The interview was very straight forward. As long as you explain your thought process when coding/solving problem you should be fine. One thing to note is that around ~8 people interview you so it sure does tire you out, and you meet with a manager at the end. They also provide lunch which is nice.",
+        "questions": [
+            "Dijkstra, cultural questions, and etc \u00a0"
+        ],
+        "date": "Dec 1, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "It was great. I applied and got a response within a two weeks. I then scheduled a phone interview with a Software QA. It went well. Then I had another interview with a different department. In total I had three interview. Two facetime interviews and one phone interview.",
+        "questions": [
+            "What is the hardest technical problem you have solved and how did you solve it? \u00a0"
+        ],
+        "date": "Nov 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I spoke to a recruiter at an on campus networking event and received a phone call in 2 hours that night asking for an interview the next day. Interview happened in a conference room on campus and consisted of around 10 technical questions with no coding. Just walking through solutions. 30 minute interview with 5 minutes at the end for questions. Received an email a week later with no moving\u2026\u00a0 forward.",
+        "questions": [
+            "What is deadlock and how is it prevented? Intersection of two arrays with optimal Big O. \u00a0"
+        ],
+        "date": "Oct 14, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "6 weeks",
+        "role": "Software Engineer",
+        "details": "I applied online through the Apple jobs website. I was contacted the following day by a recruiter and set up an initial call for that week. After the initial phone screen with the recruiter about my background and interests, I moved to the technical phone screen portion of the interview. This interview was FANTASTIC compared to most tech companies. I felt like the interview was more of a technical discussion\u2026\u00a0 about real software engineering problems than a straight \"code this\" kind of interview. Towards the end, I was asked to describe how I would solve two different problems but it was just conceptual, no coding.I found out the next day that I made it to on-site interviews. Onsite I had 4 one hour interviews, with 2 interviewers in each one. Meeting a total of 8 people was a lot but gave me a good feel for the team. Later that week, the recruiter contacted me and told me the team wanted to do one more technical interview over the phone. This last interview was a traditional coding interview you see at other companies. Two days after this, I was contacted and told I would be receiving an offer.",
+        "questions": [
+            "On-sites consisted of two coding questions, one database design question, and one networking question. \u00a0"
+        ],
+        "date": "Aug 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "typical phone screening, followed by a technical phone interview for about 45 minutes. Very simple questions which was disappointing to ask from a PhD. Questions like the instruction in matlab to convert a rgb image to grayscale. Not the way I do my work.",
+        "questions": [
+            "the matlab instruction to compute the standard deviation. \u00a0"
+        ],
+        "date": "Dec 6, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Initial screening by the hiring manager and two other employees. Hiring manager and the first interviewer asked open-ended questions with emphasis on the previous experience. The third interview came after the screening C++ example (see below). The questions become more technical, but the interviewer was friendly and helpful. Based on the first impressions, the group I was interviewing for seems to provide a friendly and productive environment.",
+        "questions": [
+            "Q: In an hour, write a simple C++ algorithm involving standard input and output. Provide test cases. \u00a0"
+        ],
+        "date": "Oct 11, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I got the interview on career fair, and the interview was at next day.The engineer gave me one problem to solve, not the normal leetcode question, but a design of system, which is very difficult for me. But the recruiter is very smart and kind.",
+        "questions": [
+            "to design a system for detecting people around a door, predict whether this man will go into the door \u00a0"
+        ],
+        "date": "Feb 23, 2016"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I was expedited through the process as Apple acquired the company I was going to work for. Apple flew me out for one day of on-site interviews, and I had three 2-1 interviews. There was no effort to get to know me in any of them. Each interview was an hour spent entirely on technical questions covering algorithms and system design.The first two interviews were not great, but not terrible.\u2026\u00a0 I asked a lot of clarifying questions, which seemed to annoy the interviewers more than anything. Weird.The worst interview I've ever had was the 3rd one, with the two team leads. One of them wrote up a problem on the whiteboard, and then spent the rest of the interview looking bored out of his mind at his phone. His problem was very vague and incomplete as he first asked it, and when I asked questions about it he got frustrated and talked down to me. He would occasionally glance up at my progress (it wasn't a hard problem once the details were worked out) and make a snide remark about what I had written. He expected syntactically perfect whiteboard code, and threw in some expletives for an added bonus. The other interviewer would snicker whenever the first criticized my code. At the end they asked if I had any questions, but every question I asked was met with, \"That's confidential.\" It was definitely the most unprofessional interview I've ever been a part of, and I almost walked out of it because it was clear it was wasting all of our time.Unfortunately the misery didn't quite end there, as it took Apple three full months (and 13 reminder emails) to reimburse me for the costs I had to pay for cab rides and per diem expenses. I was also never reimbursed for a flight I had to cancel because of the interview timing, but at this point I'm just tired of dealing with them. If possible, try to get Apple to pay up front for as much stuff as possible, because the reimbursement process is a nightmare. My (senior) recruiter had no idea where to even begin with it, which I still don't quite understand.",
+        "questions": [
+            "The skyline problemGiven a set of interval tuples, find the longest overlapping intervalGiven a huge log file of a web server, find the IP addresses that had exactly 1 requestA network is connected in a line, so that servers can talk only to the servers to their left or right. Servers know if they are the leftmost or rightmost servers. What's a protocol for every server to learn the full\u2026\u00a0 topology? How long does it take? \u00a0"
+        ],
+        "date": "Jun 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I made it through two rounds, live coding and verbal questions. They were very helpful and made sure that all questions I had were answered. It was very interesting to see how such a vig company was able to make the process so personal. It really made me want to work there!",
+        "questions": [
+            "How are you? \u00a0"
+        ],
+        "date": "Aug 11, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "The recruiter found my linkedin profile and reached out to me. After an informational interview with the recruiter, they scheduled onsite directly. I was asked about several coding and search engine questions. It was in Cupertino campus and totally four interviewers showed up. They are looking for software engineer to work on search related projects. Machine learning technology is preferred but not necessary. All interviewers are nice and helpful. Overall\u2026\u00a0 very good experience.",
+        "questions": [
+            "1. how to evaluate user engagement for verticals which doesn&#039;t rely on CTR? \u00a0",
+            "2. Implement a queue using array or linkedlist. \u00a0",
+            "3. Behavior questions. \u00a0"
+        ],
+        "date": "Sep 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Was referred for this position. Went thru 7 rounds of interview. Not very difficult data structure and algorithm questions. More focus on approach and conceptual knowledge than giving a very difficult algorithm.",
+        "questions": [
+            "Data structure, algorithm and Java concepts \u00a0"
+        ],
+        "date": "Sep 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "On site interview from 10 AM to 5 PM. In total there were about 6 interviews for an hour each, and an hour lunch at 1 infinite loop. Interviewers were very fair and had a conversational demeanor. Apple paid to fly me out to CA and covered all of my expenses.",
+        "questions": [
+            "What is polymorphism?How could you approximate a non-linear function with only multiplication and additions.Techniques for allocating static and dynamic memory. \u00a0"
+        ],
+        "date": "Jun 30, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "This was by far the worst interview process I had ever experienced. I applied online and was contacted by a recruiter for a specific role. She never contacted me back to set up a time but later that week an engineer called me and was under the impression our interview was confirmed for that time. I was completely unprepared and so I told him that the recruiter hadn't set up\u2026\u00a0 a time but he gave me the impression that once it was confirmed with him he couldnt reschedule so it was either then or never. I went through the interview but wasn't ready and did not perform very well not surprisingly.",
+        "questions": [
+            "Find the first non-repeated element in C \u00a0"
+        ],
+        "date": "Aug 26, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Initial call with a recruiter .Set up a phone screen the very next day. Had a techinical phone interview with code sharing .Given a BST print the nodes at each level on a seperate Line. I could do this easily with a queue ..but he wanted some thing with O(n) time complexity and O(1) space .ie no additional data structure like queues and linkedlists and array lists",
+        "questions": [
+            "Given a BST print the nodes at each level on a seperate Line. I could do this easily with a queue ..but he wanted some thing with O(n) time complexity and O(1) space .ie no additional data structure like queues and linkedlists and array lists \u00a0"
+        ],
+        "date": "Jul 12, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "I was contacted by a recruiter, and then was interviewed at Cupertino. The position I applied was highly related to my current job. The interview process was going well until the last round of on-site.I was interviewed by 8 persons for a whole day, and the interviewing panel was severely in lack of diversity. Apart from the HR lady who was White, all engineer interviewers were Indian. Half of them\u2026\u00a0 were nice and the other half were hostile. I am not Indian and they didn't like me.Regarding the un-friendly ones, I could feel that they just wanted to bring me down when they entered the room. I was in a technical interview for a future job. However, these interviewers treated me as a Customer support engineer sent by my current employer company to service Apple. They asked me many BS questions like \"how is XXX feature implemented\" and then blame me that something was poorly implemented and why it was the case. Oh man, I am not the architect for those features, blaming me couldn't help anything! Oh yes, blaming the interviewee gave the Apple interviewers a great sense of accomplishment, that Apple is greater than anyone else on this planet!When it was my turn to ask questions to them, oh sorry, the spirit of keeping things secret is in the bone of Apple's culture, nothing could be discussed. I have to say that interviewing with Apple is BORING, because I have to answer a lot of BS questions and get blamed for nothing, while I couldn't ask any technical question about Apple at all because everything is secret.Given that Apple's interviewers are so ignorant, so rude, and are in lack of diversity, I will not apply for any job at Apple in the future.",
+        "questions": [
+            "Questions about my current job, and extremely tricky C questions that you have to memorize. \u00a0"
+        ],
+        "date": "Aug 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Pros:Recruiters get in touch almost immediately.You can interview with multiple teams at once ..independently ..uh well, read cons below.Response time is almost always good.Cons - welcome to reality:I had couple of phone interviews with 2 of the teams and one with the third.Both interviews with the first 2 teams went way beyond excellent, with me answering every single question and having a good and engaging discussion with the interviewer. I\u2026\u00a0 am baffled at the outcome - rejected by both teams with no feedback. If they say background is not a fit after 2 rounds of interviews, I do not see why they even had to hold the 2 interviews.One team got back after first interview saying they want me to come onsite. After giving my availability and almost after 3 weeks, they get back saying they want another phone interview. I agreed. Almost immediately after the phone interview, I was rejected. It is not hard to connect the dots and see that they had made the decision already. Moreover, they asked for another round of interview after the first 2 team rejects. It is again not hard to see that, well, the process of multiple team interviewing is not independent.One team asked me to code in coderpad.io. The code I wrote was right but the interviewer only used c++ compiler. The same code worked perfect on C compiler. I sent a note after the interview. But guess what, reject anyway.",
+        "questions": [
+            "OS and Networking questions for the most part. \u00a0"
+        ],
+        "date": "Jun 29, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Fast Interview Process.First round is the phone interview with the hiring manager, asked few questions relating to the programming, then wanted me to finish a coding challenge and send it back to him in an hour.",
+        "questions": [
+            "Some data structure questions, but one the member in the team asked me a lot about QA which I don&#039;t see any thing to do with this position. \u00a0"
+        ],
+        "date": "Jul 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I interviewed with the Seattle's new icloud team. Had a couple of phone interviews that were fairly standard, and was invited onsite to their temporary office. The first onsite interview was with the hiring manager. He was smug and had strong opinions about how variables should be named, the flow of the code etc. It almost looked like he made up his no-hire decision within a couple of mins of\u2026\u00a0 the interview and was spending the last hr trying to convince himself why his decision was right. Whatever questions I had was replied with \"I can't disclose that information\". I don't understand what the point of asking me If I had any questions was, if you're not going to answer anything. The other interviewers and the recruiters I dealt with were pleasant. Disappointing end since I really like apple, but i'd have hated working for that manager anyways.",
+        "questions": [
+            "Standard technical interview questions \u00a0"
+        ],
+        "date": "Mar 4, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Recruiter invited onsite directly for a recruiting event. No phone screen. Meet 6~7 interviewer. The most impressive are the coordination of the seamless process. The recruiters make sure that you have a bathroom or water break between sessions. As a candidate I felt I was well taken care of. The hiring managers and engineers are also very well prepared, and they are all very passionate about what they are doing.\u2026\u00a0 It was a great experience for me although no offer in the end.",
+        "questions": [
+            "Coding questions, design questions. No much behavioral question. All the coding questions are not algorithmically challenging, but they are not easy to write bug free. \u00a0"
+        ],
+        "date": "Jun 5, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Recruiter cold call, then onsite interview for a day. The day had 3-4 interviews and one of the interviews was with a panel of developers where they interviewed together.",
+        "questions": [
+            "The recruiter cold call asked some questions like, what is NTP, then the onsite interview asked me to write some scripts for file operations, and then explain how TCP works. \u00a0"
+        ],
+        "date": "Feb 5, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I had two interview sessions in the morning -- I am not a morning person.One question pertained to tree traversal so it was basic CS. Not difficult but if you haven't memorized the routine you have to work it out on the fly. A decent question.Another question pertained to keeping a table of custom table view cells fully updated with images. Again not difficult as I've done this.Before arriving I\u2026\u00a0 was asked to write an app similar to what they produce, which was not difficult and took 6 hours. I'll be putting that a variant thereof in the App Store.Very little phone screening was required before the interview was set up, which was irksome as it suggests a \"culture fit\" is what they're really trying to assess. I'm a dude but if they don't hire me, I hope they'll hire a female programmer to add some diversity.Areas for improvement for Apple:1. Don't assume everyone is a morning person :)2. Do a couple technical interviews over the phone beforehand like Google does.",
+        "questions": [
+            "Given an iTunes type of app that pulls down lots of images that get stale over time, what strategy would you use to flush disused images over time? \u00a0"
+        ],
+        "date": "Mar 11, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The coordinator contacted me and set up a time via email after asking when I was available. The interviewer called right on time, and first asked about my interests and what I wanted to do. Then he explained about himself and what his role on the hiring team was. After that it was one or two technical questions, and wrap up.",
+        "questions": [
+            "Is there a difference between performSelector and performSelector:withDelay of 0? \u00a0"
+        ],
+        "date": "Feb 22, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "6 days",
+        "role": "Software Engineer",
+        "details": "40 minutes tops. Very little in-depth discussion of the actual job to be done. The interviewers were there as a group to interview a number of candidates to take on as a small group.",
+        "questions": [
+            "Solve a whiteboard Python problem. \u00a0"
+        ],
+        "date": "Sep 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "I was first contacted by email to setup a phone screen. The phone screen consisted of questions about past experience (i.e. hardest problem you ever had to solve) and no technical problem solving. This was then followed by an on-site interview consisting of meeting with a recruiter, several engineers, and a couple of managers. Most interviews were technical with one whiteboard question, a series of questions about resume experiences and\u2026\u00a0 then followed by time for me to ask questions.",
+        "questions": [
+            "Reverse a string \u00a0"
+        ],
+        "date": "Feb 26, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied the internship during the career fair in our university and got an on-campus interview on the next day. The interviewer is really nice. We started with some basic programming problems. I was asked to write code on the board. Then we discussed something about GPU and deep learning since the interviewer works for Siri Team. But I don't have much knowledge about GPU, so I failed here. Anyway,\u2026\u00a0 I still feel really happy to get this opportunity, which is actually the first career interview in my life.",
+        "questions": [
+            "Iterator, bit manipulation, something related to my projects \u00a0"
+        ],
+        "date": "Feb 10, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "I received and email from the recruiter asking me for my availability dates for a phone interview, once i gave them the dates, an interview was set up approximately a week after i received the email. The interview went on for approximately 60 minutes. It was included both technical questions and a coding problem. It was a very good experience and the interviewer was very patient and helpful.",
+        "questions": [
+            "Questions were all technical in nature, and mostly concentrated on the Operating System Concepts. \u00a0"
+        ],
+        "date": "Feb 8, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "A engineer called me, and begin to do the coding exercises. He required me to improve my solution until he satisfied with it. The questions are not hard, but there are some corner cases.",
+        "questions": [
+            "Two coding exercises and some follow ups. \u00a0"
+        ],
+        "date": "Oct 17, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "Sucks because i was able to adhere to the standards of a cheif engineer but they did not understand my managerial style that I hoped to incorporate within the team.",
+        "questions": [
+            "Where do you live \u00a0"
+        ],
+        "date": "Nov 11, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Interview through campus career fair. First interview is mainly to gauge knowledge and learn about the various projects you've done. Be prepared to answer some fairly basic computer science questions.",
+        "questions": [
+            "What is polymorphism? \u00a0"
+        ],
+        "date": "Jan 24, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "The recruiter first asked 1 java question and 2 bit manipulation question. After I answer them, he let me to ask him question. according to my previous project experience, I told him what I preferred to do. But he told me that apple has few position for my preference.",
+        "questions": [
+            "bit manipulation \u00a0"
+        ],
+        "date": "Feb 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I applied in the website and they called me when a suitable position opened up. This took me around 1 month. I had experience working with apple technologies in past which made me eligible for the post.",
+        "questions": [],
+        "date": "Feb 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Applied through recruiter. Got onsite interview. The hiring manager gave me question sheets.1. String reversal.2. Bit manipulation.3. Binary search optimization4. Some Unix Shell commands.5. Socket programming6. JFrame",
+        "questions": [
+            "The question about JFrame code... where I had to find the problem. \u00a0"
+        ],
+        "date": "Nov 20, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "Hiring process seemed ok but not sure what they were really looking. Random questions in every subject, not into a specific candidate strengths. Another thing was when asked about job or role definition, interview didnt really explained it well so that candidate can get more from the discussion. Overall it was ok type, not too bad and not too good.",
+        "questions": [
+            "Questions were not very difficult though. \u00a0"
+        ],
+        "date": "Jan 15, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Applied through a reference. Was contacted two to four weeks later. They set up a first interview with recruiter and hiring manager. Then an interview with an engineer mainly going over my resume and simple Java questions.",
+        "questions": [
+            "Questions I got asked were what does the final keyword do in Java and how I would go through a list of country music words and track the frequency of common words. \u00a0"
+        ],
+        "date": "Nov 12, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ months",
+        "role": "Software Engineer",
+        "details": "One of the worst interview experiences I have ever had.The setup and actual interviews was fine. The recruiter was quick to turnaround and give me the positive news and asked for a bunch of details to put together the offer.Then I waited for weeks, and every week there would be some excuse about the delay. Finally I had made up my mind that I would decline because this is poor\u2026\u00a0 ethic, but I did not want to give them the satisfaction of just losing me and not having to explain themselves so I kept at contacting the recruiter asking for status updates. Finally got one last excuse with a decline.I am glad I did not mention to anyone that I had a successful interview because it would have been really embarrassing to explain this. I guess the recruiter/team/Apple does not care about future employees/customers.",
+        "questions": [
+            "nothing was overly complicated. \u00a0"
+        ],
+        "date": "Nov 11, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineering",
+        "details": "Since I had a referral, I got to skip the initial phone screen, and instead, I had two phone interviews directly with the team that was interested in hiring me. The questions themselves weren't too hard - just prepare for your typical algorithms and design interview and you should be fine. In particular, there were a couple algorithmic design questions and one overall design question that tested how you approach\u2026\u00a0 bigger problems.",
+        "questions": [
+            "Algorithmic question relating to strings, design website a certain way \u00a0"
+        ],
+        "date": "Sep 30, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Submitted resume through school career website. Got an email from an HR saying that I match with a team. Received a phone interview a week later. Around 30 minutes. 10 minutes resume stuff and 20 minutes questions.",
+        "questions": [],
+        "date": "Oct 28, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Submitted resume through campus career fair, and received a phone interview about two weeks after. HR setup the phone interview. Interestingly, I was interviewed with the head of the group directly, while the group currently only has 3 people. There wasn't any technical questions, and one behavioral question was about the most challenging class I'm taking right now.",
+        "questions": [
+            "I wasn't ask any technical question. One behavior question that I remember was about the most challenging class I'm taking right now \u00a0"
+        ],
+        "date": "Oct 28, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "It is an invited interview after an iOS hackathon in our university. The interviewer didn't ask too many questions, mainly about my previous projects on resume. Only one technical question has been asked.",
+        "questions": [
+            "Assume you have many pages of slides, you want to change the order when you are editing them, say, you would like to insert the 7th page after the 3rd page and before the 4th page. Design and implement your idea. \u00a0"
+        ],
+        "date": "Oct 27, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Was scheduled for an initial technical interview for a new grad position after talking with an engineer at a fall on campus career fair. I only had about half an hour to prepare and was a little flustered so it didn't go great. It was a pretty standard 30 minute technical interview, though.",
+        "questions": [
+            "Standard technical questions. \u00a0"
+        ],
+        "date": "Oct 26, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "It started from a short HR talk, then go through an interview mainly focus on my background and past project. It takes more than three weeks to have the first technical interview.The interview checked many projects that are relevant to their interest. Questions are very detailed, it definitely needs for applicant to have a very clear idea to talk about. Since I have several research based projects listed on my\u2026\u00a0 resume. The questions are developed around my experiences. The process takes about 50 min.",
+        "questions": [
+            "The interviewer expected more than I've prepared. As I am not a native speaker, I feel some technical details are not explained as clear as it should be, even though I am quite familiar with what I did. Preparing stories might help. \u00a0"
+        ],
+        "date": "Dec 1, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Agreed to meet on-site in Santa Clara. Stood outside, apparently interviewer was waiting at a different door. He offered water. After going into the interview room had a whiteboard coding session. It involved creating a Java function to find the smallest number in an array. They emphasized communication with the interviewer who I would be working with. They were flexible and helpful during this point. After there were questions about\u2026\u00a0 Big O notation and Machine Learning. After the interview, in the parking lot, he started asking me about previous jobs I held.",
+        "questions": [
+            "Open-ended Machine Learning question involving comparing data. There was a strong impression that they were fishing for a specific answer, or expecting something without providing much context. \u00a0"
+        ],
+        "date": "Oct 24, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Recruiter initial contacted me through LinkedIn. I had an initial phone screen with the recruiter. Then a technical phone interview with an engineer. I then had a phone interview with the hiring manager to talk more about the position and the surround group. After that they flew me out to California for several in-person interviews. I was in interviews from 1-6, each interview last about an hour and had 2\u2026\u00a0 people in each. After that they decided that I would be a better fit for a different group so I had 1 more technical phone interview with an engineer, and one more phone interview with the new hiring manager.",
+        "questions": [
+            "There weren't any questions that stood out as difficult. All were pretty standard software engineer problems. \u00a0"
+        ],
+        "date": "Oct 11, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ months",
+        "role": "Software Engineer",
+        "details": "I spoke to Apple at a career fair that they were at. For some people they just took resumes and said they would get back to them later, but for others (myself included), there was a quick 5 minute interview (What is your favorite editor? What shell do you use? What's your favorite programming language? Scripting language?), which if you passed, led to an interview the next day. I had\u2026\u00a0 the interview the next day and it went pretty well. Got asked about runlevels, inodes, finding duplicate words in a text file (implementing uniq), what happens from power up to OS in a computer, and other various questions.I was told I'd hear back in 2-3 weeks, but I never heard back with a denial or otherwise and this was over 3 months ago. Assuming I'm not moving forward.",
+        "questions": [
+            "There is a mission-critical (i.e. cannot be rebooted) server that is lagging, hard. You only have a terminal/shell prompt. How do you debug it? \u00a0",
+            "What are the runlevels of init? \u00a0"
+        ],
+        "date": "Jan 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Contacted by a recruiter, screened by manager and then a technical phone screen, then a take home coding test and then a day of onsite interviews.I will say this, every technical test prior to the onsite was easy, relatively. When the onsite interviews started, we jumped into the deep end right away and the questions were at least 3x more difficult than the technical phone screens or coding test. I\u2026\u00a0 was definitely not prepared :)",
+        "questions": [
+            "Reverse a string in Python without using str.reverse() \u00a0"
+        ],
+        "date": "Feb 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Contacted me through LinkedIn, and then scheduled a phone interview with the interviewer, ask me to write code in apple doc beta version. No general questions, directly to coding question. takes about 30-40 mins",
+        "questions": [
+            "Use objective-c write code to return the first repeated integer from a given array, with O(n) time \u00a0"
+        ],
+        "date": "Aug 22, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "The phone interview wasn't exactly technical, I just spoke to the hiring manager and then was invited to an on-site interview. The on-site was a full day of about 5-6 technical interviews, with a few behavioral questions here and there. The technical questions related directly to the team's work\u00a0and were not the typical general CS questions. I will not share the exact questions (integrity and all that...)",
+        "questions": [
+            "What would you do if you were stuck on a problem? How would you formulate the question to your co-workers? \u00a0"
+        ],
+        "date": "Aug 17, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Recruiter told me there will only be some probing questions on my experience for 30 minutes. But, the interviewer started asking coding questions for an hour. I couldn't understand his English due to his strong Chinese accent.",
+        "questions": [
+            "How large file can be on HDFS distributed file system? Which was a silly knowledge testing. \u00a0"
+        ],
+        "date": "Nov 23, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Started with initial short phone call with their recruiter, covering my background and past experiences. Then a phone interview with a software engineer, covering background and technical experiences and languages.",
+        "questions": [
+            "given an integer, write code to list all primes preceding it. \u00a0"
+        ],
+        "date": "Jun 12, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Recruiter contacted me for phone interview. Phone screen took 20 min and they flew me over the next week for interviews with 8-10 people.",
+        "questions": [
+            "The technical interviews weren't hard but I got nixed by a top decision maker for lack of experience in one area. \u00a0"
+        ],
+        "date": "Apr 15, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone Interview",
+        "questions": [
+            "The recruiter forwarded my resume to the wrong team and the both the manager and I realized this as soon the interview started. What a waste of time \u00a0"
+        ],
+        "date": "Apr 19, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Was referred to the company by a friend and contacted by a recruiter within 2-3 weeks. Interview process went by fairly smoothly, with only two technical phone interviews. Both these interviews were with members from the prospective team I would be joining and I got a call from the recruiter about a week after the second interview with the offer. Everything was handled very cordially and the recruiter was available\u2026\u00a0 by email to answer any questions I had. Make sure to review data structures and search algorithms for the technical questions. I would also say that showing great interest in Apple products and being able to express why you want to work at the company is just as important as doing well on the technical questions.",
+        "questions": [
+            "Easy warmup question like reversing a string and then some more difficult ones involving search algorithms and data structures. Overall the interview process and questions asked are represented fairly well on this site. \u00a0"
+        ],
+        "date": "Aug 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "They were quick to interview me and I even made it to the second round but no one got back to me after that second round. The recruiter who was in touch with me for this interview process went on leave and I couldn't get in touch with her after that. Weeks later, I found out on LinkedIn that she switched to another company.Very unprofessional. They could have at least\u2026\u00a0 referred me to another recruiter or gotten in touch with me about the results of the interview. It's been a year now and I haven't heard back from them.",
+        "questions": [
+            "Explain singleton class in Java \u00a0"
+        ],
+        "date": "Mar 4, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "I dropped my resume and talked with a engineer in Apple at my university Career Fair. I was contacted after one week and got a phono interview with a manager in Siri Team.",
+        "questions": [
+            "The accent of the interviewer was very hard to understand.Given an array with N - 2 elements (two missing) from 1 to N, find the two missing elements in linear time and constant memory usage. \u00a0"
+        ],
+        "date": "Feb 11, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Apple recruiter contacted me on LinkedLn. After initial introductory round, there was on technical phone screen.After 4 days, their recruiter called me for onsite interview in Cupertino.There were 5 interviews, 3 (2-1), and 2(1-1) interview. After first 4 fully technical interviews, last interview was with the director of engineering, which was mix of technical and behavioral.Interviews was not very tough, they asked average question, even though I think I did\u2026\u00a0 fairly well in technical interview, I believe I wasn't well prepared for it, specially behavior interview . Questions were related to Design patterns, data structures, algorithms (BST related multiple problems, queues, linked lists etc). There were follow up question, how would you improve time/space compexity",
+        "questions": [
+            "how would you design evernote app, find circular loop in linked list, and other simple questions \u00a0"
+        ],
+        "date": "Mar 4, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The discriminate against you for your visa status. I would say worst company to interview for.",
+        "questions": [
+            "Do you have the work visa ? \u00a0"
+        ],
+        "date": "Feb 19, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "A friend of mine referred me for a position and was immediately contacted by the recruiter for the team to schedule a phone screen with the hiring manager. This was mostly a technical interview for an hour. I was then invited for a full day on onsite interviews from 11 am to 5.30 pm. The onsite interviewers were all good to talk to and smart obviously. There is a lot\u2026\u00a0 of coding on a laptop with the screen projected and also a lot of white board coding and system design. The questions were not extremely tough but makes you think in terms of DS and Algorithms. The lunch turned out to be a very technical interview in itself but now the entire team is shooting questions at you. Overall, it was a good learning experience. My brain was too tired by the end of the day at 5 pm and I got a puzzle question which I was unable to solve which might be why I did not get the offer because most of the other interviews were fine but there may be other factors as well.",
+        "questions": [
+            "The technical questions were all what you would expect in software engineer interview. Nothing unexpected in particular. \u00a0"
+        ],
+        "date": "Mar 18, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Flew in for an interview after being contacted by a recruiter. Flown in. The selection process for flights and hotels is great, it's kinda like they are running their own kayak. Regular silicon valley interview other than that.",
+        "questions": [
+            "Why do you want to work here? (Really thing that stuff through) \u00a0"
+        ],
+        "date": "Jul 10, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Got a phone call from the recruiter and then followed by 2 phone interviews. They flew my in to cupertino for onsite interview, which was pretty professional and smooth. Interviewers were super friendly and helpful.",
+        "questions": [
+            "Nothing really difficult. \u00a0"
+        ],
+        "date": "Jan 27, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "Had to write many hours of code just for the phone interview! Went to onsite and spoke with about 5-6 guys, mostly managers. The questions required lengthy whiteboard coding. To be fair, I did not get the answer to one of these in a timely manner, and this is likely why I did not receive an offer. I did formulate an answer waiting for my plane later, and forwarded it\u2026\u00a0 to the mgr.The general feel I got was that I was not a possibly valued asset, but a new cog for their machine. There was a pervasive lack of respect in the most of the interviewers' demeanor. I think it's an Apple culture thing, based on other posts I've read on Glassdoor. As soon as I left the building, I knew I could not work here. On the upside, it indicates extreme confidence in the company's ability to attract talent if they can speak to applicants this way.",
+        "questions": [
+            "Writing 8-9 hours of code from the phone interview assignment was a bit much. It probably took longer because I wanted to polish it. But it was not a simple problem by any means. I worked all night to have it ready. The onsite interviewers didn't seem particularly impressed with these efforts, and it gave me insight into how I'd be treated full time. \u00a0"
+        ],
+        "date": "Jan 17, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Applied for the job on apple.com. Got contacted by a recruiter and proceeded to two rounds of phone screening. Both of the interviewers are from the team that's hiring.",
+        "questions": [
+            "How to speed up a database query? \u00a0"
+        ],
+        "date": "Jan 12, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "I went to Apple's event on campus and a recruiter contacted me the next day, telling me I got an interview. It was very casual and mostly behavioral questions, demo my past projects and talking about my experiences. Keep in mind I am a college freshman, so this is not the usual case.",
+        "questions": [
+            "In the end, the recruiter (who turns to the project manager) informed me of my lack of experience, but would love to keep an eye out on me (she meant it sincerely) so I'll definitely apply next year with more material under my belt. \u00a0"
+        ],
+        "date": "Oct 25, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Meet with the technical recruiter in the morning. He actually went over who I'd be talking to, and at approximately what time I would be meeting them. Lunch was included. The schedule indicated we'd end about 3-4pm.All the interviews were technical. One of the interview slots was attended by 3 people, so it was like a panel.All of the interviews involved coding questions. Lunch was with the potential future team.",
+        "questions": [
+            "I got asked an interesting strstr question: implement strstr using a linked list of linked lists. This is actually quite difficult, and I spent about 70% of the time designing an iterator to walk through the LL of LL's. With the iterator in place, strstr became pretty easy.The guy interviewing me said that I produced the best answer he's ever seen.This is actually quite a difficult question, and I've begun\u2026\u00a0 to use the first part (design an iterator over a LL of LL's) as one of my standard questions. \u00a0"
+        ],
+        "date": "Nov 28, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "Met Apple recruiter through college fair. I've been applying online for ages without hearing anything back, so I guess Apple recruiters prefer candidates they've met in person.I had two phone screens next month. The first one was technical and pretty easy. The second was behavioral. I actually was really surprised, I had expected Apple's screening process to be a lot more difficult. I was asked to interview on-site next month.The\u2026\u00a0 on-site interview was way more challenging than the phone screens. I was still in college, so I knew a lot of things, but none in depth. The questions asked were directly related to the team's work, unlike most other companies -- where NCG's are usually asked questions based on what they've learned in school. I guess Apple's teams look for people they specifically need for a position even for college grads.I was able to hold my own for most of the first technical interview, but I started losing confidence and getting very nervous. By the third interview, I was a mess. It took me 5 minutes to actually understand what the interviewer was asking of me. The last two interviewers asked me about my experience and projects I had undertaken in college and at my internships. They were pretty impressed, but I knew it was too late by then. Sure enough, I was escorted out right after.I guess I was caught off guard by how much more difficult the on-site interview was than the phone interviews, and by how specific the questions were to the team.",
+        "questions": [
+            "Create a synchronization primitive for the operating system/kernel from scratch. I created a spinlock with test-and-set. Next, create a primitive that doesn't waste CPU cycles. (Essentially, how would you create a mutex inside the kernel?) \u00a0"
+        ],
+        "date": "Feb 8, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "It was a very professional process. The recruiters and interviewers were detail oriented and asked many questions about my background and area of expertise",
+        "questions": [
+            "collapse a binary search tree into a sorted list \u00a0"
+        ],
+        "date": "Jul 15, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "1 Telephonic interview with recruiter and 1 with hiring manager,then onsite interview for a day with 5 people.",
+        "questions": [
+            "based on resume and couple of in depth technical questions \u00a0"
+        ],
+        "date": "Jul 16, 2013"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Pretty informal, just interviewed with multiple members of the team and they asked me technical questions. I interview with about 4 members of the team individually. I then interviewed with higher up managers and a person in a more HR type role. The team leader had me write a program using the Sieve of Eratosthenes to test for prime numbers.",
+        "questions": [
+            "1. What is the difference between Grand Central Dispatch, NSThread, and NSOperation and when would you use each? \u00a0"
+        ],
+        "date": "Jul 16, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I was contacted by an Apple recruiter asking if I'd be interested in a specific engineering position. After a technical phone interview with the hiring manager, I was invited on-site for a full day of interviews.A trip coordinator at Apple sent me a link to their booking intranet that allowed me to book my flights, hotel, and rental car. This was great because it allowed me to tweak the travel\u2026\u00a0 exactly how I liked it.On the day of the interview, the recruiter met with me to give me an overview of the process and explain the benefits.The on-site interviews consisted of six back-to-back technical interviews that involved whiteboard coding exercises ranging from traversing binary search trees to software architecture and everything in between.The interviewers were all very bright and courteous. They asked great questions and when I got stuck, they gave me small bits of information that helped me get to the final solution. Though there were a couple questions that I really struggled with, I was able to arrive at a solution for every problem.Lunch was with my future manager and in the Apple cafeteria---paid for by Apple. The cafeteria is really impressive. They have several ethnicities represented with food served just as beautifully as their products. The lunch interview consisted mainly of resume clarifications, general behavioral questions, and a chance for me to ask the questions that I had.After the final interview, I said goodbye to the recruiter and the hiring manager and left for home.I was contacted the next day by the recruiter letting me know that the interview feedback was very positive and that they'd like to send me an offer. Once the details were ironed out, I accepted immediately.Here are some pointers to potential interviewees:1. Make sure you know basic algorithms and data structures. You should be familiar with hash tables, linked lists, binary search trees, etc. You should also know how to search and traverse each data structure.2. You should know Apple. Show your love and enthusiasm for the brand.3. Don't spout off about things that you aren't fully knowledgeable about. You'll get asked clarifying questions and will look like a fool if you were just talking to look good. Make sure you can back any opinions you give with factual evidence.4. Rehearse the typical behavioral questions. You should be prepared to answer things like \"why do you want to work for Apple?\" or \"Have you ever had an experience where x happened?\".5. Your attitude should be one of humility and eagerness to learn. You'll quickly realize that you're not the smartest person in the room. Be polite and humble.",
+        "questions": [
+            "Implement an iterator for a binary search tree that will iterate the nodes by value in ascending order. \u00a0"
+        ],
+        "date": "Feb 13, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "I think it's a great company to work for and I would highly recommedn everything to everyone. The process was long and painful. I enjoyed working through the coding problems. I wish the recruiter was more helpful, but I think it worked out okay overall. I think they are a grat company to work for.",
+        "questions": [
+            "reverse linked list \u00a0"
+        ],
+        "date": "Aug 24, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I interviewed for multiple positions over a span of an year before we settled on a position. The \"process took\" timeframe below is for the latest interview cycle which resulted in an offer being made. Without identifying the group / team by name, all I can say is that this division deals within a specific domain and as such, the talent pool is limited to recruit from.Mid-'12. The first interview\u2026\u00a0 (on phone), as always with Apple, was with the Hiring Manager. The interviewer was very pleasant and the questioning mainly revolved around my background and skills. Even though the interview as scheduled for 30 minutes, the Manager cut it short and told me he will follow up with me within a day. The second interview (on site) ran for about five hours and consisted 1:1 interview sessions with various Managers, Senior Analysts & Engineers and the Recruiter. The Managers, Analysts and Engineers who interviewed me were pretty professional and represented different departments. The questioning, like the phone interview, focused on problem solving abilities and approach rather than the solution itself. The Hiring Manager hosted a Lunch Interview. The last session for the day was with the Recruiter who asked me about my salary expectations and the usual HR stuff.The following day the Recruiter reached out to me and let me know that they were not interested in considering me further at that point of time. The whole process took about three weeks.Late-'12. The Recruiter reached out to me about a new position that would be a good fit to my skill sets. The first interview (on phone) was the customary Hiring Manager interview. The second interview (on site) was slightly shorter (four hours) than my last visit to Apple Campus. The interview consisted 1:1 interview sessions with various Managers and Analysts & Engineers. The questions were domain specific and revolved around problems and challenges that are typically encountered by someone working in these areas of expertise. The next day, I was told that the feedback was extremely positive and I was scheduled to speak with the Director. Since this was around the Holidays, my 1:1 with the Group Director got delayed. The third and last interview (on phone) was with the Director and mainly revolved around why I wanted to work for Apple and how do I think that I am good position. The Director had considerable domain knowledge. Unlike most Director-level interviews, this interview was fairly technical.Within couple of days, the Recruiter reached back to me to let me know that, as of then, they would not be able to make an offer and they would have to hold off on hiring me. While no specific reason was attributed, I was let known that the group was impressed with my skills and the process would resume soon. This time around the whole process took about six weeks.Early-'13. After waiting for couple of months, I reached back to Apple about resuming the previous process. I also let them know my keen interest in couple of positions that had opened up recently. The Recruiter followed up with a Coding Homework to regauge my technical skills. Once I was done solving, the Recruiter promptly scheduled an 1:1 interview with the Hiring Manager. The first interview (on phone) was soon followed second and last interview (on site). The on site Lunch Interview was just with the Hiring Manager. They skipped over technical rounds based on the homework solutions and my past interview feedbacks. By the time the final interview was scheduled, the group had, more or less, made up their minds about hiring me. The final session was basically about what they envisioned for the position they were hiring and if I am truly interested in joining them.The Recruiter emailed me the following business day and let me know that they were ready to make an offer. This was followed couple of email and phone calls to finalize the offer & package.Here are couple of tips based on my experience and from what I have heard from folks who have undergone the same process.* Never \"wing\" it. I realized it the hard way. Engineers questioning you know their stuff and can easily make out if you know things or if you are just guessing.* The on site interviews are exhausting. Make sure you are hydrated and well rested. Interviewers, as a matter of process, will not offer you a water / restroom break unless you ask for it.* For a technology giant, some of the processes are still \"old-style\". No t-shirts or jeans for the interviews. Candidates are expected to show up in business casuals.* Like most things Apple, the Managers, Analysts and Engineers are very secretive. They'll never tell you what they are working on and the expectation is for you to illustrate solutions based on your current job.* On a lighter note, the food available in Caffe Macs are gourmet, personalized and highly economical. Apple will provide you with a \"Food Coupon\" which will be more than sufficient to cover your lunch, twice over.",
+        "questions": [
+            "Tell me about an interesting research project that you conducted or were involved with. \u00a0",
+            "What brings you here today? \u00a0",
+            "Can you optimize this code? \u00a0"
+        ],
+        "date": "Mar 24, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Apple found me through LinkedIn and contacted me for a position. I had two phone interviews and then they flew me out to San Jose for a day of interviews. I met with the recruiter, my future boss, my future bosses boss and my future bosses bosses boss as well as four other engineers. There were technical questions, in each of the engineers interviews.",
+        "questions": [
+            "Programming questions \u00a0"
+        ],
+        "date": "Mar 15, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I was contacted by a Recruiter who set up a phone interview. They told me that it would be with the iCal / FaceTime team. They also mentioned that the internship would be focused around building prototypes of future versions of software.",
+        "questions": [
+            "Lots of OS type of questions. Explain semaphores, difference between thread/process, 64 vs 32 bit addressing. \u00a0"
+        ],
+        "date": "Sep 8, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Its was a 3 week process",
+        "questions": [
+            "Do you own a apple product? \u00a0"
+        ],
+        "date": "Mar 1, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Full day of interviews, split into 5 one-hour-long sessions, plus lunch. Each session is with one or two engineers who ask very technical questions about programming, modeling, and other software engineering requirements. Lunch is with the hiring manager and some or all of the team.",
+        "questions": [
+            "Model an elevator. \u00a0"
+        ],
+        "date": "Feb 7, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Met recruiters at University Career Fair. Submitted my resume through Apple's website. I got a call saying they wanted to set up a phone interview. Got a call from a software engineer who works in their iOS Frameworks. Most of my experience and resume material came from the fact I write iPhone Applications. They were hiring for their frameworks division. It was a mismatch because I was one level above\u2026\u00a0 the software they write. They asked me two questions: 1 was a database question on why did I write my database tables the way that I did for a project I had listed on my resume. The second question was why do you write \"assign\" on the property declaration of a class. Overall it seemed like a pretty standard interview. I blew the second question but before I got off the phone the Apple Engineer told me I had more experience than he did when he was my age. I'm in college.",
+        "questions": [
+            "Why do you write \"assign\" in a property declaration on an Objective-C class \u00a0"
+        ],
+        "date": "Jan 30, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Interview process begins with 30 min recruiter and next 30 min hiring manager. Next process is technical phone interview followed by onsite interview whole day.",
+        "questions": [
+            "Core design concepts. \u00a0"
+        ],
+        "date": "Feb 10, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "You will receive an email notification before two rounds of phone interview, the first is about the project or research experience you included in your resume while the second is testing your understanding of the courses you have listed.",
+        "questions": [],
+        "date": "Jan 18, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "The phone interviews consisted of an initial screening that involved general OO design, then the phone interviews asked for more detailed technical tasks. They are often very interested in past projects, so be able to talk in length about things you've worked on. On site was long, from 9:45-4:30, consisting of 6 45 minute interviews. Questions ranged from debugging a toy program they had written to designing out an application\u2026\u00a0 I was planning on working on.",
+        "questions": [
+            "Reverse a C string that has a special character encoding. Special characters are two bytes and are preceded by a flag character represented by the highest bit being set to 1, then the following bits specifing how many special characters will follow. The special characters are be interspersed between normal characters. \u00a0"
+        ],
+        "date": "Jan 17, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Contacted for phone interview and got scheduled within the next two days. Two people were phone interviewing me and asked mostly programming exercises. No algorithm, conceptual, or problem solving questions were asked. Questions like write a function for the given function prototypes.",
+        "questions": [
+            "The unexpected question was about reversing a singly linked list with the given prototype. But I was the one to be blamed as I wasn't well prepared. \u00a0"
+        ],
+        "date": "Nov 5, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Multiple phone interviews with various managers and team members. Friendly and surprisingly unorthodox compared to the run of the mill European software houses I was accustomed to. Persistently follows you up. Company seems to have an interesting mix of talent, and seems to seek people who aren't necessarily pure engineers.",
+        "questions": [
+            "Was asked why my blog was spanned such a wide range of subject over a short time. \u00a0"
+        ],
+        "date": "Aug 12, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Very friendly interview with questions about background and recent projects. No technical questions at all, he made the process very smooth. My experience was not suitable with what they are looking for so didn't go through second round, but very nice guy interviewed me, hope all interviews are like that.",
+        "questions": [
+            "details about projects you worked on, and tough moments going through them \u00a0"
+        ],
+        "date": "Jul 10, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "3 steps: 2 phone interviews, and then onsite interview (required trans-Atlantica flight in my case). The onsite interview took a whole day: about 5 or 6 rounds, each typically conducted by 2 engineers from the team to a position in which I applied. The common scenario was: mutual introduction, questions about my previous experience and why I want to work at Apple, then coding tasks on the whiteboard, and my\u2026\u00a0 questions to the interviewers.",
+        "questions": [
+            "Since it was more than 3 years ago, I don't remember the questions. Basically, it was mostly a mix of general Computer Science questions (algorithms and data structures) and Objective-C / Cocoa. \u00a0"
+        ],
+        "date": "Jun 18, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I had three interviews, the first one was to see if knew basic Objective-C and to hear a little about my background. The second interview was with my future mentor, he asked me about my views of Apple and some technical Objective-C/iOS dev questions. My future mentor then had a entry level engineer interview me to verify that I knew as much about iOS dev as i claimed to know.About\u2026\u00a0 a week after my last interview I received an email stating I got the position.",
+        "questions": [
+            "Describe MVC. \u00a0",
+            "Describe categories. \u00a0"
+        ],
+        "date": "Mar 10, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Interview wasn't hard. Easy person to talk to.First asked me general questions like why do you want to work at Apple? Whats your favorite Apple product? Describe a situation in which you failed and how you handled it.Then he asked me a few questions about Git.Overall I thought the interview went fine but didn't end up getting it.",
+        "questions": [
+            "Why do you want to work at Apple? \u00a0"
+        ],
+        "date": "Mar 30, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineering",
+        "details": "After applying through college career fair, I was scheduled for two phone interviews, for iOS and Mac OS teams. I was offered a position just a day after the last interview. Recruiters are very helpful, replied to emails even on weekends.",
+        "questions": [
+            "Design an automatic reference counter for objective-c. \u00a0"
+        ],
+        "date": "Feb 17, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "casual and very relaxed. Basic logical questions. Was easy. Tech questions and to suggest solutions based on logic rather than correct answers. They gave lots of time and were relaxed.",
+        "questions": [
+            "Fibonacci series. Logical questions on arriving at a non relevant answer. Puzzles and flow of logic were integral part of the questions. Most of the questions were not related to tech field \u00a0"
+        ],
+        "date": "Jan 6, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I did an initial phone interview where we discussed general technology, I presume this was to make certain they weren't wasting their time. They then followed up with on-site interviews for which I was flown out and put up in a very nice hotel. The interviews lasted from 9am-3pm in 45 minute increments, each with a different person. Each person was different, some wanted me to do specific programming problems\u2026\u00a0 others just wanted to talk about my experience. Overall the stress level wasn't too high, and I wasn't asked to do anything overly complex.",
+        "questions": [
+            "Write a function that traverses a binary tree \u00a0",
+            "Write an array map function in Ruby and again in Javascript. \u00a0",
+            "Given the following struct how much memory is require to store it in a 32-bit and 64-bit system?struct A {\u00a0\u00a0char t;\u00a0\u00a0char *t;} \u00a0"
+        ],
+        "date": "Jan 25, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "General computer science questions. Included things about command line, data structures, basics C/c++ terminology.",
+        "questions": [
+            "How do you change permissions of a file from the terminal? \u00a0"
+        ],
+        "date": "Mar 14, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "I was phone interviewed by two different groups. The questions are very general and not difficult, but their recruiters suck. They never replied your email and telling you the results. Also the engineers are arrogant and they do not respect others.",
+        "questions": [
+            "What you did in the past \u00a0"
+        ],
+        "date": "Nov 3, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Got an initial call from the recruiter through employee referral. Recruiter asked standard questions like what am I interested in, what my other options were and whether I was interviewing with other companies. He then asked me suitable dates for an initial phone screen interview with one of their managers.Once the phone screen was over, recruiter got back to me saying they would like to invite me over to Apple\u2026\u00a0 campus for further on site interviews. I gave him a few dates I was available at and recruiter scheduled 4 interviews with team members I was going to work with if I was hired. The designation of interviewers ranged from peers to potential manager to department VP.All were half hour interviews. People seemed really excited about being at Apple and working for one of the most successful company in the world. They all were very friendly and nice to talk to. Apple cupertino campus is beautiful. There is a lot of diversity at Apple. On the top of this, they all seemed really stressed out with work. The perception I got was that work environment is really hectic at Apple.",
+        "questions": [
+            "Describe oen of the most exciting projects you have worked on. Then questions related to what I described. \u00a0",
+            "What are design patterns, describe a couple of them. \u00a0",
+            "How comfortable are you in picking up and learning a new language \u00a0",
+            "Have you ever been in a stressful position at work and how did you handle that \u00a0",
+            "Why do you want to join Apple and what will you miss at your current work if Apple hired you. \u00a0"
+        ],
+        "date": "Aug 30, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Original questions, not the usual off-the-shelf stuff. One interviewer even acknowledged that it made no sense for me to remember every obscure detail of a data structure, he was happy with me recognizing what the correct data structure for the task at hand was and explaining whyLots of problem solving: \"we have this issue how would you tackle it?\" questions, and the discussion was along the lines \"I would do\u2026\u00a0 this\" - \"Do you know the performance implications? Complexity in time and space\". I believe this was good: the interviewer was focusing on my skills as a programmer/designer of my own code rather than a walking algorithm reference book",
+        "questions": [
+            "What would you want to do in 5 years from now? \u00a0"
+        ],
+        "date": "Oct 1, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I had two phone interviews, both focused on solving programming problems",
+        "questions": [
+            "Write a recursive function to determine prime number \u00a0"
+        ],
+        "date": "Feb 20, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "HR/Manager interview went well, in person. Had phone technical interview where guy was asking obscure database terminology about implementations done 5 years ago.",
+        "questions": [
+            "What database applications have you implemented in the past? \u00a0"
+        ],
+        "date": "Dec 11, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Approached by recruiter after submitting resume online. Had a phone call with a manager followed by 2 back to back video interviews consisting of questions about my past work, and a couple of programming assignments at the end. Questions were strictly technical and focused on relevant experience only, skipping over those which didn't apply to the position I was interviewing for. Feedback was good and I was invited for on-site\u2026\u00a0 interviews. Surprisingly just a week later I was told they hired someone else and the interview stands canceled. I was very disappointed. I wouldn't say the experience was negative, as the interviewers and my recruiter were friendly and to-the-point. Recruiter still assured me they're looking for other open positions but nothing worked out and I gave up after 2 months.",
+        "questions": [
+            "Describe yourself, what excites you? \u00a0",
+            "Write code to reverse a linked list. \u00a0"
+        ],
+        "date": "Aug 20, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Phone interviews were standard fare: programming puzzles, algorithms, etc -- nothing out of the ordinary. The onsite interview was a much different story. Everyone was fairly rude and condescending. The general sentiment was: \"Apple embodies greatness. You should be very happy that we've deigned to grant you a small part of our time.\"",
+        "questions": [
+            "What is the difference between a class, an abstract class, and an interface? \u00a0"
+        ],
+        "date": "Nov 7, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "They give tow rounds of phone interview. First round is with the manager and the second round is with an engineer in the team. The question is algorithmic in nature. The interview process is also friendly. The people in the company are smart and they generally work hard. The company culture is also nice and encourages good ideas on products.",
+        "questions": [
+            "Find number of ones in an integer. \u00a0"
+        ],
+        "date": "Oct 15, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "My manager asked me about the projects in my resume.He wanted the intern to have programming skills and understanding of information security.He did not ask many questions about the syntax.I thought he would like the candidate to show the learning ability and enthusiasm for the work.That was my first interview. It was unforgettable because it changed my life.",
+        "questions": [
+            "It is a question about metadata. \u00a0"
+        ],
+        "date": "Jun 30, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "I got an email with a recruiter at Apple for an opportunity with one of the engineering teams at Apple. I was very excited about this and quickly scheduled a phone interview.My first phone interview was about 45 minutes in length and it involved questions about my current work and experience. Basically technology I have worked with as well as some minor CS questions. If you know basic CS, you\u2026\u00a0 can breeze through this.With that done, I received another email about another round of phone interview which was about 30 minutes long. This drilled into my critical thinking and general problem solving abilities. Wasn't too bad either.After this, I got an email from the recruiter that they were interested in flying me over for an onsite interview.I met with 8 different people with different mixes of 1:1 and 2:1 interviews each lasting about 45 minutes to last a total of almost 5 hours.I got some questions about Fibonacci series, linked list (delete the nth node), improving certain aspect of a system (can't say more on this). Generally, it was a pleasant interview experience, and if I hadn't gotten the offer, the experience alone was enough.",
+        "questions": [
+            "Define a class for a linked list and write a method to delete the nth node. \u00a0"
+        ],
+        "date": "Mar 15, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "role": "Software Engineer",
+        "details": "Normal Software interview with the standard coding questions like linked list, trees, data structures and algorithms. The process involves a phone screen and 5 rounds onsite interview. Be prepared to show some passion for apple products as that is one of the key things they look for.",
+        "questions": [
+            "They asked me to explain one of my college coding projects and asked me specific questions regarding the design. \u00a0"
+        ],
+        "date": "Jul 29, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I had couple of phone screen interviews . First screening only involved background questions. Second screening was more technical . I was asked simple programming interview like write a fibonacci series given the length.",
+        "questions": [
+            "Write a fibonacci series \u00a0"
+        ],
+        "date": "Jan 24, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Applied through Apple website, got a call from an Apple Recruiter.I was asked to be present for a half day interview session, when I reached there I found there were 5 other candidates along with me. The recruiter took all of us to a conference room where other interview panel members were waiting for us. We were given a short presentation of Apple as a company and the team in\u2026\u00a0 general for which we were being interviewed. Then each person took one of us to an interview room. They used to ask questions for around half an hour and then the interviewer changed to some other person. I gave interview to 3 different person",
+        "questions": [
+            "implement fibbonaci series in java \u00a0",
+            "design patterns \u00a0"
+        ],
+        "date": "Apr 12, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "Went very well on the phone but onsite it was a different story. A few affable folks but what a disorganized interview. The manager clearly spent no time divvying up topics, so I sat through six hours of the same damned questions over and over. A couple of guys clearly didn't want to be there at all. The manager was burned out, kind of listless, I'm not surprised - my\u2026\u00a0 connections confirmed the sweatshop atmosphere.",
+        "questions": [
+            "I don't remember the exact questions but they weren't very hard. \u00a0"
+        ],
+        "date": "Jul 5, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "The phone interview consisted of just questions about my past work experience. Then got called for an on-site interview. The interview lasted 5 hrs with 30 min interviews with 10 people, including one with HR. Most of the questions were about my past experience here as well. Included a lot of drawing on the white board to explain the architecture of software I had worked on. There were some programming\u2026\u00a0 questions as well, which were quite simple, like code for fibonacci series and factorial using both recursive and non-recursive methods, counting the number of 1s in a variable, writing code for a circular buffer. Also had questions on OS, like memory management, interrupt handling, preemption etc. I thought I did well, but did not receive an offer.",
+        "questions": [
+            "Write code for writing to a circular buffer. \u00a0",
+            "Write code for generating a factorial/fibonacci for a given number using both recursive and non-recursive methods. Advantages and disadvantages of each method. \u00a0"
+        ],
+        "date": "Oct 24, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Started off with a phone screen where we talked about the experience on my resume and other high level software development concerns. I had some time to ask questions about their process and got an overall good feeling.The next step was I was emailed a coding problem that I had to complete and return within two hours of opening the email. Upon completion of that I was flown out to\u2026\u00a0 Cupertino for an in person interview.The in-person interview lasted from 10am to 4:30pm where groups of 2-3 people would come in and spend a 1/2 hour asking white board questions, coding problems, further questions about experience. With each group you were given a token \"time to ask questions\". Some of the questions seemed a bit repetitive in that many of them were about data modeling. One or two academic questions that aren't really applicable to the work, but just show some problem solving ability.",
+        "questions": [
+            "There were no real \"out of left field\" type questions, such as the classic \"How many gas stations are there in the US?\" or \"How would you move mount everest\". All questions were within the bounds of the subject matter. \u00a0"
+        ],
+        "date": "Jun 30, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "had a phone screen and group phone interview. it was cake. had to answer a couple questions about C, javascript, jquery, python. very smooth.",
+        "questions": [
+            "How would you diagnose a buffer overflow? \u00a0"
+        ],
+        "date": "May 6, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I had a total of three phone screens with Apple's software integration team. The first two phone screens were with the development manager of the team. The third phone interview was conducted by three senior engineers on the team and last about an hour. Their questions ranged from algorithm complexity to specific questions regarding Microsoft's .NET framework (the position required a lot of Windows knowledge).Overall it was a decent experience.\u2026\u00a0 The development manager who interviewed me in the first two interviews was very kind and made me feel excited about the position. The engineers in the third interview seemed rushed to get through their questions and even though I felt I did well, I wasn't offered a trip to Cupertino to meet the team for a face-to-face interview.",
+        "questions": [
+            "Give the complexity of various sorting algorithms \u00a0",
+            "Asked various SQL and .NET questions - basic stuff \u00a0"
+        ],
+        "date": "Mar 30, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Contacted by recruiter. Phone interviewed by a hiring manager. Then 1-day on-site interview. Technical questions are ranging from data structure, algorithm, and knowledge of special techniques. The interviewer will challenge your answers by asking you to optimize them. My strategy is to come up with a so-so answer and then discuss possible directions with the interviewer.",
+        "questions": [
+            "Do you use our products ? \u00a0"
+        ],
+        "date": "Mar 10, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I talked to a recruiter at a BYU college career fair and left him my resume. When the official recruiter came to town he scheduled an interview through our recruiting office. He had been all over the nation interviewing candidates and was only looking for one position. he asked a lot of personal questions and only a few technical questions, like about the unix terminal. \"If you wanted to change\u2026\u00a0 permissions to read/write all recursively how would you do it?\"",
+        "questions": [
+            "If you had to change permissions to read/write all recursively in the unix terminal, how would you do it? \u00a0",
+            "If I put you in a sealed room with a phone that had no dial tone, how would you fix it? \u00a0"
+        ],
+        "date": "Nov 9, 2009"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineering",
+        "details": "I was contacted by a recruiter after posting and applying to multiple positions online. The recruiter set up a phone interview with one of the members of the iPhone Applications team. The interview started on time and after introducing each other the manager quickly began to ask technical questions. The initial questions had to do with some of my previous work experience and algorithms and design approaches I used to\u2026\u00a0 solve the problems.The final question (and the one that stumped me) had to do with the implementation of a text autocompletion system. No matter what position you're interviewing with, I would make sure that you have brushed up on some fundamental data structures.",
+        "questions": [
+            "The iPhone has a feature for when a user begins to enter a contacts name or email address a list of possible matches is built. How would you implement this in order for the search to perform quickly and change each time a user inputs a character? \u00a0"
+        ],
+        "date": "Nov 15, 2009"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I was interviewed on campus (my school) by an Engineering Manager. He was a hiring manager for the CPU Software team. However, they said they had several openings in different teams and the interview was for all of them. And it indeed was. The questions were very generic, but mostly compiler kind of questions - size of struct, loops, find errors in code,big endian-small endian, etc.",
+        "questions": [
+            "Showed a struct definition in C and asked its size? \u00a0"
+        ],
+        "date": "Nov 9, 2009"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 weeks",
+        "role": "Software Engineer",
+        "details": "A very challenging interview provided by Apple. Before they brought me on-site, I had several conversations with the team over the phone over the course of 3 weeks. Onsite, the interview lasted for 5 straight hours and I spoke with 9 different people. They wanted me to speak to 2 or 3 more people, but those individuals were in meetings. The interview itself was very challenging, all matter of questions\u2026\u00a0 were asked including knowledge and experience with Apple products, previous projects worked on, a variety of technical questions, creativity questions, and a personal evaluation of faults and shortcomings. The interview process was very grueling but in the end rewarding; however, I was not offered a position.",
+        "questions": [
+            "Have you ever disagreed with a manager's decision, and how did you approach the disagreement? Give a specific example and explain how you rectified this disagreement, what the final outcome was, and how that individual would describe you today. \u00a0"
+        ],
+        "date": "Jul 30, 2009"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "I was first contacted with a recruiter, who set up a phone screen with a hiring manager. The first phone screen was technical and covered mostly operating system concepts and a little bit on data structures. It went well, so I was told that the recruiter would schedule a second phone screen with another team member. The recruiter scheduled the second phone screen. This phone screen was also technical and\u2026\u00a0 not much different (a lot of questions about operating systems). This one was not with a manager. The recruiter contacted me two days later and said they were going to \"pass on me.\" Both of the interviewers I talked were pleasant to talk to and seemed intelligent. The only downside was that the second interview seemed to be more about what I could remember from my operating systems class than my experience and real capabilities. I thought I had done well on the second interview and I thought interviewer's attitude backed that up; there is no feedback on your answers.",
+        "questions": [
+            "Have you ever written multithreaded code? Tell me about it.. \u00a0",
+            "What is a hash table? How do they work? What is the time complexity for a lookup? What happens if two keys are the same? \u00a0",
+            "What's your favorite feature about your favorite language? Tell me about it... \u00a0",
+            "Describe a depth-first search and a breadth-first search... What's the time complexity to iterate all nodes in a binary search tree? \u00a0"
+        ],
+        "date": "Mar 24, 2009"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Teams of two to three people at a time interviewed me in waves. Technical questions were asked. No brain teaser types of questions. Opinions were asked of various technologies. No one was very prepared for the interview. It seemed like most were bugged to have to do it and just wanted it to be over. Having to work on short deadlines and long hours was a recurring theme.",
+        "questions": [
+            "Can you work long hours on a short deadline \u00a0",
+            "where do you see the technology moving in the next few years \u00a0"
+        ],
+        "date": "May 29, 2009"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I interviewed with the hiring manager, then with several team members, two at a time. The final interview was with VPs, one after the other. I was not told beforehand that they would be VPs. Aside from the background check, this is the final step before an offer is authorised.My potential co-workers all seemed very capable, there was no bottom 5% as far as I could see. I hear that\u2026\u00a0 laziness or time pressure is the most likely cause of screw-ups or people not wanting to do things thoroughly, rather than people not having the technical know-how.",
+        "questions": [
+            "Questions on background, coding exercised, how I would approach problems, how I would debug. all very typical. \u00a0"
+        ],
+        "date": "Mar 18, 2009"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "I interviewed for an internship. Two phone interviews were conducted. Both interviews were technical, and focused primarily on previous experience, with questions akin to, \"Describe a recent programming challenge you completed, and how you overcame it.\" I was not asked to write code at any point, presumably because the interview was for an internship.",
+        "questions": [
+            "Describe a recent programming challenge, and how you overcame it. \u00a0"
+        ],
+        "date": "Jun 9, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I appeared for a college interview with Apple. The technical part of the interview was fine: there were no trick questions. One of the questions was to actually write C code for some string manipulation. The interviewer also asked me if I used Mac OS, and what I thought was annoying about it. We had a good discussion about the technical and user-side limitations of Mac OS X. The technical\u2026\u00a0 interview was fine.The real disaster was the HR interaction. Right after the interview, the HR person gave me an iTunes gift card...for $1. A. Single. Dollar. I thought it was a joke, and I told the person to keep it. I wasn't an iTunes user anyway, and I thought a gift card for a single dollar was borderline insulting. It would have been better not to offer anything. After the interview, I waited for a response. I received a call that my interview had gone well, and they were interested in getting me on-site (Cupertino) for interviews, then I got some conflicting email saying that on-site interviews wouldn't be required. This was for an internship, and most bay-area companies don't bother with onsite interviews for summer internship. In the meanwhile, I had interviewed with Google, and they had offered me a position. I emailed my recruiter at Apple, and got no response back. I accepted the Google offer. A week or two later, I get a frantic call from some other Apple recruiter, saying how they'd love to have me over. Alas, by then it was too late.I suspect Apple expects candidates, especially college students, to wait for them.",
+        "questions": [
+            "Write a routine to determine if a linked list has a cycle. \u00a0"
+        ],
+        "date": "Feb 27, 2010"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "They saw an application that I wrote on my website and offered me an internship. I worked on some of their smaller profile projects for a year until they offered me a full time job.I don't remember the questions being very difficult although it was a while ago. I think at Apple, they are really looking for something different about each person. For me, they saw an app I wrote\u2026\u00a0 and released when I was 13 and they thought I might be useful. For others, it may be different.",
+        "questions": [
+            "You have a 100 coins laying flat on a table, each with a head side and a tail side. 10 of them are heads up, 90 are tails up. You can't feel, see or in any other way find out which side is up. Split the coins into two piles such that there are the same number of heads in each pile. \u00a0"
+        ],
+        "date": "Jun 19, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "6 weeks",
+        "role": "Software Engineer",
+        "details": "Very Disorganized.Questions were relatively stupid and run of the millPeople were not very smart.",
+        "questions": [
+            "How do you know which direction a memory stack grows in? \u00a0"
+        ],
+        "date": "Mar 21, 2009"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "8 weeks",
+        "role": "Software Engineer",
+        "details": "Questions where about low level computer internals. I was asked programming problems and to optimize everything the more I could. The whole process was way more about the field I'm working in, not an abstract programming process with no interest in my knowledge.",
+        "questions": [
+            "What was the hardest problem you solved and how did you solve it? \u00a0"
+        ],
+        "date": "Mar 12, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I was interviewed for Software Engineer in Singapore for Emerging Technologies team.Phone interview as first engagement, which was more like background check and some technical proficiency assesment. To see where you're good at. Then moving on to onsite interview, I have 4 rounds back-to-back.First meeting with the recruiter - to get your current career view and asking about salary. Then second round, interviewer was late for half an hour so\u2026\u00a0 i had to call the recruiter again. They are asking about Java, security (PKI, authentication, encryption) concepts, and Linux commands to check cpu stat, search open port remotely, etc. At this round, the interviewer demands lots of answers for exact filenames (e.g to configure tomcat, sysctl file name) which gets very frustrating. I think some people who works more on other technologies will find it very hard even though they understand the how-tos. They also dont answer questions related to the roles and impose secrecy and \"you will know if you join\" notion, rude. Third interview is more to understand on the networking and core java, sql knowledge. I find it very helpful if you prepare for reviewing tcp udp concepts, read java books for basics. Fourth interview, is again a general question regarding many topics like Java, shell scripting, sql.Second onsite interview, i am faced with the hiring manager. In here we spoke more about the work i've done, explain some server architectural concepts and design. I guess they want to access your knowledge vs their setup and see if things match. He said it will be another interview for final round.Then finally 3rd and final round is with engineering director (hiring manager's boss). Here it is more to speak your background and why you want to leave your job, he is accompanied by one technical person in my case. I guess he is there to assess and help if there is some technical concepts to verify. The director then speaks more about the vision for the team and assess your knowledge on scaling your deployment.BUT after last interview, NO NEWS whether i'm accepted or not, nada zilch. The recruiter have contacted me once to checkup for the expected details, buy no news after even with follow up several times. I'm terribly disappointed with this kind of behavior from Apple. Really. At least information of the outcome if its bad news/problems with some requirements. This is the least courtesy you can do. I'm not sure what is held back for, this is true even for poor candidate.",
+        "questions": [],
+        "date": "Jun 7, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "I went trough 4 interviews: 1 over phone, 3 onsite, all of them were one-to-one interviews. Interviewers were very competent but helpful the same time1) Algorithms and data structures2) Software architecture3) Domain specific",
+        "questions": [
+            "I signed NDA, which doesn't allow me to publish questions. \u00a0"
+        ],
+        "date": "May 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "I was initially contacted by a recruiter from Apple then he went on and set up phone screenings with three different teams. Then they flew me to a recruitment gig they were having in Europe. I had 4 interviews where I had to explain how stuff worked and do some coding exercises on the white board.Around 2 days later I was told that I had good skills but there was\u2026\u00a0 another candidate who looked like a better match so they decided to flew him over to California for the on-site interviews. Overall, it wasn't a very hard interview and I thought I managed to do well. People seemed rather friendly.",
+        "questions": [
+            "Write a method that returns true if the given number is power of two. \u00a0",
+            "Write a linked list insert method. Thread-safe and without using locks. (Tip: an atomic compare&swap function is available) \u00a0"
+        ],
+        "date": "Feb 27, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "1 contact phone call, 1 phone interview, just general questions, almost nothing job-specific was asked. Interview was very easy and I really couldn't understand why / how they can employ anybody with knowing basically nothing about their skills",
+        "questions": [],
+        "date": "Sep 19, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "It took about a week and a half for HR to contact me and schedule two interviews. The first one was with the team leader and the second with another engineer at the firm. The first interview was a little personal, but mostly technical, where I answered an algorithm question in C. The second one was harder, and also included a C programming question. Both interviewers were very helpful and\u2026\u00a0 pleasant, and gave some hints when needed.After a week I was notified that I had passed on to the next stage, and they're supposed to be another stage afterwards.",
+        "questions": [
+            "I needed to code an algorithm that manages a parking lot. Only one car gets to the entrance at a time, and there are two sensors. One at the entrance and one at the exit. This is a 24/7 working lot, and I had two other functions to use, openGate() and closeGate(). When a car gets to the lot, if there is free spot the gate needs to be opened\u2026\u00a0 and closed afterwards. If it is full the car will wait until there is free spot so the exit needs to be monitored using the sensor as well. \u00a0",
+            "Get a number of spots in an area. How many lines will you have between all dots? How will you map them? How can you find the shortest distance? Can you tell between which dots is the shortest distance? All in C coding. \u00a0"
+        ],
+        "date": "Jan 2, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "interview with to different teams, 1 hour each, regular format: describe yourself, technical background, a short description about the job, and then technical questions. i was aiming for application layer and got matching questions.",
+        "questions": [
+            "How to detect stack overflow at runtime in C, when running a recursive Fibonacci functon \u00a0"
+        ],
+        "date": "Nov 23, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "- I submitted my resume to the Grace Hopper Celebration database, and it was forwarded to multiple Apple recruiters who were looking for New Grad candidates.- Each team at Apple has its own designated recruiter, and because my resume was distributed to many teams, I ended up doing a number of phone screens. The phone screens usually were not difficult because they were only 30 minutes long. They mostly tested\u2026\u00a0 knowledge based trivia questions along with asking about your past work experiences and projects. It was pretty overwhelming because multiple recruiters were trying to contact me, all from Apple, but it felt ridiculous having to do so many phone screens that all essentially looked for the same skill sets. They even had a recruiter that just started her job, who contacted me by the wrong name and wrote down the wrong information about me, which I felt was fairly unprofessional and disorganized.- Because there were many teams in contact with me, they hired a single POC recruiter to manage my onsite, which really helped. Scheduling an onsite during the fall is a bit difficult because Apple gives their employees the entire Thanksgiving week off, and many people go on vacation during December. Anyways, I ended up scheduling it and was told I would have 4 2-on-1 interviews. It turned out to be 8 45-min interviews for 4 different teams and I didn't find out until I had a \"break\" when a hiring manager came to talk to me. Thinking back, it was probably the most mentally stressful day of my life. Note that I probably could have split it up into two days, but because I had other obligations, I asked for a single day interview.- In terms of question style, most teams liked to focus on problem solving and algorithmic questions, covering data structures, trees, graph search, etc. one of the teams asked me to find bugs in a piece of code. Another team really focused on class design and asked me to describe the architecture one of my past projects.- Although I was offered breaks in between the interviews, I felt pressured not to take them to keep everyone on schedule. It was also really tough doing so much talking throughout the day (literally met with 16 people that day). My performance was likely diminishing as the day went on, and I knew I didn't do too well on some of the interviews.- The overall feel of the Cupertino office: the building I was placed in was beautiful. The cafes serve extraordinary food and the people I talked to were very smart and sounded like they were doing exciting work. As often noted, Apple is pretty secretive even internally. Some teams I talked to say they do code review through email, which I found pretty strange.- In the end I did not move on to the next round (which would be another onsite for whichever teams were still interested). Overall, I wish that Apple had a more generalized interviewing process for New Grads. The disorganization really displays how segregated Apple is as a company.",
+        "questions": [
+            "Describe the architecture and class structure of a component in one of your side projects. \u00a0"
+        ],
+        "date": "Jan 10, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "7 interviews in 3 rounds, all over Skype. I was applying for the role of Siri Language Engineer, so it was not hardcore software engineering or I think I'd have had to go into the offices in Cupertino in person.",
+        "questions": [
+            "How would you get Siri to deal with a language in which questions had the same word order as statements? Suppose the user says &#039;I have a meeting at 4pm today&#039;. This could be a question or a statement in this language, so how should Siri deal with this? \u00a0"
+        ],
+        "date": "Sep 2, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "There were two phone screens of 30 minutes each.",
+        "questions": [
+            "Questions were based on hashmap, binary trees and linked list. \u00a0"
+        ],
+        "date": "Oct 5, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "Phone screen, 30min call, ask me about my background as well as the technique question. I answer correctly , then give me offer. Seems they are need a lot of people to solve current problem.",
+        "questions": [
+            "How to see the feature of one matrix? \u00a0"
+        ],
+        "date": "Dec 3, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "Got a call and was interviewed with all kinds of Software Engineering questions in C/C++, Objective-C",
+        "questions": [
+            "What is a virtual keyword? \u00a0"
+        ],
+        "date": "Mar 28, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I applied for the position online after seeing an opening for an intern on the Apple website. I was contacted via email for an interview after about a month.The interviewer called at the time he said he would, was very punctual in fact. The interview consisted of a series of questions to gauge your experience in programming. Some questions involving heap, stack, how you use stack in your programs, when\u2026\u00a0 did you use it etc. He then moved on to O.S questions. He asked about some O.S-specific questions, which were, presumably, common topics for the course. But I haven't taken the course, so I failed to answer any of them. He was very friendly though, and encouraged me to guess and try to deduce what it is.Seems like they are looking for people who can think on their feet, and have had some experience outside the classroom. I think it'll be fine if you can try to get your way out of the questions by talking to him, and letting him know what you're thinking. I was too nervous and could hardly think straight.Tips: Study your basic data structures and algorithm. And memorize and really understand the crucial terminologies of computer science. Most importantly, learn to think your way out of problems like a true computer scientist! Hope this helped :)",
+        "questions": [
+            "What is a stack? \u00a0",
+            "What are the languages you've programmed in? (I know Java and C++) And what are the differences between the two? \u00a0",
+            "If you're given a function called IsEvenNumber, and it takes in longs. Describe what you would do to debug if a programmer says the function is not working. \u00a0",
+            "Describe deadlock mechanism. \u00a0",
+            "What interesting projects have you done in the past? \u00a0"
+        ],
+        "date": "Jan 6, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "after going to apple campus for \"hiring event\" and talked to few managers on same day, i was called for on-site 4 hour interview a month later. i did well in interview. since that day (been over 6 weeks) i haven't heard from any of the 4 apple contacts. despite several emails and voice mails, no one contacted me back. how rude is that??",
+        "questions": [
+            "MVC \u00a0"
+        ],
+        "date": "Apr 3, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Phone interview on the first time, asking questions about the CV itself. The interview takes about 15-20 minutes.",
+        "questions": [
+            "Asking about each project that I have done with all details. \u00a0"
+        ],
+        "date": "Sep 16, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Was contacted by HR to setup the interview. Straightforward process to get in touch with the hiring manager. Interview was a different story... one question about my past experience, an explanation about what the department that was hiring was responsible for, and then two technical questions.First question was related to the position description. Second question was not. Wasn't really able to answer either question in a straightforward manner. Felt I\u2026\u00a0 wasn't really given a fair shake (two questions?) and didn't feel like I was asked many (just one) questions related to the job description (which was OS level driver programming in C/C++, Unix scripting and so on).",
+        "questions": [
+            "What is VLSI? \u00a0",
+            "What is endianness? What part of a microprocessor determines endianness? \u00a0"
+        ],
+        "date": "Aug 8, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "The recruiter called me to arrange a phone interview with the hiring manager. The manager called on time, asked about the reason to apply Apple jobs, reason to leave the current job, immediate goal, long term goal. Next comes the two technical questions, one is open-ended question. The questions require some thinking.",
+        "questions": [
+            "How do you test your code? \u00a0"
+        ],
+        "date": "Jun 28, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Asked a lot about operating systems and questions about writing and executing scripts via the terminal.",
+        "questions": [
+            "Do you know how to write a bash script in UNIX? \u00a0"
+        ],
+        "date": "Apr 12, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "The manager missed our first time appointment, and no explaination. He send one email two days later.And after few days, we have a phone interview, 1:1.He is quite proud, and little bit rude. Just some basic question about resume.Around 20 minutes.",
+        "questions": [
+            "Why apple? \u00a0"
+        ],
+        "date": "Apr 27, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Fast response from HR in the beginning. Quick turnaround for interview scheduling. The interviewer called me 1 hour late but very nice once the interview began. Questions were tough and I was expected to be just as good as the employees that have already been working there for several years. After the interview, though, I never heard back from HR at all. Their hiring department only cares about people they\u2026\u00a0 want to hire, and even then are haphazard at best.",
+        "questions": [
+            "If your browser crashes, how would you debug it only using the command line? \u00a0"
+        ],
+        "date": "Nov 9, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Applied for wireless group and expected to asked in the same domain, however, some of the interviewers asked questions not related to job description. They mainly look for programming and does not care networking background much and evern programming they may ask you anything you might not have never used during your last 10 years of exp. which is really odd.",
+        "questions": [
+            "a parsing tree \u00a0"
+        ],
+        "date": "May 1, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I was contacted by a recruiter through LinkedIn describing job opportunities at Apple. I currently work in a very narrow area of expertise, which is 3D graphics for embedded systems, and so they thought I was a good fit for their position. I explained to the recruiter that in order for me to switched jobs the position had to appeal me and so he said I was going to be\u2026\u00a0 interviewing for a Display Controller role, which of course I wasn't that excited about, then he said that there were more positions opening up and that I could interview for any of them, so I agreed after I saw a Software Engineering role. The recruiter scheduled the phone interview a week later and he said the manager of one of the teams was going to do the interview. To be honest I really prepared for this phone interview and I concentrated on generic Computer Graphics concepts, Operating System concepts and C++ concepts, and to my surprise that were exactly the topics we covered during the interview. To my surprised though the manager of the team didn't show up but rather a technical lead with a very strong asian accent, so I was asking to repeat himself on my occasions. In general I thought I did a decent interview as I was fully prepared yet he thought I wasn't really a good fit for the position; I had the feeling because they were so desperately trying to fill the display controller role for which I already said no, yet during the phone interview the tech lead guy did ask me if I was interested on that role!",
+        "questions": [
+            "Explain the graphics pipeline in a GPU core. \u00a0"
+        ],
+        "date": "Aug 28, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Have had several interviews with Apple (for new grad/intern), here's what I've gathered.Process-HR doesn't communicate very well (or at all) with other HR reps. Apply for multiple positions (if applicable).-You'll do an initial phone screen with the \"Manager\". Followed by 2-3 (3 is typical), with engineers within that team. From there, they'll do a full-day onsite grilling fest.-Interviews are very scripted and directed. Probably due to the sheer amount of\u2026\u00a0 candidates, questions tend to be very generic and/or involve classical responses.-It's typical for them to be late/tired or rushed. Honestly, this alone sends the wrong signals.-Very little communication regarding applicant status. Be assertive. Rule of thumb is, if you fail to hear back within the next couple of days, it's not happening.Materials-It varies.-Some interviews like to play the syntactic pop trivia question game (what's a static member, memory segments, etc). Be warned, sometimes the question doesn't have a \"easy/clean\" answer (i.e. impL specific).-Situational answers (If you pissed off a co-worker...etc), not as frequent.-Some behavioral (not typical).-Most of it is problems. Study data structures, algorithms, and classical approaches to typical CS related situations (How do you think spell check is impL? Complexity of a phone queue? Real life deadlock?).-Questions seem to be regurgitated and/or spun off classical questions.Responses/Feedback-You won't get ANY feedback.-Asking about culture, motivations, is probably a waste of time.-Be honest, concise, & elaborate if needed, and say. \"I dont know\" if you... don't know.Overall-I love Apple as a company. I love their products. But the HR dept seems be borderline laughable. I think it's the quantity over quality issue (in screening). Canned rejection responses are typical, and I wouldn't sweat not getting the gig. You can easily try in another area. I feel the HR department is nearly a reflection of the company within, and I'm by no means impressed.",
+        "questions": [
+            "Know common language features that you claim to know. \u00a0",
+            "Various DS related questions. \u00a0"
+        ],
+        "date": "Jun 3, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "The recruiter contacted me regarding a role I should have, at least at the surface level, been very qualified for, given previous professional experience for a competitor. After a few e-mail exchanges and a phone screening with the recruiter, a call was set up with the hiring manager. If it was the recruiter's intention to get me hired, it would have been wise to provide better details regarding the type\u2026\u00a0 of person/expertise the team was looking for. Advertising a search for a particular skill set but really wanting a different set led to an unfortunately unrewarding phone interview with the hiring manager, from my side, and a waste of time for the hiring manager. Whether the fault lies with a lack of communication between the recruiter and the hiring manager or the recruiter and the prospective candidate (me), the pivotal role here is the recruiter.",
+        "questions": [
+            "What can you tell me about mutual exclusion? \u00a0"
+        ],
+        "date": "Jul 6, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "It was good.",
+        "questions": [
+            "Describe different sorting algorithms and some C bit hacks for speed up \u00a0",
+            "How will you design a word processor \u00a0"
+        ],
+        "date": "Jan 17, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I had one interview that lasted about 30 minutes. The interviewer asked some technical questions that I had didn't really know. After realizing that i probably didn't know much he asked more stuff about my resume and my projects. Although it was hard, he was very patient and told me answers to the things I didn't know.",
+        "questions": [
+            "Are you creative? What's something creative that you can think of? \u00a0"
+        ],
+        "date": "May 12, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Came into WLOO inteveiwed with several people for 6 hrs. Apparently was interviewed for multiple positions. Some interviewers were professional others seem to be out of it. Was asked coding questions. Questions about what I did in previous jobs. Interview was in shaby rms with the worst lighting.",
+        "questions": [
+            "Derive prime numbers efficiently \u00a0"
+        ],
+        "date": "Sep 17, 2013"
+    }
+]

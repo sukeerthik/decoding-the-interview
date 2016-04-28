@@ -1,0 +1,858 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "You chat with a recruiter who asks a little about you and then sets up a phone with engineers.Then the engineers ask you a technical interview question, and I felt like they did not even let you try to answer the question, but tried to make you feel like you were answering the question wrong.",
+        "questions": [
+            "Find Duplicate files in a file system \u00a0"
+        ],
+        "date": "Apr 5, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "6 days",
+        "role": "Software Engineer",
+        "details": "I aced the interview (not an exaggeration) and still received a rejection letter. This company doesn't give a reason for not moving forward, either. A waste of time.",
+        "questions": [],
+        "date": "Feb 22, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "The first phone screen was a blast; not only did the interviewer communicate well and clarify the question, the question itself was pretty good: simple in the beginning, and can get deeper and deeper in different ways. I enjoyed the first phone screen.The second one was... a disaster. The voice quality was horrible; the interviewer probably used a laptop to call, because all I can hear was lots of echo\u2026\u00a0 and the voice kept breaking up too. English is not my mother language; through out the whole one hour of interview, I had a very difficult time understanding his words and thinking at the same time.The bad communication probably went both way; 5 minutes after I already described and even noted down the tradeoffs in terms of complexities and worst scenario of one solution, the interviewer asked me the time complexity. When I asked if I should go down one way of solving the problem, he said no, but eventually (at the very last second of the interview) I realized that was actually the way. I can only conclude that the interviewer either couldn't understand/hear me, or didn't know the thinking process of getting to the final solution he wanted.Overall this was my worst phone interview experience.",
+        "questions": [],
+        "date": "Mar 21, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "The interview process was quite quick. I met the recruiter at a career fair on campus. I was quickly called for an on-campus 1-1 interview. This was fairly standard stuff with an online coding interface to type my question. It was 1 hour long and I was asked one main coding question.Next week, I was invited for a phone interview. Again, 1 hour and an online coding interface. Fairly standard\u2026\u00a0 again. Next, I was invited on-site soon after. I scheduled the interview in two weeks and went on site. The day began at 10am. There were 3 coding interviews, 1 interview about my projects and leadership roles, and a demo of one of their new beta products was also shown. Each of the interviews were 1 hour long and had some moderately challenging questions. Note that the HR person insisted that there would be emphasis on concurrency related questions and I prepped especially for that. But, alas, there were none, which surprised her. The day on site ended at 4pm.I got an email notification the next week, in about 3 business days, that I was unfortunately not a good match for them and they noted that with more experience I should be a better match, so I appreciate that clarity in feedback. Overall, my experience was really good and the interviews were fair and relatively easy. I think given that Dropbox is a new and fairly small company, they need excellent candidates and looks like if you are not perfect, you may not be hired even if you are pretty good, as they probably need the best folks to take the company forward. Shame, but oh well.",
+        "questions": [
+            "Write methods to log hits and get number of hits in past 'x' minutes. \u00a0",
+            "Write a program to get possible valid words for a given phone number. \u00a0",
+            "Write a program to find all reachable web pages from a given url. \u00a0",
+            "Write a program to find all duplicate files within a folder. \u00a0"
+        ],
+        "date": "Mar 21, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied online and the process was quite quick. The first round was a 60 min coding challenge with 12 testcases to pass. The second round was a technical phone screen where you need to code on a shared screen. The interviewer was patient and walked me through the question, discussing doubts and issues as I coded. It was a pleasant experience overall.",
+        "questions": [
+            "The question has been discussed in Glassdoor, implementing a datastructure to count the number of hits to a website in the last 5 min. \u00a0"
+        ],
+        "date": "Mar 14, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Contacted a recruiter. Went through an initial phone interview, coding session, and all the very standard stuff. The technical questions weren't particularly difficult to solve, but they pushed for optimal, clever solutions. Besides that, the interviewers were all awesome to talk to, especially during the technical portions.",
+        "questions": [
+            "Talk about your favorite project. \u00a0"
+        ],
+        "date": "Mar 11, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "They send a Hackerrank challenge to every one that applies on their career website, after you completed the challenge they will read your resume and decide whether or not they will proceed with the candidate.I did the HackerRank and got the answer correctly (The HackerRank will tell you whether or not your code passes the test). But they still rejected without giving me a chance at a phone interview (I\u2026\u00a0 have a BS,MS and a PhD in CS in a top-5 school). Such as waste of time. I would be hesitant to work for a company that does not value the time of its applicants.",
+        "questions": [
+            "Frenemy: Find if a given string matches any path in a labeled graph. A path may contain cycles. You have 60 minutes to solve it. \u00a0"
+        ],
+        "date": "Mar 10, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I applied online through their job website. I got a hackerrank challenge a few days later. The challenge was followed by a phone interview with an engineer around a week later, and then an invitation to the on-site a week after that. The on-site consisted of 3 technical interviews, lunch with an engineer, and a demo session for some of their new products. The on-site lasted for approximately from 11am\u2026\u00a0 to 4pm.All in all, the interview process went really smoothly! All the engineers I spoke to were friendly and really helpful in terms of answering questions and being involved in the problem-solving process. The problems were harder than average interview problems, but still fair and do-able with standard CtCI-type knowledge. The only complaint I'd have is that I was told that there'd be concurrency and systems design problems during the on-site, neither of which actually ended up happening.",
+        "questions": [
+            "Implementing interfaces, dynamic programming/recursive backtracking problems, problems that could only be solved through bit-manipulation \u00a0"
+        ],
+        "date": "Apr 6, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "The interview process is good. First they ask something about your background and you motivation to dropbox, followed by one interview question. And at last, you can ask some questions. The interview process is good. But after I get the chance to the second round with an appointment, they canceled the interview one day before and not moving any more. The thing is I really don't know what I did\u2026\u00a0 makes I fail the interview.",
+        "questions": [
+            "Basically the interview asked the question about gets and hits for a website, how you would design the system and the trade off. \u00a0"
+        ],
+        "date": "Apr 7, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "The whole process took about a month. I applied online and was followed by a online coding assessment. After I completed the coding and waited for another 2 weeks, I had a phone interview. It was a technical interview and it was not that hard. But I could not continue the process.",
+        "questions": [
+            "Frenemy \u00a0"
+        ],
+        "date": "Mar 16, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Quick process from reference to phone screen. (Recruiter phone conversation first.) Then the phone screen with an engineer (I think pretty recent, <1 year height). Answered his question pretty well, including run times, yet got rejected. Overall experience was okay but lack of transparency with respect to performance on interview question (esp. when I thought I did well) bothered me.",
+        "questions": [
+            "The question had to do with a file system \u00a0"
+        ],
+        "date": "Jan 28, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "The whole process is painful, start with a mini loop, then a full loop on-site, after that was asked to do a take-home assignment. Have to wait and ping recruiter in order to get a result for each step.",
+        "questions": [],
+        "date": "Oct 23, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "This is just the question for the online skills test. I don't have anymore info to offer except for the type of questions one might see in on of these challenges.",
+        "questions": [
+            "Given a matrix of friend/enemy relationship between a group ofpeople, your goal is to figure out if two individuals have aparticular relationship chain (&#039;friend of a friend&#039;, &#039;enemy of a friend&#039;)For example, consider when you have the following matrix of relationships, whereF means &#034;friend of&#034; and E means &#034;enemy of&#034;, and an entry at (x,y) is the relationshipsbetween individual x and individual y:-FEF-FEF-In this example, individual 0 and individual 2\u2026\u00a0 have a relationship chain E (eg.\u00a0\u00a0\u00a0\u00a00&lt;--&gt;2), but they also have the relationship chains FF (0&lt;--&gt;1&lt;--&gt;2) andEFFE (0&lt;--&gt;2&lt;--&gt;1&lt;--&gt;0&lt;--&gt;2)l that is cycles of relationships are possible.These relationships have the following properties:1. Being friends and enemies are symmetric, so if person A is friend with person Bthat implies that person B is also friends with Person A, similarly with enemies2. A person cannot have a relationship to themself and so no relationshp chainwill include 0&lt;--&gt;03. The only valid relationships are F, E, or - (friend, enemy, or neither)Given a matrix of size n x n, the indices for 2 individuals, and a relationshpchain as a string, return 1 this relationshp exists between 2 people and 0 if otherwise.This is the boilerplate function, I had to write the code for:n = number of peoplefrenemy is the relationship typex = index of person Ay = index of person Brelationship =def is_Frenemy(n, frenemy, x, y, relationship): \u00a0"
+        ],
+        "date": "Oct 2, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "The interviewers were all pretty smart and accomplished. Asked fairly reasonable set of system design and algorithms questions. I had couple of phone screens followed by a full day on-site which included 4 tech interviews (1 system design, 2 coding and problem solving, one tech deep dive into some project you have done),one culture fit (this one was tiring and I hated it the most), and an overall wrap up.",
+        "questions": [
+            "Web crawler implementation (single and multi-threaded) \u00a0"
+        ],
+        "date": "Nov 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "applied during career fair and came in for the on campus interview. First round was technical, and it lasted fairly short (~30 minutes). Overall, the process ran very smoothly although they had an extremely large number of candidates being interviewed within the same 2 day time frame. The interviewer covered general technical questions and simple big O notation on the methods.",
+        "questions": [
+            "If you have 2 separate lists, construct a method to find the values they intersect at and return the list \u00a0"
+        ],
+        "date": "Oct 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I had previously applied to an internship or something at Dropbox and so I had the contact information for my college's recruiter so during the summer I reached out and told her I was interested in applying to a full-time role. She sent me a coding challenge later where I had 60 minutes to complete the activity. It wasn't too bad, just a BFS with some modifications. I did well\u2026\u00a0 and so I moved on to a phone interview with 2 people asking questions. We briefly talked about my resume and then had another coding question, which I did not perform very well on. I think if I had done well, I would have had one more phone interview then onsite.",
+        "questions": [
+            "Breadth first search \u00a0"
+        ],
+        "date": "Aug 26, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Hackerrank challenge - Was lengthy - There was no thought process involved - was a typing speed contest. Use Python. I used C++Applied online - got a reject because I couldn't finish the challenge.",
+        "questions": [
+            "Class registration system. You have to implement 9 functions like create/delete classes, students, enroll/deenroll student to class, remove class (deregister all students).I was writing the same checks over and over again. May be i should have used Python. \u00a0"
+        ],
+        "date": "Jul 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "A recruiter found me on LinkedIn and was always in touch throughout the process. She was very helpful and friendly.I had two phone interviews, done on CoderPad. Both asked me about a previous project for ten minutes, then gave me an eng interview. They were friendly and happy to answer questions about Dropbox after.I passed them and went to an onsite interview, where I had three eng interviews, one demo\u2026\u00a0 session (an engineer showed off upcoming Dropbox products), and an hour-long culture fit interview where they got someone from my college to answer all my questions and take notes on what I asked/said.All the eng questions were already covered, or straight out of Cracking the Coding Interview.Overall everyone was very friendly and helpful. It took the recruiter 2 business days to get back to me after phone screens, and 1 week to give me the results of my onsite. I didn't get an offer, but I was told to apply again in a year and I certainly will.",
+        "questions": [
+            "Program a web crawler, then make it multithreaded. \u00a0"
+        ],
+        "date": "Jun 19, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "First the recruiter sent me an online coding challenge about class registration as mentioned before by lots of reviews. The time limitation is 2 hours. After a week I got a phone interview. The question is about count the number of visitors on a website for the past 5 min. Follow ups included exploring potential concurrency issues and how would you fix it. An online collaboration editor was used, and\u2026\u00a0 your code need to be compiled and run. The engineer who spoke with me was really nice.",
+        "questions": [
+            "you are building a website and how would you count the number of visitors for the past 5 min. Follow ups included exploring potential concurrency issues and how would you fix it. \u00a0"
+        ],
+        "date": "Mar 10, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "About two weeks after submitting my resume, a Dropbox recruiter reached out to organize a phone screen. After establishing that I require a US visa and the application deadline is fast approaching, two phone interviews were scheduled back to back on the shortest possible notice. Within 24 hours, an invite to the headquarters was extended, and by the time weekend rolled around I was flown from Europe to San Francisco,\u2026\u00a0 expenses paid. I was encouraged to take a couple of days to rest, enjoy the city, and recover from the jet lag before interviewing. Once fresh and ready, I went through a full day of on-site interviews, including discussing past projects, hands-on coding, and data structures/algorithmic whiteboard questions. The day was intense, fast paced, and accentuated with the delicious Tuck Shop food and perfectly brewed coffee. The Dropbox interviewers were smart, yet approachable, knowledgable, yet humble. Within two hours of completing the interview, a preliminary offer was hinted at. After I flew home, a full offer was extended, negotiated on, and signed, all within a day. Essentially, everything happened at the speed of light.",
+        "questions": [
+            "Dropbox questions are covered by an NDA. Some of them already appeared on Glassdoor though. \u00a0"
+        ],
+        "date": "Mar 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Phone screening. Dropbox seems only ask a few questions that they always ask. The can all be found on this website... On the second round, the interviewer found out that I have seen the first question, and thus went directly to the second one. I took an approach that is not very easy to implement, and didn't do well... interview these days are so fake",
+        "questions": [
+            "how to design a web counter that returns number of visitors in last 5 mins \u00a0"
+        ],
+        "date": "Mar 31, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "online coding test. the question is mentioned here. not difficult, but the online compiling and testing takes time. It's better to review the code before running the test.",
+        "questions": [
+            "online coding test \u00a0"
+        ],
+        "date": "Apr 10, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Applied through university job fair and got the reply. It was a 1 hour long interview with technical questions. Normal behavior questions followed by two questions related to log system. And then talked about the complexity of the algorithm.",
+        "questions": [
+            "Normal behavior questions followed by two questions related to log system. And then talked about the complexity of the algorithm. \u00a0"
+        ],
+        "date": "Feb 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Met Dropbox at University Career Opportunities Conference, and was contacted that night for an on-campus interview for the next day. My interviewer was an alumni from my university and he asked me about courses that I was taking and TAing and about a couple of the projects on my Resume. And he then went onto ask my a programming question and continuously took down notes as I was explaining my\u2026\u00a0 solution.",
+        "questions": [
+            "Deduplication from a file system in any programming language of your choice \u00a0"
+        ],
+        "date": "Mar 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I was called me on time for a coding interview via coderpad.io. The initial conversation was brief because the main interviewer joined Dropbox recently and had basically nothing to talk about w.r.t job experience, etc.The problem statement was simple, \"Find all duplicate files by content in your filesystem.\" However, the question was somewhat awkward via coderpad.io because it involved I/O. I didn't know what to expect from traversing a real\u2026\u00a0 filesystem via coderpad.io.I have experience working with low level filesystem design, so I tried to clarify the problem statement but didn't get much love (e.g.: http://wiki.osdev.org/File_Systems)To make things more confusing, the interviewer described the problem using a list of arrays that seemed the input of the problem. As a matter of fact, that was the expected output. I realized that because after 20 minutes working with it as input, he pasted the actual input as a tree.I ran out of time because I was basically designing my own index from the input (errr output) then doing a tree traversal.",
+        "questions": [
+            "Find all duplicate files by content in your filesystem. \u00a0"
+        ],
+        "date": "Mar 29, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Applied online through their job portal. Got a reply where they asked me to solve an online test. I applied in November 2014 and got a reply soon for the test. But due to other work I had to delay the test till February. I was given a week to complete the test",
+        "questions": [
+            "Implement a Class Registration System. The requirements were neatly specified in a very long description. The method declarations were provided. I was asked to implement around 8 to 9 methods according to the requirement. \u00a0"
+        ],
+        "date": "Apr 7, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineering",
+        "details": "two phone interviews, one onsite. phone interview: background related questions first. Then followed a technical problem. The problem is easy initially but they will ask for optimization, which is the hard part. Then they asked me to go to SF for onsite interview. There are three more interview the same as the phone interview, except you see the real interviewer.",
+        "questions": [
+            "Normal questions requiring knowledge of algorithm and multithreading \u00a0"
+        ],
+        "date": "Mar 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I applied online, and two weeks later I got an email from a recruiter asking me to complete a 90-minute timed online coding exercise from HackerRank. The coding exercise can be started at anytime within one week from the day they sent it to you. My coding exercise was about developing an online class registration system. I had a bunch of related functions that I had to implement (add a\u2026\u00a0 class, remove a class, enroll a student, remove a student, etc), and they give you the specifics for each function. I didn't think it was very difficult, but it was kind of long so I didn't get to implement everything. You can compile and run your program right on the coding exercise page. There are also test cases, and it will tell you which test cases you passed, which ones you got wrong, and what should be the correct output for those.",
+        "questions": [
+            "Implement an online class registration system. \u00a0"
+        ],
+        "date": "Jan 8, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The onsite interview was supposed to be 3 hours: with 2 coding interviews (1 hr each) and 1 behavioral interview (1 hr)My first interviewer, however, said that the original interviewer was sick and that he was filling in at the last moment. The first interview was originally supposed to be a specific front-end engineering interview. However, the questions asked were about algorithm design, data structures, etc and the interviewer didn't\u2026\u00a0 seem to want to discuss and sat there quietly. This was very unexpected.I was better prepared for the second interview which also focused on data structures and algorithms.After the second interview, I was told I was done for the day and that I would be called back for a deep-dive fronted-focused interview. They got in touch later to apologize and to restart the process by scheduling a 1-hr phone interview to give me another chance but I declined.",
+        "questions": [
+            "Given a list of names (strings) and the width of a line, design an algorithm to display them using the minimum number of lines. \u00a0"
+        ],
+        "date": "Jan 20, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "I was contacted by DropBox recruiter. After I spoke with the recruiter about opportunity and culture, I decided to submit the resume. The entire process was really pleasant and fast. I was scheduled for the phone interview within few days after submitting the resume. The initial phone interview was technical but there was no coding. It was more of screening and testing knowledge of the candidate in various technical area\u2026\u00a0 (system, parallel programming, networking, basic data structure, algorithm, web infrastructure, tech-stack). It wasn't hard but wasn't easy either. My advice is study and understanding tradeoffs. Interviewer actually looked into your resume and try to ask questions relevant to your area of expertise. First 15 minutes was introductory and the rest was breadth technical. The interview result was revealed a day after.",
+        "questions": [
+            "What is a conditional variable? When would you use thread vs process? How would you find out bottlenecks in your web app (both client and server sides)? \u00a0"
+        ],
+        "date": "Jan 10, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Received an email saying Dropbox saw my resume at a Hackathon and was interested in pursuing candidacy. I was sent a coding challenge to do online (I generally value NDAs, so I can't say, but it's for sure a question that was already posted to this site in other interview reviews), took an hour and a half and was more of a \"build-from-scratch\" kind of thing rather than a tough\u2026\u00a0 algorithms puzzle. I got 18/18 on it, and was emailed two days later to set up a phone interview.Phone interview, was asked a variation of the counting change problem, I wasn't quite able to code it up. Got the denial a few days later, as expected. Everyone was very nice and friendly, had a great chat with the interviewer also. I'd recommend giving this company a shot, there was NOT kool-aid at all like at most companies; just genuine engineers who seemed to want to hire great talent.",
+        "questions": [
+            "Coding challenge with basic OOP concepts (encapsulation, testing). \u00a0",
+            "(VARIATION OF:) Given a set of possible change, such as {1, 5, 10, 25}, and an amount such as 13, return all possible ways you can give change back to someone. \u00a0"
+        ],
+        "date": "Feb 4, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "2 phone screens, 5 onsite interviews (1 day)Each person asked me a single technical question that I then worked through. They were unique and somewhat difficult. I also got to bring in a project that I'd worked on in the past, and show that to one of the interviewers.",
+        "questions": [
+            "I had a question about locking which was probably the trickiest. \u00a0"
+        ],
+        "date": "Feb 5, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "A phone interview and then a onsite interview. There was only one question for the phone interview. and about 4 rounds for the onsite. The company treats the candidates really well. I enjoyed the 2 days in SF.",
+        "questions": [
+            "Phone: Quesion about Hash.On site: Combination, Filesystem, Something like B tree \u00a0"
+        ],
+        "date": "Oct 5, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Called for on campus interview after the Career Fair. 30 mins of the first interview. Typical DS questions. I solved it but they wanted juniors. Do your data structures very well.",
+        "questions": [
+            "Nothing really hard. \u00a0"
+        ],
+        "date": "Dec 14, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied several years ago, the process has changed significantly since then. I did one preliminary interview and then an all-day series of technical interview. After that I had dinner with the team. There were a few weeks of negotiation afterwards, but that was largely a function of my slow response time.",
+        "questions": [
+            "There was a live coding session. \u00a0"
+        ],
+        "date": "Dec 12, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "This was an initial phone screen. Very pleasant process. Was contacted by email by HR / Recruiting (two different people but handled seamlessly) who set up the phone screen. A last minute schedule conflict was quickly resolved and I was called at the appointed time. About 15 minutes of the screening was introductory / about them / about me. A few minutes were taken posing the problem and discussing, and\u2026\u00a0 intro to the online code sharing tool (linked to by HR in earlier emails).",
+        "questions": [
+            "Other reviewers have called out this problem. Should have worked through ahead of time. Also should have set up an empty project in my own environment that I could have pasted the initial problem definition into to (allowed, and would have saved time). The code sharing environment has no auto-completion or debugging (bud did have syntax coloring). \u00a0"
+        ],
+        "date": "Jan 4, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ weeks",
+        "role": "Software Engineering",
+        "details": "Spoke with an engineer at a career fair about my previous experiences and dropped off my resume. I was asked to sign up for a 30 minute on campus interview that night for the following day. Following the interview, I was asked to do another 60 minute interview the next day. Each of these was about 20% questions about goals and prior experience and 80% coding for the rest. After\u2026\u00a0 solving the problem I could ask questions about Dropbox as a company. In two days I was asked to visit SF office for a full-day interview, which was four one-hour interviews, each with one engineer and a shadow interviewer. Lunch with another guy in the middle, wrapped up with a 45-minute general Q+A.Each interviewer was very nice and helpful. They tried to present questions to which I already had some prior knowledge based on my completed coursework and experience, so I didn't particularly feel out of depth for any of it.",
+        "questions": [
+            "Implement two functions that assign/release unique id's from a pool. Memory usage should be minimized and the assign/release should be fast, even under high contention. \u00a0"
+        ],
+        "date": "Nov 3, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "-",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "Initial reach out from M & A team to founders, had to do a lot of compliance paperwork, but no proper interview. We just all got our offer letters a few weeks before closing. Not bad.",
+        "questions": [],
+        "date": "Nov 7, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I applied online, heard back maybe a month later. I was asked to complete an online coding exercise on hackerrank.com. It was timed, 1 hour long, code a solution to a single problem. Took about a week before they told me I would not be moving forward in the interview process.",
+        "questions": [
+            "Something about pattern matching with strings. \u00a0"
+        ],
+        "date": "Nov 5, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineering",
+        "details": "I applied at a career fair and had a 30 minute technical interview in person the next day. The question was straightforward asking to find the possible permutations of a string, and I wrote up the code on a laptop due to lack of a whiteboard, but the style was the same as whiteboard coding.A couple days later, I received an email to set up a 1 hour phone interview.\u2026\u00a0 I was asked how to find duplicate files in a filesystem, and I wrote up the code on coderpad.Another few days later, I received an email to set up an on-site interview. This consisted of three technical interviews, lunch with an engineer, and an engineering Q&A. The questions were interesting and a bit more challenging than your average interview. Be sure to be able to analyze space complexity in terms of bytes, not just big-O notation. I don't think I can disclose the actual questions asked during the on-site, but they were all fairly straightforward and did not require fancy algorithm or data structure knowledge. While I did solve all the questions and follow-ups, I don't think we were always on the same page, and the interviewer had to nudge me in the direction they were hoping to go in.I received an email less than a week later telling me that I would not be receiving an offer.",
+        "questions": [
+            "List all duplicate files in a filesystem given the root directory. \u00a0"
+        ],
+        "date": "Nov 14, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I had applied online , and I was very excited when I first received the mail that they found a match in for software engineer intern post. I had passed the first round which was the string matching question, But couldn't make it to the second round of it because the interviewer gave me rather difficult problem since I applied online and it was finding a duplicate folder and specifying\u2026\u00a0 the roots.",
+        "questions": [
+            "Finding the duplicate files of the same root folder.. \u00a0"
+        ],
+        "date": "Nov 21, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Coding challenge lasting one hour. They give you a problem to solve and you need to choose your favorite language to start coding. Test cases are given so you can test them while coding the problem.",
+        "questions": [
+            "A problem related to graphs. \u00a0"
+        ],
+        "date": "Oct 20, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Friend referral. Got contacted by HR after 2 weeks. Questions were good, notthing unexpected. Got 2 phone interviews, not too complicated but I was not able to solve them correctly.",
+        "questions": [
+            "NDA \u00a0"
+        ],
+        "date": "Oct 12, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "On campus process, overall it was very fast and efficient.The interviewer was very friendly, presented himself and the company, and asked about my background.White board questions were fairly easy and required basic programming skills, they didn't care about the language I chose.Didn't move forward due to lack of mutual interest.",
+        "questions": [
+            "describe one of your projects and how it might be relevant \u00a0"
+        ],
+        "date": "Oct 9, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineering",
+        "details": "Applied for internship. First round interview was on-campus. Asked me to code a common simulation game that you may have heard of. Then asked me to scale it for a million inputs. Interviewer was on his phone while I was programming and not very interested in me beyond the code.Got a second phone interview 2 weeks later. Second guy was quite distracted too. Didn't sound very interested in interviewing me.\u2026\u00a0 He asked me a question floating around here on Glassdoor. I hadn't seen the question before but managed to solve it pretty easily. Then he changed it slightly and made it a lot harder. I quickly told him the solution to this which he agreed on and I proceeded to code a slightly inefficient solution. I think he was disappointed with my code and decided to ding me at this point.Questions were similar to Google, not impossible like others describe. Quite manageable.Overall, I got a negative impression from engineers at Dropbox. I met 2 other engineers at their office a while back too. Elitist and bro-culture are words I associate with them. That said, they have some very smart people. I actually like Google Drive as a product better, so I'm not sure what they do with all that engineering horse power.Recruiters were great and responded quickly.",
+        "questions": [
+            "Second part of second interview. Required knowledge of some arcane data structure to solve it efficiently. \u00a0"
+        ],
+        "date": "Oct 27, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Applied on-line. Received an e-mail from a Dropbox recruiter expressing interest and an invite to a coding exam about 2 days later. Did not make it past the coding exam. Recruiting process was efficient.",
+        "questions": [
+            "Question has already been posted - on string pattern matching. \u00a0"
+        ],
+        "date": "Oct 20, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied at the career fair by just dropping off my resume. I was contacted within a few days saying that I was not the right fit for the job.",
+        "questions": [],
+        "date": "Sep 29, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Submitted resume at campus career fair. Heard back that night. Went through first round interview, which was relatively straightforward. Asked question about locating certain types of words in a dictionary. Interviewer was very happy to answer all my questions about dropbox. Very pleasant experience. Noticed next of day their decision. Excited to continue with the process soon.",
+        "questions": [
+            "locate certain types of words in a dictionary \u00a0"
+        ],
+        "date": "Sep 25, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "One-on-one, 30 minute interview. Whiteboard coding, with helpful advice from the interviewer. About 5 minutes at the end to talk about Dropbox and any questions about the company. Overall, very friendly and relaxed interview process, with callbacks within 24 hrs for a longer interview (unfortunately, was not called back -- probably because this was my first technical interview for a company).",
+        "questions": [
+            "Questions about lists and sums of elements of the list -- not too difficult, except I blanked on a few questions about algorithms. \u00a0"
+        ],
+        "date": "Sep 9, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "7 weeks",
+        "role": "Software Engineer",
+        "details": "I submitted my resume online through the website, they got back to me a couple weeks later and I did 3 phone interviews over a couple weeks, the first one was mostly a conversation about my past projects and then a few related technical questions. My other 2 phone interviews were more technical and required writing some code using coderpad to solve a couple problems.Afterwards I did the onsite interviews\u2026\u00a0 starting at 10am and ending around 4-5pm. The first one asked a few questions about motivation, then some coding, another coding interview, then a behavioral based interview, lunch, a couple more technical interviews (one about design/architecture) and at the end I got a chance to ask any questions during the last one. Overall very relevant problems without any puzzles or nonsense questions.",
+        "questions": [
+            "None of the questions were too difficult and they didn't expect you to solve the problems in a certain way. \u00a0"
+        ],
+        "date": "Sep 15, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "There was an initial HR call followed by 2 onsite interviews, one with the team lead and one with the senior engineers on the team. The recruiters had an amazing turnaround time on emails, sometime even replying on a Sunday and were generally very helpful. The on-site interview started off with a tour of the office followed by back-to-back interviews which involved a combination of technology conversations, whiteboard coding and\u2026\u00a0 system design questions.",
+        "questions": [
+            "There was nothing very unexpected, it was just mostly a casual conversation intermingled with coding questions. \u00a0"
+        ],
+        "date": "Jun 19, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "A recruiter reached out to me on LinkedIn. After a few conversations and a technical phone screen, I went onsite for 5 hours of interviews at the SF HQ, followed by dinner at Dropbox. The onsite consisted of 2 whiteboard problems and a 1.5 hour coding problem on a computer.",
+        "questions": [
+            "1. Design a link shortening URL system. Discuss the tradeoffs of different approaches.2. (Coding) Write a basic file system and implement the commands ls, pwd, mkdir, create, rm, cd, cat, mv. This was done on my own computer, in the interview room, with a 1.5 hour time limit. \u00a0"
+        ],
+        "date": "May 5, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "Overall the interview was quite pleasant. The recruiters and each of the interviewers were very knowledgeable in their respective fields. Timing and scheduling worked liked clockwork. However, I was a bit surprised that they did not ask any technical questions. Perhaps they had already disqualified me at this point or perhaps the ball was in my court to demonstrate some level of skill. If I were to go back and\u2026\u00a0 do it over again I would try to avoid the trap of only answering the questions that were asked and instead I'd pick a problem that I suspect they encounter and ask how they addressed or solved it. Hopefully this will be the impetus to demonstrate some technical ability.",
+        "questions": [
+            "They simple asked, if you were hired here what would you do? \u00a0"
+        ],
+        "date": "Mar 30, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "two 30 minute interviews,4 hour onsite interview",
+        "questions": [
+            "Dropbox asks questions that can be applied in real life, instead of just puzzle solving problems. \u00a0"
+        ],
+        "date": "Feb 15, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "It was a phone interview and I went through technical questions",
+        "questions": [
+            "The questions were related to java. The interviewer asked me to write a code to edit a string in a output. \u00a0"
+        ],
+        "date": "Dec 31, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "The whole process was pretty standard. The first step was a phone screen, which involved some coding. When they invited me into the office, there was a whole day of meet-and-greets with various technical people, who each took the opportunity to interview me. Less than a week later, I received the offer. The whole process went pretty smoothly, except for the recruiter, who mis-scheduled the phone screen, and then didn't\u2026\u00a0 get back to me for several weeks until I followed up. Recruiters tend to be flaky in general though, so it's always good to be persistent.",
+        "questions": [
+            "ehhh, NDA got my hands tied. \u00a0"
+        ],
+        "date": "Jan 3, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Applying for Summer Internship. Only one question, 30 minutes for first round. Did not make second round.",
+        "questions": [
+            "\"Make a program that can print out the text form of numbers from 1 - 1000 (ex. 20 is \"twenty\", 105 is \"one hundred and five\") \u00a0"
+        ],
+        "date": "Sep 30, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Three interviews total. First was 45 minutes, second was 1 hour. First had basic algorithms / coding problems, then iterated on the problem and added constraints. Second was more complicated coding problem. Recruiters are extremely friendly, response time was less than a week each time, made the entire process very pleasant.",
+        "questions": [
+            "Write a program that logs hits received in the past 15 minutes. \u00a0"
+        ],
+        "date": "Oct 24, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Had a really strange experience. THEY HAD ME FOR A WRONG POSITION!I applied in career fair. The guy who took my resume did not even look at me then, blandly said take a t-shirt and go. I thought that Dropbox is smart and they hire people first and then find a fitting role. NO.I was invited for an on-campus interview. Apparently, it was not even an engineering position but was\u2026\u00a0 something like a sales position, that too not full time. My resume clearly says engineering full time position seeker.God knows why they made me go to the interview only to find out (thanks to a smart lady interviewing me) that I indeed should not have been called for the interview.SO - immediate reject.Did it annoy me, yes! Not for the time/effort but getting the hopes up :(",
+        "questions": [
+            "Interviewer: I think I am not the right interviewer for you. Let me check what's going on.ME: eehh... \u00a0"
+        ],
+        "date": "Sep 30, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Applied online using jobvite. Phone interview went well and was invited for onsite. But onsite interviews were worse than expected. Interviewers seemed inexperienced and questions they were asking seemed to be not their own. They also were from the teams where I would never work. After 3 boring interviews I decided to leave. They didn't even ask why I was leaving.",
+        "questions": [
+            "Some questions about finding folders and files \u00a0"
+        ],
+        "date": "Sep 5, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "On campus interview - found tech talk on Facebook and then submitted resume online for on campus interview. They had an on campus dinner the night before the interviews - kind of like a behavioral interview scenario. Not that noteworthy but not difficult. The tech interview the next day was more difficult.",
+        "questions": [
+            "Given an array of integers eg [1,2,-3,1] find whether there is a sub-sequence that sums to 0 and return it (eg 1,2,-3 or 2,-3,1)\u00a0\u00a0\u00a0\u00a0Checking every sub-sequence is O(n^2) which is too inefficient \u00a0"
+        ],
+        "date": "Feb 9, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "There were 3 rounds -1. Half hour technical plus normal interview.2. One hour technical interview if you advanced through the first round3. Final round at HQ.",
+        "questions": [
+            "Question related to hash tables and sorting. \u00a0"
+        ],
+        "date": "Mar 17, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I spent hours upon hours with their team and got asked some really random stuff that had absolutely not a thing to do with anything related to the job I applied for. That being said with the bounty of great things in the market now I would not consider to work here- too many other great possibilities there and I expect to be treated like a senior developer not some\u2026\u00a0 fresh grad.",
+        "questions": [
+            "they asked some really weird stuff \u00a0"
+        ],
+        "date": "Jan 16, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineering",
+        "details": "The first 2 interviews were 1 hour phone interviews using coderpad.io. This was followed by a series of 3 1 hour interviews done over Hangouts video chat in 1 day.All the interviewers were engineers from Dropbox and my experience with every interviewer was nothing short of incredible. Every engineer was very friendly and co-operative, answered questions honestly, and remained interested and involved the whole time. The questions asked were almost\u2026\u00a0 all real-life in that I could see similar algorithms being implemented in products which is refreshing.Most of the followup times were consistent, and the recruiter made an effort to keep me in the loop the whole time. The recruiter was super nice as well and was very pleasant to communicate with, both verbally and over email.",
+        "questions": [
+            "I prefer not to disclose the technical questions, but they did ask about my previous work experience/projects and dove into details they were interested in. They also asked what I liked about my school, as well as a bunch of other conversational things. \u00a0"
+        ],
+        "date": "Feb 23, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I applied through their job web and I was asked to complete 2 hackerrank problems, one for practice, it was easy, and other that was for the actual position, wasn't hard but I messed up",
+        "questions": [],
+        "date": "Apr 4, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Had contact with a recruiter from last application season and reached out. Was quickly scheduled for a phone screen with an engineer. Overall, the engineer was really nice and collaborative, and the interview was very conversational. Ended up solving the problem but took awhile to get to the solution, so I was told a few days later that I won't be moving on. Dropbox overall has very applicable interview questions,\u2026\u00a0 not just using DS to solve arbitrary problems.",
+        "questions": [
+            "Applicable design question \u00a0"
+        ],
+        "date": "Nov 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineering",
+        "details": "It was a telephone interview lasting an hour. The questions was mainly on algorithm, and was basically easy to answer. The interviewer was nice, but kind of tired, guess it's because I'm interviewing in early Saturday morning. At last I didn't get the intern, but it was all my fault. My English is kind of poor.",
+        "questions": [
+            "How do you implement a dictionary tree? \u00a0"
+        ],
+        "date": "Apr 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Applied through their jobs website, and a recruiter reached out to me to sit an online coding test on HackerRank - had 5 days to complete it. After passing that, I had two phone interviews, but didn't make it past the second one. Had very good communication from the recruiters all the way along, and they were very efficient.",
+        "questions": [
+            "Implement a function that searches a file system for files with identical contents. \u00a0"
+        ],
+        "date": "May 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "A friend (who had interviewed with Dropbox previously, but no offer) introduced me to the recruiter via email. The recruiter responded about two weeks later and sent me a HackerRank coding question. I didn't think it would be very difficult, since I've completed HackerRank coding questions previously for other companies with ease. Oh, how very naive I was.The question was very difficult (for me at least). It was a pattern\u2026\u00a0 matching question which seemed like I was supposed to code up a lexical analyzer in an hour...Based on what I've read on Glassdoor, other candidates went straight to either HR screening interviews or technical interviews. I believe I was given an exceptionally hard coding challenge question so that the recruiter could say they gave me a chance but they weren't going to bother with me unless I was extremely smart. It was really just a courtesy coding challenge an they had already decided to reject me. Seeing as how I was recommended by a previously rejected candidate, I suppose I should seen their veiled rejection coming (in the form of a coding challenge).I'm really disappointed at the Dropbox recruiting practice. I've worked at Microsoft before and interviewed at Google, Facebook, Square, Twitter, Airbnb, Pinterest, etc., and I've never had this sort of treatment.",
+        "questions": [
+            "Question was \"Given a pattern and a string input - find if the string follows the same pattern and return 0 or 1.Examples:1) Pattern : \"abba\", input: \"redblueredblue\" should return 1.2) Pattern: \"aaaa\", input: \"asdasdasdasd\" should return 1.3) Pattern: \"aabb\", input: \"xyzabcxzyabc\" should return 0.I saw someone else had a similar question, but it was much much easier as the other candidate was given spaces between words to help identify\u2026\u00a0 individual words to pattern match. \u00a0"
+        ],
+        "date": "Oct 1, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied online. He came to our school to interview me. The interview is 45 minutes. I wrote my code with pencil on paper. After the coding, he asked me to test my code on paper.",
+        "questions": [
+            "find the square root of an integer \u00a0"
+        ],
+        "date": "Mar 16, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Great work culture, incredible food too! Company is really working on redefining the future and it shines through in the interview process.",
+        "questions": [
+            "How would you redo a specific UI? \u00a0"
+        ],
+        "date": "Jan 7, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied for a position through their website. I was contacted soon after by a recruiter who scheduled an interview with one of their newer hires. The interview consisted of questions about my resume, and coding questions. It went on for over an hour. I didn't get a second interview.",
+        "questions": [
+            "design a spell-checking algorithm \u00a0"
+        ],
+        "date": "Jan 7, 2013"
+    }
+]

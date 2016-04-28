@@ -1,0 +1,537 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "My on-site technical interview sessions are about 45 minutes each but the engineers\u2019 attention span on coding sessions last about 35 minutes. So after eliminating the introduction, the explanation of the question, you should time yourself to have a complete code with correct results within 25-30 minutes. The thinking process does not count. Only code with correct output counts. They said very clear the code need to be correct.My second\u2026\u00a0 coding question is on a system integration coding problem. After googling the needed system calls for Ruby, I start coding with the top search result. On the first run, the system is blocked. Good practice told me to verify the connectivity and I spend 8 minutes to eliminate some important possibilities. I realize time is running fast. So I ask whether I can have more help. He said \u201cI told you already but you are not listening\u201d. When you put high pressure on the candidate, some subtle suggestion is not obvious and there are many other un-related messages. There are a few more remarks that I consider not professional or fair. At the end, he suggested me for a particular system call. Then the integration code works. Unfortunately, he also end the interview even though it was started 5 minutes late. After he left, I managed to finish the business code in 5 minutes and I emailed the code to the recruiter. But I knew it would not count.At first, I blame bad luck of finding the wrong Ruby API on the google search. But on the way home, I realized I should have more faith in google search than their home grown system component used for interviews. I replicate the reason why the API call is blocked in 5 minutes and duplicate their component. The first Ruby code does work with most common systems but not theirs because the way of how they want it to work. Their approach is not common for distributed and scalable system and therefore only popup later in my head.Their interview standard has reached a very un-healthy level. The second coding question have too many variables of going wrong in real life. With the time constraints, luck becomes a more dominate factor rather than a real life approach. There is a chance that the bar has raised too high that more top candidates are failing while more cheaters pass. The technical community is small. Sharing interview questions are far more common.I will not be a good candidate for them. Only the first interview contains real life industrial strength issues. For the rest of technical interviews, you should check out all those online site posting brain teasing programming question. I start wonder why we need to spend 4 years college. Experience will not pull you ahead of others. To hack those interviews, it will be easier of spending a few months intensively on those site instead.",
+        "questions": [],
+        "date": "Jan 22, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "3 days",
+        "role": "Software Engineer",
+        "details": "phone interview lasting 45 minutes. Only one coding question. But you need to implement the main function by yourself and run your code. Time complexity will be asked. After completing the coding, you will be asked about you experience and allowed to ask the interviewer questions. The interviewer will give you hint if you cannot move forward.",
+        "questions": [
+            "display a list of records into pages \u00a0"
+        ],
+        "date": "Mar 16, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "the phone interview took 45 min. During the first 10 min, you briefly introduced yourself and then the interviewer would explain the task you need to complete. You need to finish the whole implementation including test cases and printing out the result with no bugs.",
+        "questions": [
+            "split pages according to host id. I was given a list of host ids and other information and a maximum number of hosts that should be included in one page. The same host id should appear on different pages. \u00a0"
+        ],
+        "date": "Mar 30, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Applied through contact. Got a call from recruiter next day and set up the phone interview. During the phone interview, I was given certain requirements and asked to code up a functionality. The interviewer specifically said he wanted me to run the code.I explained my thought process and my approach but got no feedback from the interviewer. I went ahead and wrote the code, fixed all errors and ran it.\u2026\u00a0 I checked with the interviewer if he saw the output and asked him if he wanted me to walk him through it. I believe I solved it correctly but got no feedback. He just copied my code and said he'll check the output later. A day later I got the email that they don't think my background and qualifications match with the position and they have not decided to go ahead with the interview process.What a waste of my time and what a terrible interview experience. I think some of the other folks on glassdoor have pointed out that Airbnb comes across as snobbish and the interviewers do not interact well. If that/s how they work in day to day life then I guess you are better off not working there,",
+        "questions": [
+            "Internal functionality so cannot disclose \u00a0"
+        ],
+        "date": "Jan 26, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I had the same experience as most of the people commenting here. The interviewer sounded pretty young and quite immature ( he stated himself he is new to the enterprise so I was even surprized he is already conducting interviews). I thought I would have a 45 min technical interview but I had a 45min of trials to change the software planned to be used as the coding environment. He\u2026\u00a0 talked about himself A LOT and not really about the company and went straight to the problem without even asking me any relevant questions. It was not an interview to be honest because I had NO chance to prove what I am capable of as a SWE. When I was coding and making a mistake (due to rush and that I would have corrected few seconds later) he was literally LAUGHING at me which was distracting so when I have had enough I asked him if there is any inputs he wanted to add because he kept interrupting me in my thoughts' flow? he said \"no go ahead I am sorry to interrupt you\". He was quite disrespectful. I did solve the problem and it was working but he seemed like he was in a rush. So I had 2 questions asked quite simple. I was really disappointed in the process and I think I could have solved that problem in less than 20min if he was not interrupting me everytime.I am not sure what really went wrong to be honest. I spent 1 week preparing for this so I was extremely disappointed by that \"technical interview\".As stated in many other posts, it seems like they do not really care unless you have been referred, known by someone in the company or comes from big enterprises or schools.My first recruiter was very professional lady. I wish the same professionalism could be applied in every other steps with the other technical recruiters.",
+        "questions": [
+            "Simple javascript questionNo algo or DS \u00a0"
+        ],
+        "date": "Feb 9, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "Contacted by one hr and Talked with hr about my current projects and why Airbnb. and did phone interview. The question is easy but too nervous and failed it. And get the reject email the second day. The hr is really helpful and nice. Sleep well before your interview get prepared.",
+        "questions": [
+            "Coding question \u00a0"
+        ],
+        "date": "Feb 2, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied to two software engineer positions - 1 in SF, another in Portland. My resume exactly matched the job description so I though why not to try, at the end I received two autogenerated rejects almost immediate (at 2:30 am on Sunday). My friend also applied there and he works for google he got the same automatic reject also at 2:30 am on Sunday, so I don't think that\u2026\u00a0 the resume is the issue here, or airbnb is looking for nobel laureates. Possibly they reject everyone out of state..and they have some kind of scheduled job that does it...Don't waste your time.",
+        "questions": [],
+        "date": "Sep 21, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied online. First step was to take a 3 hour coding challenge on HackerRank. Once I passed that I had a technical phone screen with a developer.The interviewer I had was young and I could tell he didn't have much experience conducting interviews.",
+        "questions": [
+            "Given a list of strings, return all pairs of strings that can make a palindrome. \u00a0"
+        ],
+        "date": "Jan 8, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I first talked with an employee at my school's career fair and from there I was contacted by a recruiter to set up a phone interview. After the first one I was contacted to have one more just to get another read. I thought the next phone interview went really well and I connected with the interviewer a ton too.After that I was contacted to schedule an onsite!On my onsite\u2026\u00a0 I had a few practical coding questions, a couple culture fit questions, had a great tour of the building, and had an awesome lunch with one of the employees. Through this process I was able to talk with a ton of people across different departments and overall had an awesome experience.The office is beautiful and the employees I talked to all really genuinely care about the product, the mission, the company, their peers, and their users. Airbnb really grew on me over the interview process as I discovered more about the company, it's values, and the people who work their. I really connected with each employee I talked with and the answers they gave for any questions I asked all really struck me because it showed how much they were excited about and truly cared for their users and for Airbnb.",
+        "questions": [
+            "Practical coding questions during the phone screenings and onsite. Also culture fit questions at the onsite which were quite fun! (I cannot disclose specifics) \u00a0"
+        ],
+        "date": "Dec 9, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Few phone screens that focus on your background and algorithmic skills, followed by a onsite day of algorithms and personality tests.Most of the interviewers were a pleasure to speak with, and the coding questions were mostly fun. Overall, the interviews felt collaborative and they were mostly genuine in learning about me, my hobbies, skills, and past. Finally, no whiteboard coding!The turning point in the onsite was when one interviewer spent\u2026\u00a0 the entire interview playing on his phone. He didn't really acknowledge most of what I said while coding. It was extremely disrespectful, and he was very snobby. The only thing he talked about was himself. I got the same vibe from interviewing at Facebook - it was no surprise that he used to work there.Every company has their sour apples though. Overall I have a pretty good opinion of the company. The office work spaces were pretty crowded but had good food and exceptionally cool meeting rooms.",
+        "questions": [
+            "No algorithm questions were too tricky. They were designed to see your thought process and were relatively achievable. There were a lot of personal questions for the culture fit interview which were both fun and a bit intrusive. \u00a0"
+        ],
+        "date": "Dec 4, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "7 weeks",
+        "role": "Software Engineering",
+        "details": "Airbnb reached out to me a couple of weeks after I submitted my resume online. I had an initial phone screen with an engineer with a pretty standard format (went over previous experience, then a technical question). I ran out of time at the end with the question, but the interviewer gave me an extra 5-10 minutes to finish writing the code because my solution was super close. I was\u2026\u00a0 invited to an on-site a few days later. The on-site began with a tour of the office, and then consisted of 2 technical interviews with 1 cultural interview. The technical interviews were in pair-programming style. I was able to use a white board to write out my thoughts, but I had to write working code on a laptop. The next day, I was asked to complete one more technical interview through Skype. Also turned out to be a pretty standard interview. Overall, it was a long but fun experience.",
+        "questions": [
+            "Under NDA \u00a0"
+        ],
+        "date": "Dec 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Didn't pass the first technical phone interview. They gave me a very challenging coding question and I had to code in an online environment where they actually run the code.",
+        "questions": [
+            "Typical algorithmically challenging, complicated, recursive problem. \u00a0"
+        ],
+        "date": "Dec 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "I applied through recruiter and had onsite interview in SF. The interviews are mostly pair coding on a computer plus two rounds culture fit. The questions are quite challenging if you didn't meet them before. I didn't use glassdoor to prepare the interviews and now I realize the questions asked were actually posted here. The food is quite good there and the working environment is awesome.",
+        "questions": [
+            "Text Justification, Alien Dictionary \u00a0"
+        ],
+        "date": "Feb 8, 2016"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I did a phone screen with some live coding, followed by a full-day onsite interview.The phone screen wasn't extremely difficult, it seems to me that they were looking more for how you solve problems, rather than looking at the actual solutions.The onsite interview was a mix of cultural and technical interviews. I really enjoyed all of the employees that I met with, and had a fun time talking with them.\u2026\u00a0 The cultural interviews felt more like natural conversations than the traditional question/answer structure. The technical interviews were mostly just coding challenges, but they focused more on practical problem solving. Interviewing really solidified my appreciation of the company and my desire to work there.",
+        "questions": [],
+        "date": "Oct 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "First round was behavioral with recruiter and second round was technical and heavily focused on data structures. Accent of interviewer was hard to understand and got me a bit confused at times but was a very good experience.",
+        "questions": [
+            "What is the most challenging project in or out of school that you have worked on in the last 6 months. \u00a0"
+        ],
+        "date": "Oct 24, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Quick phone call with recruiter and then a technical phone screen. The interviewer was very difficult to understand and very impatient. I had a working solution except for one test case. He says he needs to run to a meeting and hangs up early, did not give the opportunity to ask questions. Received a rejection two days later. This experience has left a sour taste in my mouth.",
+        "questions": [
+            "String-related \u00a0"
+        ],
+        "date": "Oct 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineering",
+        "details": "Applied through CODE2040, had an initial phone screen which went well, then had an hour long technical interview on CodePair. The interviewer was somewhat hard to understand, and he was not giving great hints as to how to solve the problem that he gave me. Overall, it was a neutral experience for me.",
+        "questions": [
+            "Return all palindrome pairs from an array of strings. \u00a0"
+        ],
+        "date": "Nov 18, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Recruiter reaches out to me to set up a time to talk. The recruiter neglected to call me at that time. I send them a follow up email 30 minutes afterwards saying I didn't receive a call. No response. I send another follow up email a week later asking about rescheduling the call. The recruiter says that she mixed up her schedule, but she said she sent a follow up\u2026\u00a0 email asking to reschedule the call afterwards, which for some reason I didn't get. Either way, I end up speaking with her and setting up a phone interview.The engineer I spoke with didn't speak much and was difficult to communicate with. The problem I was given involved a bunch of ugly string data parsing and using a heuristic to modify the data in a certain way. It was an easy problem, but they wanted a fully working solution within the short time limit. I couldn't finish it in time. Pick a language that has as little verbosity as possible and don't bother engaging with the interviewer because they don't care to speak with you. They just want to see how fast you can code.There are a lot of companies that are known to have a selective interview process, in order to maintain their reputation as a desirable company to work for that is difficult to get into. Most of these companies ask difficult problems to test your capabilities, but Airbnb is essentially just applying an arbitrary filter to weed out the large number of applicants to each position. It sounds like they mostly just care about culture fit anyways from what I've heard about the onsite interview process. For a company that touts their core values and host-like nature, I find it hilarious that this is the worst interview experience I've ever had.",
+        "questions": [
+            "How fast can you parse strings? \u00a0"
+        ],
+        "date": "Sep 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineering",
+        "details": "Started with a brief chat with a recruiter. We went over my experience/resume, my goals, and why I want to work at Airbnb. I got scheduled for a technical phone interview next (after a bit of rerouting among recruiters), where I got asked to solve one or two algorithm problems. Rejected a few days later.",
+        "questions": [
+            "Write a CSV parser. \u00a0"
+        ],
+        "date": "Aug 24, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Most of the interviews were fine, but I really took offense to one of my interviewers. He pretty much gave me a 2 hour problem and expected me to complete it in 35 minutes. It was even a problem I had seen before and I knew exactly how to do it. Even though I was basically writing code the entire time, I could only complete half problem. The interviewer basically\u2026\u00a0 gave me the problem, then sat down and started checking his phone the entire time. He wasn't evaluating me on my thought process and seemed more interested in making me struggle. Overall, I pretty felt like it was a waste of time I was pretty much given no chance to pass.",
+        "questions": [
+            "Super recursion \u00a0"
+        ],
+        "date": "Sep 4, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone interview. First ask me to introduce my working and project experience. I talked about my university majors, the projects that I worked with, the achievements during the work days.Then I have about 40 minutes to write code, to solve a problem. The question is as follow. Return the coins combination with the minimum number of coins.Time complexity O(MN), where M is the target value and N is the number\u2026\u00a0 of distinct coins. Space complexity O(M).",
+        "questions": [
+            "Return the coins combination with the minimum number of coins.Time complexity O(MN), where M is the target value and N is the number of distinct coins. Space complexity O(M). \u00a0"
+        ],
+        "date": "Apr 29, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5 days",
+        "role": "Software Engineer",
+        "details": "One overview call with talent recruiter.Two technical phone screens with a shared notepad.Once successful, visit to the office for 1/2 day (did not get this far).Folks were pretty awesome on the phone, definitely no complains about the process.",
+        "questions": [
+            "Algorithm questions with solutions based on recursion and dynamic programming. Data structures and Run time performance were taken into consideration. \u00a0"
+        ],
+        "date": "Jul 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I was told I could use Angular, coffeescript, or psuedocode to answer questions, but then in the actual interview was forbidden from using those.The interviewer was not friendly, seemed in a hurry, and was hard to hear.The coderpad document I was initially given (which I prepared for) was not used in the interview. Instead, a jsfiddle was used.",
+        "questions": [
+            "Basic HTML/Javascript related question. (Can't be specific) Dom/Style manipulation \u00a0"
+        ],
+        "date": "Sep 4, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Applied online and contacted by recruiter. A phone interview was then set up on a shared coding site followed by an onsite. Onsite consisted of a few technical interviews, lunch, and a few cultural interviews. Very highly protective of culture and thus have high requirements in that area, must love the product and fit into existing culture.",
+        "questions": [
+            "Project showcase. Live coding of code that must be runnable. \u00a0"
+        ],
+        "date": "Aug 11, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I was recruited to apply for a frontend software engineering position at Airbnb, and invited in to the office to have lunch and chat with a recruiter.I was warned that the interview process was incredibly selective, and that it would best to over prepare. Luckily, I wasn't in a rush to leave my current job, so I scheduled my phone screen for 2 weeks out, and spent the time brushing\u2026\u00a0 up on data structures and algorithms.The phone screen was a live coding exercise, which lasted about 45 minutes. They called me up the next day to schedule an onsite for the following week.The onsite was a bit of a marathon, 1 general coding interview, 2 frontend focused interviews, a break for lunch, then 1 architecture interview, and 2 culture fit interviews. Each segment lasted about an hour.Honestly, it was challenging, but not unfairly so. All the questions seemed focused on my ability to do the job, rather than simply brain teasers or hypotheticals. I ended up smiling my way through most of the sessions.They followed up really quickly (I had a verbal yes the next day and an offer within a couple of days).",
+        "questions": [
+            "Can&#039;t give out specific questions, but I feel like the interview is mostly:1) Can you do the job?2) Can we work with you?Be good at what you do, but don&#039;t be afraid to treat the interviewer as a collaborator. \u00a0"
+        ],
+        "date": "Aug 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "A recruiter contacted me through Linkedin. This one was particularly disappointing because the recruiter painted a picture of an engineering culture that was so opposite what turned out to be. I had the impression that they cared more about having 100 of the exact same top 20 CS program grad, in favor of some actual culture with engineers that had passion and personality. Instead, they turned out to be worse\u2026\u00a0 school snobs even than Google.",
+        "questions": [
+            "I had a phone screen question involving examination of subsets. \u00a0"
+        ],
+        "date": "Jun 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "Really slow and unprofessional . Recruiters don't value candidates time. It will hurt hiring in long term.They are bad in following up. They are slow to respond and provide feedback.",
+        "questions": [
+            "Not Applicable \u00a0"
+        ],
+        "date": "Jul 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "This was one bad experience. I have interviewed at many places- big and small companies and experience at AirBnb is easily the worst. I applied online and HR called to schedule a phone interview. We went back and forth and they could not interview on the dates I had provided. I was going to be in SF for something else the next week and they suggested that I come onsite\u2026\u00a0 directly for onsite interviews as the phone interview dates were not working out. So I extended my stay (my own expenses as I am not a local candidate) and got ready for onsite interviews. When I went there, and asked for the agenda - the HR tells me - that its going to be just 1 interview - similar to a phone interview except that its going to be in person. I was shocked. I showed them the email where they confirmed me for onsite and they simply stated it was a communication mishap. This costed me heavily in terms of time and money. The HR seemed very careless and inefficient.As for the interview, the interviewer asked me a Dynamic Programming question (hard one) and said - he didn't care how I implemented it but just wanted a working code in 30 mins. I tried and was very close to the solution. I had a minor bug in the base case of my recursion. The interviewer just stood up at the 30 min mark and left abruptly. I came out and quickly tried the solution in my laptop. I was able to complete it and get it working in another 5 mins. But from the looks of it, there is no credit for implementation idea, thought process or any such thing.Overall, very negative experience.",
+        "questions": [
+            "Dynamic Programming Question \u00a0"
+        ],
+        "date": "Apr 26, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Overall it was a pleasant process. Had one phone screen and being brought onsite next week. On site interview consists of 6 parts, one for past project deep dive, two front-end questions, one data structure and two cultural interviews.What really got me is the data structure part. I probably spend too much time on it so I couldn't finish it in time. After being rejected, I found the question is\u2026\u00a0 actually is one of the top 10 popular questions on leetcode, and being categorized as hard. I think if you are not a leetcoder, solving it in time does have difficulty.I am not comfortable after knowing that question is from leetcode, but I think that's what everybody is doing right now : pick a question from leetcode, hire an engineer that is good at leetcode.",
+        "questions": [
+            "Check top 10 questions on leetcode \u00a0"
+        ],
+        "date": "Apr 30, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Recruiters at Airbnb are the most unprofessional bunch of people. They don't reply to emails for weeks and don't attend you during onsite. In my onsite, one interviewer didn't come to interview room on time, the other was busy doing her work after giving me a question. I have interviewed at big/small all kind of companies, have offers from them but this was the worst experience so far. All my\u2026\u00a0 respect for the company gone down in drain.They publicize their \"core values\" so much, one of which is \"Be a host.\" They were the worst host an interview candidate can get.",
+        "questions": [
+            "One thing I would like to remove from the Airbnb experience. \u00a0"
+        ],
+        "date": "Apr 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Spoke to a Recruiter and a phone screen was scheduled. The recruiter provided a link to sample phone screen questions. Questions there were good practice for the type of questions to expect (except 1). The phone screen was with an international person. After some chit chat, we got to Coderpad to do the problem. I was unable to fully code the solution in time, although I was almost there. Using\u2026\u00a0 Java is not a good language for timed solutions, because it's so verbose. Afterwards, I quickly got a rejection email from the recruiter.",
+        "questions": [
+            "Implement a circular buffer using an array. \u00a0"
+        ],
+        "date": "Apr 14, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Got the initial phone screen through referral. I had very good conversation with the recruiter. After a week, it is a tech phone interview. I was asked to write and run code on a online editor. You can choose your programming language. I used JavaScript. I was not able to finish it with 45 mins especially we spend almost 15 mins to explain and understand the question.",
+        "questions": [
+            "Provide a set of positive integers (an array of integers). Each integer represent number of nights user request on Airbnb.com. If you are a host, you need to design and implement an algorithm to find out the maximum number a nights you can accommodate. The constrain is that you have to reserve at least one day between each request, so that you have time to clean the room.Example:1) Input: [1,\u2026\u00a0 2, 3] ===&gt; output: 4, because you will pick 1 and 32) input: [5, 1, 2, 6] ===&gt; output: 11, because you will pick 5 and 63) input: [5, 1, 2, 6, 20, 2] ===&gt; output: 27, because you will pick 5, 2, 20 \u00a0"
+        ],
+        "date": "May 3, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "5 weeks",
+        "role": "Software Engineer",
+        "details": "there were 6 interviews total. 2 technical, 2 cultural and 2 were functional - showing projects. there is a lot to be found about airbnb in general on the internet, so it's easy to be prepared for the cultural interview and understand what they are looking for. I must say i also enjoyed preparing for the technical aspect of the interview, reading about the coding practices at Airbnb, their technical\u2026\u00a0 choices, etc.it went as follows: functional, lunch, technical, functional, cultural, technical, cultural. I was a bit caught off guard by the last cultural interview because taking lunch into account I assumed I had done my 6 interviews.technical interviews weren't very difficult, recruiters were trying to help, like spotting typos vs watching you fail. I completed the interviews feeling I had solved the problems posed. One was handling some front end interaction in javascript, the other was more about objects, context, functions, etc.cultural interviews were conversational. I really feel i hit it off on the first one, for the second one I was a bit tired and I didn't start so strong but we had a good talk though.functional interviews were me showing projects. Those were personal projects I was happy with in terms of interest and execution.In the end i didn't get an offer and didn't know why. recruiter delayed in giving answer, and couldn't offer feedback.that was really disappointing, because I don't know where i failed or what i could have done differently.",
+        "questions": [
+            "handle interaction with elements in a web page \u00a0"
+        ],
+        "date": "May 22, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "2 phone screens and an on site. Overall, it was a very fair process. The interviews were a mix of behavioral and technical. Prepare by studying data structures and algos.",
+        "questions": [
+            "Standard Software interview questions \u00a0"
+        ],
+        "date": "Apr 9, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "Went through a series of technical interviews as well as cultural fit interviews. It was roughly 3 technical and 2 cultural and lasted half of the day. They will ask you to code for whatever position or platform you apply for so make sure you know your stuff. More emphasis on coding and less on algorithms",
+        "questions": [
+            "Asked me to do a scripting question which covered being able to recognize edge cases. Also asked me to code directly on laptop relevant for the position I applied for. \u00a0"
+        ],
+        "date": "Jun 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "There is an elitist atmosphere during hiring and you are expected to be a ninja before they hire you, rather than giving you opportunities to grow after coming in. The telephonic interview bar is crazy high and you need to crack a hard dynamic Programing problem within 30 mins. Cocky kids fresh out of college who interview you are quick to judge and reject you if you fumble in the\u2026\u00a0 first few minutes. I'd definitely not be comfortable working in such a hostile environment where you're constantly being judged.",
+        "questions": [
+            "Given a set of numbers in an array which represent number of consecutive days of AirBnB reservation requested, as a host, pick the sequence which maximizes the number of days of occupancy, at the same time, leaving atleast 1 day gap in between bookings for cleaning. Problem reduces to finding max-sum of non-consecutive array elements.// [5, 1, 1, 5] => 10The above array would represent an example booking period as\u2026\u00a0 follows -// Dec 1 - 5// Dec 5 - 6// Dec 6 - 7// Dec 7 - 12The answer would be to pick dec 1-5 (5 days) and then pick dec 7-12 for a total of 10 days of occupancy, at the same time, leaving atleast 1 day gap for cleaning between reservations.Similarly,// [3, 6, 4] => 7// [4, 10, 3, 1, 5] => 15 \u00a0"
+        ],
+        "date": "Dec 11, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied through a recruiter, who promptly scheduled a phone screening - the general talk about personal things.They then quickly scheduled another phone screening, this time with an engineer to test my coding ability (it took about a week between the initial screening and the technical interview). They asked me to code a csv parser in the 45 minutes of allotted time and get it to compile and run correctly.\u2026\u00a0 For this reason I chose python (java takes too long to get the peripheral framework ready to run). I would practice getting code to compile and run in about 35 minutes because it takes about 10 minutes to understand their question in detail.",
+        "questions": [
+            "Parse an escaped string into csv format. \u00a0"
+        ],
+        "date": "Oct 1, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Had one generic phone call with some basic tech questions at the end (recruiter), then a TPS from the person on the team I wanted to work on. I was then brought in for a full day of on-site interviews, and then brought back the week after for one more technical coding question.",
+        "questions": [
+            "Given a dictionary, and a matrix of letters, find all the words in the matrix that are in the dictionary. (Going across, down or diagonally) \u00a0"
+        ],
+        "date": "Feb 12, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "After the initial housekeeping with recruiters you do 2 phone screens that last ~45 minutes. Coding questions are the average DS and algo, but wrapped in some use scenario context, which is helpful.Mine included: lower/uppercase permutations, simple json parsing, implementing a simple socket based client (could lookup docs online).You need to produce *running code (this is true for both phone and onsite), but that shouldn't make you nervous.Arch/Design questions is\u2026\u00a0 what got me. You're expected to know database/relation design, indexing, different layers of caching and lookup optimization as if you do this all day every day.You can answer these Q's in either Sql or NoSql context.Then there are 2 quirky culture/fit interviews. Know why you want to work there, be ready to share some experiences from traveling (and hopefully using AirBnB), and have something new to teach your interviewer in a few minutes. That part is actually fun.All in all a nice experience and anyone you interact with are pleasant and helpful.",
+        "questions": [
+            "What SQL columns you should index and how would you change the indexing in different lookup scenarios? \u00a0",
+            "What can you teach me in a few minutes? \u00a0"
+        ],
+        "date": "Aug 23, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Applied online Nov 2013.1. Few days later spoke with very knowledgeable recruiter.2. In 2 days scheduled the tech phone screen using coderpad - didn't have enough time to finish the problem.Overall the questions are on the difficult side for phone screening. I wonder how many people can produce working code in 40min. I would recommend people try the two questions, and give yourself 40min for each. The code need to\u2026\u00a0 be complied and working. Please comment on this post and tell how long it too you.",
+        "questions": [
+            "1. find all the combinations of a string in lowercase and uppercase. For example, string \"ab\" -&gt; \"ab\", \"Ab\", \"aB\", \"AB\". So, you will have 2^n (n = number of chars in the string) output strings. The goal is for you to test each of these string and see if it match a hidden string.2. Implement a simple regex parser which, given a string and a pattern, returns a boolean\u2026\u00a0 indicating whether the input matches the pattern. By simple, we mean that the regex can only contain special character: * (star), . (dot), + (plus). The star means what you'd expect, that there will be zero or more of previous character in that place in the pattern. The dot means any character for that position. The plus means one or more of previous character in that place in the pattern. \u00a0"
+        ],
+        "date": "Jan 14, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "The interview process I had at Airbnb was long but fun. Airbnb believes in Core Values which is shown during the interview process. The first part is a recruiter chat then it moves to phone screening with an engineer. I had to code over a live text editor while on the phone with the engineer.The interview lasts around 6 hours and includes a lunch in the middle. I start the\u2026\u00a0 day with a tour of the office and a chat with the recruiter. There are a mix of coding interviews and non-coding interviews. Some are technical and some are non-technical. The non-technical interview goes over your passion and background and the technical interviews talk about solving some problem. The questions were tough and most relates to algorithm type of problems.After the interview, Airbnb moves very fast. I found out the next day from the recruiter that I got the job and accepted it the following day!",
+        "questions": [
+            "Tell me about why you want to work here. \u00a0"
+        ],
+        "date": "Feb 12, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "Very similar to below. Recruiter reached out through email, call with recruiter, and then a few technical phone screens, to an onsite.The onsite was most of a day, and very tiring. There was 3 behavioral interviews along with 3 technical interviews.Questions ranged from basic data structures/algo to scaling systems",
+        "questions": [
+            "Find all words from a dictionary that are x edit distance away. \u00a0"
+        ],
+        "date": "Nov 13, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Recruiter outreach (email), led to a call with the recruiter, and then a technical screen (Skype, coding in an online editor) with an engineer, which in turn lead to an onsite.The onsite was very long, and had me talking to about 7 different team members (mostly engineers, and one interview with a designer for cultural fit); it lasted the entire day.Lots of tree questions (implement a BST, score sudden-death tournament\u2026\u00a0 results with a minimal binary tree data structure, encode an alien dictionary using a tree and then produce a dictionary using topological traversal), and a \"rebuild Twitter from the ground up\" scaling/architecture question.",
+        "questions": [
+            "Store a set of sudden-death tournament results in a compact format (eg. a bit array) and a set of predicted match results (also in a bit array). Score the predictions, giving one point per correctly guessed match, without unpacking the bit array into a more convenient format (ie. you have to traverse the tree in-place). \u00a0"
+        ],
+        "date": "Oct 31, 2013"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "7+ weeks",
+        "role": "Software Engineer",
+        "details": "The recruiters I worked with were very good, punctual and responded to emails in a timely manner. They were very accommodating to my schedule and did their best to prepare me for my interviews.The coding challenge was reasonable although you had to manage your time very carefully and prepare your tools ahead of time as it was timed. The first phone screen was focused on practical problems that were of\u2026\u00a0 adequate difficulty and appropriate for the position in question.The on-site interview is a TIRING experience, I was there for almost 5 hours and was exhausted by the end. I found the technical portion of the interviews quite easy and was really only challenged by one question in 3 hours. Questions were a mix of practical coding problems and CS fundamentals. The culture portion of the interviews was more difficult, there were a range of question from explaining technical topics to a non-technical interviewer, to more personal questions about why/whether you like to travel, how you started programming, how you look at design, etc.",
+        "questions": [
+            "Some of the culture/personality questions were quite off the wall and hard to answer. For example, explaining to a non-technical interviewer how one would be able to identify elegant code. \u00a0"
+        ],
+        "date": "Feb 19, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I had some initial phone screens followed by a day of onsite interviews followed by a round of interviews with the 3 founders. The recruiters were really responsive and this was one of my favorite interview processes out of all the companies that I was looking at. The people were enthusiastic, friendly, and smart. Loved everything about it.",
+        "questions": [
+            "Technical questions and heavy emphasis on cultural questions. \u00a0"
+        ],
+        "date": "Nov 12, 2014"
+    }
+]

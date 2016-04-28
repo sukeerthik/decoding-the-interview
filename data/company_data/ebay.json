@@ -1,0 +1,875 @@
+[
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Talked with a recruiter at career fair. 3 days later I received phone interview invitation. The phone interview was only 1 round. I was asked to solve an easy algorithm problem on coderpad. The onsite interview was out of expectation. No algorithm, no resume question, no behavior question. All was about system design.",
+        "questions": [
+            "Implement a system design on computer \u00a0"
+        ],
+        "date": "Oct 31, 2015"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Very pleasant, and genuinely enjoyed talking to my hiring manager. Actually, it was surprisingly non-technical considering the role I was interviewing for. Mainly just background and personality questions to get a feel for culture fit I guess.",
+        "questions": [
+            "Background, and personality questions. \u00a0"
+        ],
+        "date": "Aug 2, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "I applied online and after a month I received call from a recruiter who then scheduled my phone interview. Interviewer was nice and was helping me break the problem into pieces. Towards the end he also discussed some practices that are followed at the company.",
+        "questions": [
+            "I was asked to determine if two rectangles overlap. Question was actually easy but I wasn't in right frame of mind and couldn't solve it in given time. Discuss Java collections. \u00a0"
+        ],
+        "date": "Jul 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I apply on line and get a phone interview. The interviewer was 30 minutes late and only interview me about 5 minutes, just asking some simple question about my resume. And then I get rejected next day.",
+        "questions": [
+            "describe resume \u00a0"
+        ],
+        "date": "Mar 2, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "3 weeks",
+        "role": "Software Engineer",
+        "details": "Process took 3 weeks. I applied online and got an email from one of the recruiters. She set me up for a technical phone interview.It started off with few basic java questions for 10 minutes followed by a Tree question that I had to code in collabedit.",
+        "questions": [
+            "How are values passed in Java? By value or by reference? \u00a0",
+            "What is the difference between a set and a map? Can you place a set inside a map? \u00a0",
+            "Find the Least common ancestor for two given nodes in a tree.I solved this question using double recursion but the interviewer was expecting me to solve it in a better way. \u00a0",
+            "How do you check if a string is palindrome or not? \u00a0"
+        ],
+        "date": "Apr 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "First got HR call then after around one week my interview got scheduled. The Interview was for about 1 hour. He asked me projects which were listed on resume. Then he asked me some technical questions regarding OOPS concepts etc. He also asked behavioral questions regarding my work experience etc. He was very friendly. Asked me about MVC architecture breifly.",
+        "questions": [
+            "Tell me about MVC architecture? \u00a0"
+        ],
+        "date": "Apr 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "First round on campus interview, one technical question. The interviewer asked me to design two functions that implement auto prediction feature when user input a few letters in search box.",
+        "questions": [
+            "Really focus on what data structure you use and the time/space complexity. \u00a0"
+        ],
+        "date": "Feb 1, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Got an email with a coding doc that I had to match the output with within a certain amount of time. Completed 2/3 of them but didn't finish the last question which was adding 2 fractions. No phone interview about how I am, just a coding challenge I guess to filter the applicants further after seeing their resume.",
+        "questions": [
+            "To remove every multiple i, j, k ..... elements from a list.To add 2 fractions and reduce it to the simplest formAnother question I couldnt remember but it was easy \u00a0"
+        ],
+        "date": "Feb 5, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Applied online and contacted by a recruiter. Just passed the first round phone interview with team manager, and received second interview invitation one week later. The second round is scheduled next week.",
+        "questions": [
+            "A few questions about resume, coding question: find the lowest common ancestor of two nodes in a binary tree \u00a0"
+        ],
+        "date": "Feb 11, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "It was very ad-hoc due to some informal timing. It started with a career fair at my university. I had a screening interview, and then applied online. A few weeks later I was contacted to come on campus for interviews. I met with a couple of teams in platforms and services, and had some excellent conversations with the managers.",
+        "questions": [
+            "Design a cache system \u00a0"
+        ],
+        "date": "Oct 27, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineering",
+        "details": "Got the request after a career fair at my universityFirst there were a few questions about my resume and qualifications and projects that I did. This part was pretty straight forward.After that they asked me a programming question. The task was to write a function that, given a particular filename ending, returns a list of all files with this extension with a language of choice.",
+        "questions": [
+            "There was no really unexpected question, but I didn't know the exact syntax how to open files in any language and thought they would ask more general data structure/programming questions. \u00a0"
+        ],
+        "date": "Jan 25, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "6 weeks",
+        "role": "Software Engineer",
+        "details": "referred by my friend and firstly talked with recruiter about my skills and projects in school. two days later had two screen technical interviews (1 hour for each) with software engineers. some days later, arranged to have a Skype Loop Interview with engineers and manager.phone interviews were good, interviewers were pretty nice, patient and friendly. however, two interviews in loop interviews were really really arrogant.no matter what I said (during\u2026\u00a0 the coding, I was trying to express my idea about the question), he just said nothing and no response at all. and for the last 5 or 10 minutes, we talked about culture and position at eBay and also got some uncomfortable answers.3 days later, got a rejection email although I believed that I solved all the technical problems correctly. I have no idea why.",
+        "questions": [
+            "nothing unexpected, basic concepts about RESTful web service, data structure (hashtable and collision), algorithm and some coding challenges (tree, searching, array...) \u00a0"
+        ],
+        "date": "Oct 18, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "one day interview, 6 interviews including the manager. Almost everybody asked technical questions, but not very hard, they focused on fundamental stuff. It's ok if you failed to answer some questions",
+        "questions": [
+            "dynamic programming. \u00a0"
+        ],
+        "date": "Jun 10, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "2 phone interviews then 1 onsite interview. The two phone interviews were very short and they were about my former experience and current background in Machine Learning. I also had very basic questions about programming and data structure. Everything went so smooth and the guys from the different teams are excellent and make you very comfortable and confident.",
+        "questions": [
+            "Onsite interview: very easy questions in mathematics and data structure. Few of the questions that I still remember what is the best data structure to find the min and the max in a numerical sequence. Another question was about how k-mean algorithm work and how to compute the mean.. I have also been asked to compute eigenvalues and eigenvectors of a matrix. \u00a0"
+        ],
+        "date": "Apr 6, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "After the prescreen interview with hr to check my background to see if match,I got an phone interview which has 3 rounds and with different engineer.The question is about data structure and algorithm,not too many programming language specifics.The problems are like this1. Fibonacci numbers1 1 2 3 5 8 13 ...2. two sum, do not need to deal with duplicate pairs",
+        "questions": [
+            "1. Fibonacci numbers1 1 2 3 5 8 13 ...2. two sum, do not need to deal with duplicate pairs \u00a0"
+        ],
+        "date": "Jun 9, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Had 2 interview rounds, was asked questions/programs in Java (Collections, Multithreading, OO concepts) , Data-Structures (Stack and Queue), Design Patterns (Singleton), SQL, C++. More questions about my previous work experience, school projects.Both were telephonic rounds.",
+        "questions": [
+            "If I mark an arraylist as final, can i add more elements to it? \u00a0"
+        ],
+        "date": "Aug 19, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I was set up an interview for on-campus recruiting",
+        "questions": [
+            "Interview questions were that that bad. Fundamental Software concepts and algorithms. \u00a0"
+        ],
+        "date": "Feb 8, 2014"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone screen was a few basic questions. Round 2 was 3 interviewers by Skype.",
+        "questions": [
+            "Nothing extremely hard. \u00a0"
+        ],
+        "date": "Feb 4, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The eBay recruiter reached out to me and set up the interview process. I cleared the telephonic interview and then I was invited for the onsite interview. They asked questions from Java, CSS, HTML, Product Design, Javascript, Algorithms, Puzzles.I was told that the decision will be made in a week by the hiring manager very clearly. I waited for more than a week and reached out to the recruiter after\u2026\u00a0 I did nt hear anything from eBay. The recruiter kept saying that the decision has not been made and that they are still interviewing each time I would send an email. This continued for more than a month. I had similar experience with another eBay recruiter in the past where they do not show any courtesy informing the result of the interview. Sometimes the recruiter does not even respond to your email and phone call.The candidates are mature enough to understand that they have not been selected. A recruiter or HR sends a polite email conveying the message at most of the companies. The recruiting process at eBay is horrible... very unprofessional!",
+        "questions": [
+            "They asked questions from Java, CSS, HTML, Product Design, Javascript, Algorithms, Puzzles. \u00a0"
+        ],
+        "date": "Oct 15, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Applied through College. Interviewed by Research Director on Campus. Positive experience during the interview. Some behavioral and resume questions. Only one programming question - Reverse a Linked List, Algo for Binary tree Lowest Common Ancestor. But really erratic reject after doing wonderful ( mentioned by the interviewer)",
+        "questions": [
+            "Reverse a Linked ListAlgo for Binary tree Lowest Common Ancestor \u00a0"
+        ],
+        "date": "Oct 9, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Difficult Interview",
+        "length": "5+ weeks",
+        "role": "Software Engineer",
+        "details": "Applied through school and then got a phone interview. The phone interview was very fast paced loaded with questions. The phone interviewer was nice though. After that, got a Skype interview with 5 people. All of them were great except one. That one was not prepared for the interview at all, he asked a question that was too difficult. So when I couldn't answer, I asked him to answer it\u2026\u00a0 himself. The funny thing that he couldn't answer his own question.",
+        "questions": [
+            "Given a BS tree, give the median number in the tree with O(1) space. \u00a0"
+        ],
+        "date": "Sep 23, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "hr interview - sr software engineer",
+        "questions": [
+            "need to prepare much comprehensive, even littlest thing \u00a0"
+        ],
+        "date": "Oct 3, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "Process was Kinda Slow. Had a phone interview and nearly a 2-3 weeks gap between the result/",
+        "questions": [
+            "Interview was basic CS concepts \u00a0"
+        ],
+        "date": "Sep 3, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "I was contacted by an outside recruiter who asked few basic resume questions. She forwarded my resume to a team.There was technical phone screen with few coding questions like write all permutation of the string.Later, to my surprise was asked for a Skype interview as I was not a local candidate. I was not at all impressed by the interviewers. First person could not connect to the skype for 15\u2026\u00a0 mins. Eventually due to poor quality of his data network on his \"phone\" (not from a desktop computer with a wifi)- we had to turn-off the video.He had asked an array merging question and it took me 20 mins to code and 40 mins to explain him how and why the code would work. It was the simplest of codes and I have written complicated code. It was not that he wanted to know my thought process- but it seemed he did not understand.Second was a guy with a thick accent and a low talker. Why would you ask such a person to interview if he cannot put his point through. He had asked reversing a linked list and Fibonacci. Pretty straight forward coding.Third interview was even worse where the interviewer would drum and was humming some music while I was writing the code. What on earth is the problem with this girl? She was so rude- I am not kidding- while I was explaining my thought process of her solution, she interjects saying...'can you just code and not explain things'. So the question was to check if the number is a palindrome and as she did not want me to explain- I wrote the entire code where I converted the int to string and compared it with its reverse. Now she pulls me down as why would I give a solution like that. Anyways, within few mins, I gave her division and modulo way of checking the palindrome of the number. Without responding, she jumps to SQL questions. Wow!Finally the manager comes- who was better than the previous three and asked to write a code to convert string to int which I coded pretty well within 20 mins. In the last 10 mins he comes up with another question for which I was able to code partially due to time constraint.",
+        "questions": [
+            "Last interviews question for which I got 10 mins was a tricky one.He wanted me to implement Google's \"Did you mean\" logic. \u00a0"
+        ],
+        "date": "Aug 7, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Had a 2 - 60 min phone interviews. Was asked questions on Java and Databases more aligned to my role as Intern there. Interviewers were very receptive and guided me during the process.Received a confirmation on same day as second interview and accepted it on the same day",
+        "questions": [
+            "How would we make Singleton thread protected except interviewer did not want to include Synchronized block in there. \u00a0"
+        ],
+        "date": "Jul 6, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Easy Interview",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Phone Interview",
+        "questions": [
+            "Fibonacci Series using recursion and iteration. Ask to reduce number of recursive calls. \u00a0"
+        ],
+        "date": "Jun 11, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Interview process and setup was fast. First recruiter was going to be on vacation and hence my profile was sent to another recruiter from whom i received a call in less than a week. They were helpful in adjusting the interview dates as per my class schedules.",
+        "questions": [
+            "Questions around CS fundamentals, past projects and internship projects. \u00a0"
+        ],
+        "date": "Sep 15, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "phone interview",
+        "questions": [
+            "what data structure to use in case of a load balancer \u00a0"
+        ],
+        "date": "Apr 9, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "Applied on their website. Then contacted by a recruiter. Discussed my background, skills and interests. Then scheduled a technical phone interview. interview was normal. Some basic java questions and one programing problem. Find the maximum length of consecutive ones in a nxm matrix which has only 0's and 1's.",
+        "questions": [
+            "Find the maximum length of consecutive ones in a nxm matrix which has only 0's and 1's. \u00a0"
+        ],
+        "date": "Jul 31, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Started with a phone call about basic java question and projects on resume followed by skype interview with 4 ppl. Didn't hear from them so i am assuming they didn't hire me..It whould have been better on their part to atleast provide a reject mail.",
+        "questions": [
+            "Some probability question1) given a rand5() function which provide a random number between 1-5 at equal probability. Write a rand7() fuction to provide a random number between 1-7 with equal probability... \u00a0"
+        ],
+        "date": "Mar 14, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Got a technical phone interview, was asked how to find middle node of a linked list and then follow up questions on that",
+        "questions": [
+            "key pair analysis \u00a0"
+        ],
+        "date": "Mar 13, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "A on-campus interview. I was told some basic information about the group: a QA group mainly using Java. Asked a easy binary search question and asked me to write a sorting method. I wrote the quick sort. I was told the result will come out the next week. However, after 4 weeks, I received nothing. I sent an email to the recruiting person, she did not respond me.",
+        "questions": [],
+        "date": "Apr 15, 2013"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "Refered by a friend, first two phone interviews, then onsite in CA. Overall the experience was great, hiring manager is nice, interviewers are all nice too.Had a very bad time with the recruiter at the end. I had to bargain with him very hard to get a small salary increase(he worked for a small comapny for a long time and was really thinking cheap), and he directly refused to match\u2026\u00a0 my other offer without even talking to hiring manager. I was 100% sure that the hiring manager would try to match since I know I gave him a good impression, and he knows my excellent friend who refered me. But the recruiter screwed up everything and I had to accept another offer due to deadline. After I signed the other offer, the recuriter called and wanted to give me a higher number...",
+        "questions": [
+            "The interview questions are not hard. \u00a0"
+        ],
+        "date": "Mar 16, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The phone interview started by explaining the job description, duties etc.,I was asked to write code for the \"number of ways to make change when a $1 bill is given and the product cost is less than $1\" Later on, i was given time for questions",
+        "questions": [
+            "number of ways to make change when a $1 bill is given and the product cost is less than $1 \u00a0"
+        ],
+        "date": "Feb 14, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "- Give out a r\u00e9sum\u00e9 at the Spring EOC job fair at CMU- Wait two days and get contacted back by email to schedule an interview on campus- Have the interview with a senior engineer from eBay",
+        "questions": [
+            "How would you implement a hash table in Java? \u00a0"
+        ],
+        "date": "Feb 13, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Difficult Interview",
+        "difficulty": "-",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Attended a job fair and had dropped my resume. They called me in a week for an interview session.Asked me to implement Sudoku.Asked me several data structure questions.Asked me the difference between abstract class and interface.A brain teaser: I have 25 horses and I want to find the fastest amongst them. The contraint is that I do not have any time measuring device. I am given a circular racecourse wherein\u2026\u00a0 a max of 5 horses can run in parallel at a given instance of time. How will you find the fastest one.",
+        "questions": [
+            "Implement sudoku \u00a0"
+        ],
+        "date": "Nov 3, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "These are the interview questions.Find the first zero based index of number > = given number in a sorted arrayexample:1,2,5,5,5,6,74 => index 25 => index 22 => 1---------------------Tree in order traversal, return the next node.ie, if the search node is found, return the next preorder traversal node.--------------------------------------Using the characters on a telephone dial, give all the permutation of strings for given digits.",
+        "questions": [
+            "Using the characters on a telephone dial, give all the permutation of strings for given digits. \u00a0"
+        ],
+        "date": "Jul 27, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1+ week",
+        "role": "Software Engineer",
+        "details": "Applied online through LinkedIn, received a call from recruiter regarding next steps. Soon I was scheduled to talk to a Sr. Software Engineer for a 45 min technical interview.Questions-basic resume drilling, OOP theory questions, mutli-threading, synchronization, deadlockwhy String is immutable?Config files in Hibernatenext I got call for onsite interview in a week- met with 3 s/w engineers (seniors) and 1 product manager (she took me to lunch as well, but\u2026\u00a0 while we were eating she made me do a coding exercise on board which I think was odd and impolite and rushing through it plus she wasn't really helpful during the interview) and finally with HR.some Questions-static/non static, variables/methods, finalhow would you sort a very very large filebasic data structuresdesign a basic inventory system",
+        "questions": [
+            "write code to do the reverse mapping from phone number to its all possible combination of letters. Ex- if dialed 12 then all possible combinations will be ad, ae, af, bd, be, bf, cd, ce, cf and so on... \u00a0"
+        ],
+        "date": "Sep 2, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "Telephone interview:Questions were based on SQL, Linux and Java.He asked some of the basic commands from linux, SQL and OOPS concept.",
+        "questions": [
+            "Questions were not difficult. \u00a0"
+        ],
+        "date": "Oct 4, 2012"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "4+ weeks",
+        "role": "Software Engineer",
+        "details": "I applied for a JavaScript Engineer position via a generic eBay \"we're hiring!\" ad on Monster.com.I got an e-mail and a call quickly from an \"outside recruiter\" who bubbled about how eBay would do anything to recruit me. But, I've been around so I knew that this was just her job and a sales pitch. eBay hiring is an assembly line: an \"outside recruiter\" fills the interview funnel by convincing\u2026\u00a0 as many people to apply, \"internal recruiters\" get the resumes from the funnel and decide who to submit to their managers, \"phone coordinators\" spend all day arranging phone interviews between interviewers and candidates and \"in person coordinators\" spend all day arranging in-person interviews. So, you have 4 people whose sole job is to organize one portion of the interview. (At least, for the group that I ended up interviewing with.)I had a 45-minute phone interview with a guy who asked technical questions but didn't make me write code. 20 minutes later, I had another 45-minute phone interview with a girl who asked me technical questions and had me write snippets of code in Google Docs. I did OK (not great) on the first and seemed to say \"I don't know\" a bunch of times on the second. I figured that I'd blown it and wouldn't hear back and moved on. A few days later, I got a weird call from the (internal) recruiter. They were eager to do an in-person interview but wanted to confirm that I'm interested in the position and that it wasn't too easy.At the in-person interview, I walked past a big room. It had long desks with keyboards and LCD screens every 4 feet. Each \"station\" was separated by a separator mounted on the top of the desk. They explained that they are moving away from cubicles to this style which makes it look like a call center or like a study desk at a library with less privacy. But, no, it's not a call center; software developers work here.Since the engineers have no privacy, I could look across the entire room and see something like 90% of the people were Indian or Pakastani or similar. Here and there, I saw a white or an Asian face but the vast majority were Indian and, during lunch, I saw a big group eating around the large break room table and every single one was Indian.I had 6 interviews over 5 hours, 45-minutes each. The first guy was likeable; we discussed XSL (from my resume) and he asked me to write reverse a linked list. The second guy was odd, had a thick accent, and would pause for long periods, even though he hadn't finished the question; he asked me to describe (but not code) the maximum sum subsequence algorithm, how I could do the categories tab for eBay and how I would design a stock ticker. The third guy had me describe an algorithm to find the total number of matching pairs in an array. The fourth guy had a thick accent and asked me to write code to implement a queue. The fifth guy was the manager: we got lunch at the eBay cafeteria, came back to the room, talked about my background, then he asked me to work through the ABCDE x 4 = EDCBA. The sixth guy asked me about closure.When the last guy walked me out, I asked how many interview he does. He says that he does about 3 interviews a week and, if I understood correctly, pretty much every week of his entire career at eBay. He's just a regular software developer so hiring isn't his main job. It shows that they do tons of interviews and it's pretty much an assembly line.I felt that I did OK (but not great) at the interview but I strongly felt that I stuck out because I wasn't Indian. Everything about my interview felt like I was in India, not only the people but the culture, the way of doing business, the preferences, the interests, everything. Don't they realize that the perfect candidate would be Indian? Why not yield to the obvious and just focus on Indian candidates exclusively?It seemed like a bad fit so I moved on. A few days later, I got a message on my voicemail and, when I called, they said that they wanted to make an offer. Uh, ok. They said that my relevant experience was not long enough so they'd like to bring me in at lower grade but, as the recruiter said, who cares as long as they can meet my salary demands, right? Uh, I suppose. We discussed my current salary and my salary goals then the recruiter said that she'd get me my offer by the end of the day or by the next morning.No offer came and I moved on.A few weeks later (after the holidays), a different eBay recruiter called me out of the blue and said that the same group wanted to offer me the job. He gave a pretty hard sell about all the intangible benefits of the job, like the cafeteria and job security and the eBay brand, so I figured that they were setting me up for a lowball offer. And I was right. They made me an offer and I told them the next morning, \"Thank you for your offer but I've decided to decline.\" I did discuss the offer with my family but they were like, no way, no how.",
+        "questions": [
+            "How would you write the code to reverse a linked list? \u00a0",
+            "What complexity (big O notation) is reversing a linked list? \u00a0",
+            "How would you write the code find the subsequence with the maximum sum of n integers? \u00a0",
+            "How would you build a stock ticker service? \u00a0",
+            "Find all the pairs in array that add up to a certain number? \u00a0"
+        ],
+        "date": "Jan 23, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2+ months",
+        "role": "Software Engineer",
+        "details": "Got a referral interview from a friend. Had a phone interview. Phone interview was very tough and a lot of java questions. there wasnt any response after that. I waited for almost 10 days and then mailed the person who interviewed me about response. In few minutes i got a response from hr to schedule a onsite interview. There was 5 people whom i met with in ebay office. Interview\u2026\u00a0 went positive and the team was excellent. Even before i reached home i got a email from hr that interview was positive and would give me a call on the following week day. There wasnt any call at all. Then a third party company mailed me to fill out application for background check. I did fill in application and they asked me some documents which i sent them. They told me my report will be sent in another 3-4 business days. I waited for almost 2 weeks and mailed hr if there is any updates. He told there is some kind of internal issues going on and he will get back to me on the following week. This has happened 3 weeks before and i haven't got any updates. I also mailed him last week to get updates but no response. So i am gonna accept offer from another company. good bye eBay!",
+        "questions": [
+            "weak hash map, finally, finalize, final \u00a0",
+            "thread local, java debugger \u00a0"
+        ],
+        "date": "Feb 3, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Easy Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "I got an e-mail from one of the recruiters. She setup a phone interview with one of their Engineers. The interviewer asked me random questions about Java, and J2EE, specifically, the differences between the two. The interviewer was happy and said he'd recommend me for the next round of interviews. The recruiter then contacted me again and asked me to send her a good day for another round of interviews.\u2026\u00a0 I e-mailed her my availability but she never replied. I tried to contact her several times but she never responded my e-mails. Very unprofessional.",
+        "questions": [
+            "What is the difference between Java and Java Enterprise Edition? \u00a0",
+            "Why is serialization called that? \u00a0"
+        ],
+        "date": "Feb 15, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "I got a linkedin request from ebay hr for position available for Xcommerce one of their companies. I had a telephonic interview which went well and interviewee told me next step is we will ask you to come to San Jose. I did not heard back from them so mailed back. Now another guy calls me up to say there is position available for Quality Engineer right now not SE.\u2026\u00a0 I told I am not interested, I want to work in Product Development team only no QA stuff. Again they arranged for another telephonic round with another lead. That also went well, now this guy again arranged telephonic interview with his manager. That round was ok for me and did not hear back from them.I still do not understand why I had three telephonic interview rounds, looks like the recruitment process is following any particular process.",
+        "questions": [
+            "what is race condition, reflection, how can you instantiate object in more than one way. Dining philosophy scenario, diff between .equals and ==, which ds is used for maintaining connection pooling mechanism, sorting algorithm (how it works, how many times u compare and swap). diff between arraylist and linkedlist, wap to reverse string etc. \u00a0"
+        ],
+        "date": "Oct 28, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "referred by friend, arranged interview with hiring manager",
+        "questions": [],
+        "date": "Feb 16, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "The interview consisted of 2 phone interview. First one was technical with some questions on database and Java. The second was about experience and behavioral.",
+        "questions": [
+            "How do you see yourself in 5 years? \u00a0",
+            "What is third normal form? \u00a0"
+        ],
+        "date": "May 4, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Initial Phone screenNew Grad Position: Got asked onOpen Source contributions andReversing a cycle in a linked list.Called on site:Had 5 interviews:Very Java Centric with some puzzles.Some Questions:1.Array Implementation of a Hashmap2. what is static/final3.Recursion :Fibonacci series,factorial4.SQL , Joins5. Interview with Principal, focussed onobject references and actual objects",
+        "questions": [
+            "What is a object reference, how is it difference from a physical object? \u00a0",
+            "Implement a fibonacci series recursively \u00a0"
+        ],
+        "date": "Apr 29, 2012"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "I got this interview through my school's career fair. They asked me about my class projects so we talked about that for a little bit. They asked me two technical questions. I don't actually remember the first one, but I do remember the second one. There were also some behavioral ones. There was only one phone interview and they sent me an offer the day after. They were super friendly\u2026\u00a0 and good people to talk to.",
+        "questions": [
+            "You have a list of numbers from 1-1000, each number only exists once and they are in random order. You randomly take one out. How do you know which is the missing number? \u00a0"
+        ],
+        "date": "Apr 15, 2010"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "I was contacted by a recruiter. After few days had a phone screen and then onsite interviewThe interview went fine , I was interviewing after a long time and as such was not well preparedOverall experience was fine and I guess my 1:1 interview did not go well as i never hear back from them",
+        "questions": [
+            "handling concurrent sessions \u00a0"
+        ],
+        "date": "Jun 11, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "The asked a lot of technical questions mostly on data structures and core java. Aptitude was mostly from rs aggarwal . It will very easy to crack amtitude if u are preparing for any competative exam like CAT, GRE, GATE. The HR round was good with basic qu3stions like why this company, why this particular job, why ebay.",
+        "questions": [
+            "Tell me about ur self ? why it field? \u00a0"
+        ],
+        "date": "Mar 4, 2016"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "It consisted of 4/5 rounds.Filtering Round (Round 1) - no negatives:Aptitude(20 questions) -moderately difficult Technical - Good Standard Questions from C++, OOPS concepts, Data Structures, JAVA, DB and OS problem related questions.30 were shortlisted.Round 2: Short Technical RoundResume Based Questions were asked. DB questions, ACID explanation with real life examples. Random Questions about trending technologies like MongoDB, NoSQL was asked.12 were shortlisted.Round 3:Pure Technical. Three Panels - Cant expect from\u2026\u00a0 which questions will be asked. cause it was all mixed. Sound Knowledge in Data Structures, JAVA, OOPS and DB is essential to crack. Puzzles were asked in the middle. Very good Standard of questions.Round 4:Some People had a additional Technical round similar to Round 3.Final HR Round (Round 5):HR related questions. Was Fun. and few technical questions but everything real world questions. Bookish answers were not expected. More of real world problem and solution finding round.",
+        "questions": [
+            "Given two trees, check whether one is a subtree of the other ? \u00a0"
+        ],
+        "date": "Aug 1, 2015"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "There were 3 rounds of interviews after the written round. The written round was pretty difficult with time taking questions. There were 50 questions to be done in a span of 60 minutes. There were 2 technical interviews. Tech-1 involved a software case analysis. A real time problem was given and code had to be written.",
+        "questions": [
+            "Every question required detailed analysis. There was no question straight from the book. \u00a0"
+        ],
+        "date": "Sep 4, 2014"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "I applied through university program and there was 1 written round in which 40 questions were there.20 aptitude and 20 technical.Aptitude ques were very good and technical ques include ds,algo,c++ and java questions.",
+        "questions": [
+            "aptitude questions were very good \u00a0"
+        ],
+        "date": "Aug 3, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "first round - online test - multiple choice aptitude (1 hour) - permutations, probability, work and time, speed distance, relantionships, trainssecond round - technical and projects (two - three rounds)third round - hr and technical",
+        "questions": [
+            "asked about the subjects studied in the past year! \u00a0"
+        ],
+        "date": "Aug 26, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Average Interview",
+        "difficulty": "-",
+        "length": "4 days",
+        "role": "Software Engineer",
+        "details": "First round- written test at ebay office, it includes aptitude(10 questions) for 30 mins and technical questions from c,c++,java pogram snippets( 10 questions) for 30 mins.and followed by three to four technical interview and one HR.",
+        "questions": [
+            "i forgot.. its all program questions.. \u00a0"
+        ],
+        "date": "Jul 5, 2014"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "The first round is a telephone interview. Questions include basic algorithm, data structure, Java and Database.After about a week, I got a chance to do onsite interview with four eBay employees, each for about 45 minutes. All of them asked questions about algorithm and data structure. The third one asked more about design patterns.",
+        "questions": [
+            "Some questions about problem solving, like describing how a VPN system works. \u00a0"
+        ],
+        "date": "Dec 18, 2013"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Written Test followed by 4 rounds of interview...",
+        "questions": [
+            "what are the minimum no of aces required to find the 3 fastest horse from a group of 25 if u can race only 5 at a time... \u00a0"
+        ],
+        "date": "Nov 8, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "First was a written test - one aptitude question, 7 coding output questions and 4 coding questions. The next rounds were interviews. There were 4 interviews. First was purely technical where they asked ab your basic coding concepts(data structures and algorithms). The rest were HR interviews where mostly problem solving ability was evaluated.",
+        "questions": [
+            "It was an aptitude question. There are 25 horses. You have to find the fastest three. Catch is you can only conduct races in groups of 5. What is the minimum number of races that is required. \u00a0"
+        ],
+        "date": "Jul 30, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Easy Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "This was through campus placement. There was an initial screening round written by around 200 people out of which 20 were selected. 7q aptitude(30 mins), 10q technical(30 mins), 2 coding problems(45 mins).",
+        "questions": [
+            "There was an aptitude question which was called destination race problem. \u00a0"
+        ],
+        "date": "Aug 17, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Easy Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "Very casual. They expect quick answers to simple questions on ds, algo. Asked to design a chess game.",
+        "questions": [
+            "Nothing unexpected. \u00a0"
+        ],
+        "date": "Aug 12, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "all basic java question and problem solve",
+        "questions": [
+            "why super class assignment to subclass will give an error? \u00a0"
+        ],
+        "date": "Jan 11, 2013"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "They come to campus. My interview is 9 am in the morning, and they were late. This made me mad. Without given a job description, they start the interview. I have around 4 year work experience, they ask me some binary operation.",
+        "questions": [
+            "Find the number of 1 or 0 in a binary formated int. \u00a0"
+        ],
+        "date": "Nov 8, 2012"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "-",
+        "difficulty": "-",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "One written test, 5 rounds of interview which included one round of HRWritten test had two papers : One Coding and the other was math & reasoning.",
+        "questions": [
+            "Design a database for a given scenario. Expected to take care of all possible situations \u00a0"
+        ],
+        "date": "Sep 24, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "a week",
+        "role": "Software Engineer",
+        "details": "After the hunter push me to ebay almost one week,an engineer call me for technology interview.She asked me:1.final,finally,finalize;2.static and non staic ;3.hashmap and hashtable;4.virtual function and pointer;5.some android questions.We talked almost one hour and finished.Because she saied too fast and I had to get her explain several times.",
+        "questions": [
+            "1.final,finally,finalize;2.static and non staic ;3.hashmap and hashtable;4.virtual function and pointer;5.some android questions. \u00a0"
+        ],
+        "date": "Sep 27, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "4 weeks",
+        "role": "Software Engineer",
+        "details": "Interview process took long time first a phone interview and then face 2 face.They made a verbal offer but later no offer was made no reason was given. It was a time and energy waste from both end.I wish they could be more organized with their interview process.",
+        "questions": [
+            "Java coding , datastructures, web based questions \u00a0"
+        ],
+        "date": "Jan 14, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Contacted by HR and got first phone interview scheduled. Had 2 phone interviews. One programming and problem solving. Second one specifically Java as the position was for a Java Developer.",
+        "questions": [
+            "Immutable classes in Java \u00a0"
+        ],
+        "date": "Jan 9, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Difficult Interview",
+        "length": "2 weeks",
+        "role": "Software Engineer",
+        "details": "Initially I had a phone screening for about 30 minutes. All the basics and fundamentals of java,db,frameworks were questioned.Then there was a delay of 1 week and later I had a call for personal interview. I had 5 different people interviewed me. Most of the questions were on Algorithms,data structures , problem solving.It was overall difficult interview and I didn't receive the offer.",
+        "questions": [
+            "Questions on singleton, hashtables, problems on stacks, binary trees ,sorting . \u00a0"
+        ],
+        "date": "May 16, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineer",
+        "details": "there was a written test followed by two interviews.around 20 students were shortlisted from 250 students.the written test contained around 30 questions in which 20 were technical and 10 aptitude.In the first round they asked about skill set and asked to write a program on scheduling a cricket tournament.A second question was on permutation of strings.In the second round the interviewer asked about OS,network programming and basic HR questions",
+        "questions": [
+            "Progranm to schedule a cricket tournament \u00a0",
+            "The operations of an operating system \u00a0"
+        ],
+        "date": "Dec 3, 2011"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "3+ weeks",
+        "role": "Software Engineer",
+        "details": "I was referred by a friend and recruiter schedule the phone screen. Phone screen was easy since interviewer mainly asked core java and algorithm. I got onsite call after a week and i had 3 interviews. It was mostly java questions, Puzzles[dont aftraid - its known one] and web services. surprisingly i got another on site interview and i was asked same kind of questions except one of the sr.engineer\u2026\u00a0 asked my many questions out of my domain. Since its definite that, if you screw one interview out of 7, you will not have chance to get hired. I sent two emails for feed back to hr but she did not even care to reply. Overall its tiresome and frustrating. Ebay recruiters definitely needs to learn a lot from Google recruiter.",
+        "questions": [
+            "write a code to parse XML in java using \u00a0",
+            "explain REST architecture \u00a0"
+        ],
+        "date": "Feb 4, 2011"
+    },
+    {
+        "gotOffer": "Accepted Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "2 days",
+        "role": "Software Engineer",
+        "details": "Campus Grade,- 1 round of theatrical/apt testApt test includes questions from three parts:\u00a0- Java\u00a0- Plain basic book Apts\u00a0- Data structures\u00a0- One problem solving question (similar to problems you find in top coder )- 2 rounds of interview ( 1 on 1 interviews with managers/dev leads )",
+        "questions": [
+            "Basic questions in Data Structures, RDBMS, Java, Agile development \u00a0"
+        ],
+        "date": "Aug 17, 2015"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Negative Experience",
+        "difficulty": "Average Interview",
+        "length": "2+ weeks",
+        "role": "Software Engineer",
+        "details": "A tech guy from ebay emailed me asking for a time slot for a phone interview and got back after 2 weeks saying sorry he started interview. I think before interviewing they should take some time to look at the resume and see what is the exact background of the person and then ask questions, and if you feel that does not fit it to the requirement it is better\u2026\u00a0 dont call them and waste their time.It started off with basic questions and then with unrelated questions, no proper attitude. They should improvise their hiring process.",
+        "questions": [
+            "CSS \u00a0"
+        ],
+        "date": "Nov 16, 2010"
+    },
+    {
+        "gotOffer": "Declined Offer",
+        "experience": "Positive Experience",
+        "difficulty": "Average Interview",
+        "length": "-",
+        "role": "Software Engineer",
+        "details": "1 round of written interview followed by 2 rounds of f2f interview. The written interview covered mainly Java, Quantitative Aptitude,OOAD and a little of general Computer Science concepts. The f2f interview involved questions in Java - OOP, Memory Management, Web application performance.",
+        "questions": [
+            "Sketch a rectangular hyperbola and state its equation. \u00a0"
+        ],
+        "date": "Aug 16, 2012"
+    },
+    {
+        "gotOffer": "No Offer",
+        "experience": "Neutral Experience",
+        "difficulty": "Average Interview",
+        "length": "1 day",
+        "role": "Software Engineering",
+        "details": "I can't remember the details well. But the interviewer is nice.It's 1:1 interview. First I introduced myself in English, then he asked me what I'm interested in and some programming questions.My advice is: firstly you must be well prepared, self-introduction and something else; secondly, doing more practice, he will ask you a lot of practical problems.",
+        "questions": [
+            "What is the difference of session, cookie and cache? \u00a0"
+        ],
+        "date": "Feb 21, 2012"
+    }
+]
