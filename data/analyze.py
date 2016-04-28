@@ -21,7 +21,6 @@ COMPANY_LIST = []
 COMPANY_LIST_KEYWORDS = []
 
 # Keywords to remove from noun phrase analysis
-# TODO: add company name to this on the fly
 REMOVE_KEYWORDS = ["phone", "interview", "hr", "got", "applied", "overall", "engineer", "met", "was", "went"]
 
 ################################################
@@ -203,7 +202,7 @@ def analyze_data(classifier):
     data = get_data_from_json(COMPANY_DATA_PATH + company_kw + ".json")
     pattern_sentiment, pattern_subjectivity, top_details_nphrases = analyze_details(data, company)
     top_questions_nphrases = analyze_questions(data, company)
-    overall_sentiment, pos_sentiment, neg_sentiment = "", "", "" #analyze_sentiment(data, classifier)
+    overall_sentiment, pos_sentiment, neg_sentiment = analyze_sentiment(data, classifier)
     most_positive_review, most_negative_review = analyze_top_reviews(data)
     a = Analysis.Analysis(pattern_sentiment, pattern_subjectivity, overall_sentiment, pos_sentiment, neg_sentiment, top_details_nphrases, top_questions_nphrases, most_positive_review, most_negative_review)
     analyzed_data.append(a)
@@ -221,7 +220,6 @@ def init():
 
 if __name__ == "__main__":
   init()
-  #nbayes = train_classifier()
-  nbayes = ""
+  nbayes = train_classifier()
   analyze_data(nbayes)
 #endif
