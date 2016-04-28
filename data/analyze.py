@@ -157,7 +157,7 @@ def get_top_reviews(data):
       negVal = sentiment
     #endif
   #endfor
-  return (posReview, posVal), (negReview, negVal)
+  return (posReview, round(posVal, 5)), (negReview, round(negVal, 5))
 #enddef
 
 def analyze_sentiment(data, classifier):
