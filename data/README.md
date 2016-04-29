@@ -31,9 +31,9 @@ $ python analyze.py
 
 The analyzer will output a JSON for each company in the root directory as [company_name]_analysis.txt.
 
-**most_negative_review** (*Review Object*)[https://github.com/williamxie11/glassdoor-interview-scraper/blob/master/Review.py] = tuple of most negative Glassdoor review (using the structure from the Glassdoor Interview Scraper) for the company using TextBlob's built-in sentiment analysis and the sentiment analysis score from range [-1, 1]
+**most_negative_review** [*Review Object*](https://github.com/williamxie11/glassdoor-interview-scraper/blob/master/Review.py] = tuple of most negative Glassdoor review (using the structure from the Glassdoor Interview Scraper) for the company using TextBlob's built-in sentiment analysis and the sentiment analysis score from range [-1, 1]
 
-**most_positive_review** (*Review Object*)[https://github.com/williamxie11/glassdoor-interview-scraper/blob/master/Review.py] = most positive Glassdoor review
+**most_positive_review** [*Review Object*](https://github.com/williamxie11/glassdoor-interview-scraper/blob/master/Review.py) = most positive Glassdoor review
 
 **top_details_nphrases** *[(String, Int) ...]* = descending list of tuples containing the most frequent noun phrases and their frequency from the details of each interview review
 
