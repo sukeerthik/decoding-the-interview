@@ -9,11 +9,11 @@ angular.module('dtiApp', [
 .config(function ($routeProvider) {
   $routeProvider
     .when('/', {
-      templateUrl: '/partials/home.html',
+      templateUrl: './partials/home.html',
       controller: 'homeCtrl'
     })
     .when('/about', {
-      templateUrl: '/partials/about.html',
+      templateUrl: './partials/about.html',
       controller: 'aboutCtrl'
     })
 });
