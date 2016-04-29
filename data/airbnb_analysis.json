@@ -1,0 +1,243 @@
+[
+    {
+        "most_negative_review": [
+            {
+                "gotOffer": "No Offer",
+                "experience": "Negative Experience",
+                "difficulty": "Easy Interview",
+                "length": "2+ weeks",
+                "role": "Software Engineer",
+                "details": "Really slow and unprofessional . Recruiters don't value candidates time. It will hurt hiring in long term.They are bad in following up. They are slow to respond and provide feedback.",
+                "questions": [
+                    "Not Applicable \u00a0"
+                ],
+                "date": "Jul 1, 2015"
+            },
+            -0.27
+        ],
+        "most_positive_review": [
+            {
+                "gotOffer": "No Offer",
+                "experience": "Positive Experience",
+                "difficulty": "Difficult Interview",
+                "length": "4 weeks",
+                "role": "Software Engineer",
+                "details": "I applied through recruiter and had onsite interview in SF. The interviews are mostly pair coding on a computer plus two rounds culture fit. The questions are quite challenging if you didn't meet them before. I didn't use glassdoor to prepare the interviews and now I realize the questions asked were actually posted here. The food is quite good there and the working environment is awesome.",
+                "questions": [
+                    "Text Justification, Alien Dictionary \u00a0"
+                ],
+                "date": "Feb 8, 2016"
+            },
+            0.51667
+        ],
+        "top_questions_nphrases": [
+            [
+                "dec",
+                4
+            ],
+            [
+                "bit array",
+                3
+            ],
+            [
+                "] ===",
+                3
+            ],
+            [
+                "maximum number",
+                2
+            ],
+            [
+                "ab",
+                2
+            ],
+            [
+                "implement",
+                2
+            ],
+            [
+                "host id",
+                2
+            ],
+            [
+                "day gap",
+                2
+            ],
+            [
+                "previous character",
+                2
+            ],
+            [
+                "culture/personality questions",
+                1
+            ],
+            [
+                "nights user request",
+                1
+            ],
+            [
+                "special character",
+                1
+            ],
+            [
+                "period as\u2026",
+                1
+            ],
+            [
+                "find",
+                1
+            ],
+            [
+                "elegant code",
+                1
+            ],
+            [
+                "tree in-place",
+                1
+            ],
+            [
+                "string-related return",
+                1
+            ],
+            [
+                "input",
+                1
+            ],
+            [
+                "output strings",
+                1
+            ],
+            [
+                "space complexity o",
+                1
+            ],
+            [
+                "return",
+                1
+            ],
+            [
+                "] = > 7// [",
+                1
+            ],
+            [
+                "parse strings",
+                1
+            ],
+            [
+                "palindrome pairs",
+                1
+            ],
+            [
+                "challenging project",
+                1
+            ]
+        ],
+        "pattern_sentiment": 0.10132,
+        "pattern_subjectivity": 0.42986,
+        "pos_sentiment": 0.0,
+        "neg_sentiment": 1.0,
+        "top_details_nphrases": [
+            [
+                "recruiter",
+                4
+            ],
+            [
+                "core values",
+                3
+            ],
+            [
+                "sf",
+                3
+            ],
+            [
+                "data structures",
+                3
+            ],
+            [
+                "n't care",
+                2
+            ],
+            [
+                "few",
+                2
+            ],
+            [
+                "google search",
+                2
+            ],
+            [
+                "real life",
+                2
+            ],
+            [
+                "good practice",
+                2
+            ],
+            [
+                "onsite.the onsite",
+                2
+            ],
+            [
+                "recruiters",
+                2
+            ],
+            [
+                "n't finish",
+                2
+            ],
+            [
+                "online editor",
+                2
+            ],
+            [
+                "cs",
+                2
+            ],
+            [
+                "entire time",
+                2
+            ],
+            [
+                "ruby",
+                2
+            ],
+            [
+                "skype",
+                2
+            ],
+            [
+                "good food",
+                1
+            ],
+            [
+                "good language",
+                1
+            ],
+            [
+                "technical portion",
+                1
+            ],
+            [
+                "pretty awesome",
+                1
+            ],
+            [
+                "sleep",
+                1
+            ],
+            [
+                "short time limit",
+                1
+            ],
+            [
+                "main function",
+                1
+            ],
+            [
+                "complete code",
+                1
+            ]
+        ],
+        "overall_sentiment": "neg"
+    }
+]

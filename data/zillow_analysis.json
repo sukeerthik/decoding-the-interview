@@ -1,0 +1,239 @@
+[
+    {
+        "most_negative_review": [
+            {
+                "gotOffer": "No Offer",
+                "experience": "Neutral Experience",
+                "difficulty": "Easy Interview",
+                "length": "2 weeks",
+                "role": "Software Development Engineer",
+                "details": "I applied for Zillow on its website and received an test including two algorithms problems without time limit. Got phone interview but did not pass it. I solved the the problems and follow-up. Don\u2019t know what\u2019s wrong",
+                "questions": [],
+                "date": "Nov 9, 2014"
+            },
+            -0.5
+        ],
+        "most_positive_review": [
+            {
+                "gotOffer": "No Offer",
+                "experience": "-",
+                "difficulty": "-",
+                "length": "-",
+                "role": "Software Development Engineer",
+                "details": "Three weeks after submitting my resume, I got the email from recruiter. Two coding questions just like many have said. Two phone interview, just normal questions. And Onsite interview. Great office location.",
+                "questions": [],
+                "date": "Dec 2, 2014"
+            },
+            0.48333
+        ],
+        "top_questions_nphrases": [
+            [
+                "trinary tree",
+                2
+            ],
+            [
+                "find",
+                2
+            ],
+            [
+                "nda",
+                2
+            ],
+            [
+                "trinary",
+                2
+            ],
+            [
+                "describe",
+                2
+            ],
+            [
+                "common ancestor",
+                2
+            ],
+            [
+                "tri-nary tree",
+                2
+            ],
+            [
+                "implement",
+                2
+            ],
+            [
+                "reduce",
+                1
+            ],
+            [
+                "basic algorithms",
+                1
+            ],
+            [
+                "calculate total number",
+                1
+            ],
+            [
+                "data team",
+                1
+            ],
+            [
+                "right node values",
+                1
+            ],
+            [
+                "bt data structure",
+                1
+            ],
+            [
+                "ex",
+                1
+            ],
+            [
+                "data structures.sum",
+                1
+            ],
+            [
+                "easy questions",
+                1
+            ],
+            [
+                "ternary",
+                1
+            ],
+            [
+                "seem",
+                1
+            ],
+            [
+                "a,2",
+                1
+            ],
+            [
+                "string",
+                1
+            ],
+            [
+                "basic technical questions",
+                1
+            ],
+            [
+                "child nodes",
+                1
+            ],
+            [
+                "search tree deletion",
+                1
+            ],
+            [
+                "= 23a",
+                1
+            ]
+        ],
+        "pattern_sentiment": 0.13014,
+        "pattern_subjectivity": 0.45823,
+        "pos_sentiment": 0.51,
+        "neg_sentiment": 0.49,
+        "top_details_nphrases": [
+            [
+                "onsite",
+                5
+            ],
+            [
+                "seattle",
+                4
+            ],
+            [
+                "unit tests",
+                3
+            ],
+            [
+                "implement",
+                3
+            ],
+            [
+                "trinary tree",
+                3
+            ],
+            [
+                "previous projects",
+                2
+            ],
+            [
+                "basic technical questions",
+                2
+            ],
+            [
+                "jan",
+                2
+            ],
+            [
+                "online test",
+                2
+            ],
+            [
+                "ternary tree",
+                2
+            ],
+            [
+                "whole process",
+                2
+            ],
+            [
+                "tri-nary tree",
+                2
+            ],
+            [
+                "technical questions",
+                2
+            ],
+            [
+                "technical rounds",
+                2
+            ],
+            [
+                "ps",
+                2
+            ],
+            [
+                "glassdoor",
+                2
+            ],
+            [
+                "string",
+                2
+            ],
+            [
+                "node value",
+                2
+            ],
+            [
+                "general discussion",
+                2
+            ],
+            [
+                "technical depth",
+                1
+            ],
+            [
+                "n't good",
+                1
+            ],
+            [
+                "offline",
+                1
+            ],
+            [
+                "new file",
+                1
+            ],
+            [
+                "range.2.common ancestor",
+                1
+            ],
+            [
+                "free friendly options.i",
+                1
+            ]
+        ],
+        "overall_sentiment": "pos"
+    }
+]
