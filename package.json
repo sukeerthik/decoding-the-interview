@@ -1,8 +1,0 @@
-{
-  "name": "decoding-the-interview",
-  "version": "1.0",
-  "dependencies": {
-    "express": "latest",
-    "serve-favicon": "latest"
-  }
-}
