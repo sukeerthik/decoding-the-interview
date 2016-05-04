@@ -112,7 +112,7 @@ def getCompanyReviews(name=None):
 		return None
 
 	# open file for reading
-	with open(DEFAULT_REVIEW_FOLDER + name.lower() + '.json') as f:
+	with open(DEFAULT_REVIEW_FOLDER + name.lower().replace(' ', '').strip() + '.json') as f:
 
 		reviews = json.load(f)
 		return reviews
@@ -120,7 +120,6 @@ def getCompanyReviews(name=None):
 
 
 """MongoDB operations """
-
 def buildCompanyCollection(company_list_filename=DEFAULT_COMPANY_LIST_FILENAME):
 	"""
 	Builds the collection of companies in MongoDB and returns their ids in a list.
@@ -144,6 +143,46 @@ def buildCompanyCollection(company_list_filename=DEFAULT_COMPANY_LIST_FILENAME):
 
 	# return their object IDs assigned by Mongo
 	return result.inserted_ids
+
+def buildReviewCollection(company_ids=None, company_list_filename=DEFAULT_COMPANY_LIST_FILENAME):
+	"""
+	Builds the collection of reviews in MongoDB and assigns the company ID to each review for its respective company.
+	Assumes company list and company ids are 1:1 order
+
+	Args:
+		company_ids (list): List of company IDs (ObjectId)
+		company_list (list): List of company names
+	"""
+	# get company list
+	company_list = getCompanyList(company_list_filename)
+	
+	# check empty or for any mismatch in IDs and company list
+	if company_ids is None or company_list is None or len(company_ids) != len(company_list):
+		return None
+
+	# get collection
+	reviews = DEFAULT_MONGO_DATABASE.reviews
+
+	# list of lists of review IDs
+	reviews_ids = []
+
+	# insert formatted reviews
+	for i in range(len(company_list)):
+		# curr company
+		company = company_list[i]
+		
+		# get reviews and add company ID
+		orig_reviews = getCompanyReviews(company)
+		for r in orig_reviews:
+			r['companyId'] = company_ids[i]
+
+		# insert into Mongo and get IDs of inserted reviews
+		reviews_ids.append(reviews.insert_many(orig_reviews).inserted_ids)
+
+	
+	# return list of lists of review IDs
+	return reviews_ids
+
 
 
 def cleanCompany(company=None):
@@ -184,6 +223,5 @@ def cleanCompany(company=None):
 
 # run from command line
 if __name__ == '__main__':
-	
-	# get args (company name) and make single request
-	buildCompanyCollection()
+	print 'hi'
+
