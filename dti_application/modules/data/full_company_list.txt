@@ -1,9 +1,9 @@
 Adobe
 Airbnb
-Amazon
+Amazon.com
 Apple
 Bank of America
-Bloomberg
+Bloomberg L.P.
 Cisco Systems
 Dell
 Dropbox
@@ -12,13 +12,13 @@ Epic Systems
 Facebook
 Goldman Sachs
 Google
-HP
+Hewlett-Packard
 IBM
-Intel
-JP Morgan Chase
+Intel Corporation
+J.P. Morgan
 Microsoft
 Oracle
-Palantir
+Palantir Technologies
 Qualcomm
 Salesforce
 SAP
