@@ -1,0 +1,32 @@
+Adobe
+Airbnb
+Amazon
+Apple
+Bank of America
+Bloomberg
+Cisco Systems
+Dell
+Dropbox
+Ebay
+Epic Systems
+Facebook
+Goldman Sachs
+Google
+HP
+IBM
+Intel
+JP Morgan Chase
+Microsoft
+Oracle
+Palantir
+Qualcomm
+Salesforce
+SAP
+Square
+Symantec
+TripAdvisor
+Twitter
+Uber
+VMWare
+Yahoo
+Zillow

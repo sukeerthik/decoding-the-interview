@@ -3,6 +3,8 @@ import Analysis
 from glob import glob
 from textblob import TextBlob
 from textblob.classifiers import NaiveBayesClassifier
+from stop_words import get_stop_words
+
 
 ################################################
 # Options
@@ -11,7 +13,7 @@ from textblob.classifiers import NaiveBayesClassifier
 NUM_TRAINING_FILES = 100 # Cornell movie review set goes up to 1000
 TRAINING_DATA_PATH = "./training_data/"
 COMPANY_DATA_PATH = "./company_data/"
-COMPANY_LIST_PATH = "./company_list.txt"
+COMPANY_LIST_PATH = "./full_company_list_orig.txt" # analyze all companies
 
 ################################################
 # Global Data
@@ -20,7 +22,7 @@ COMPANY_LIST_PATH = "./company_list.txt"
 COMPANY_LIST = []
 COMPANY_LIST_KEYWORDS = []
 
-# Keywords to remove from noun phrase analysis
+# Keywords to remove from noun phrase analysis (added common English stop words)
 REMOVE_KEYWORDS = ["phone", "interview", "hr", "got", "applied", "overall", "engineer", "met", "was", "went"]
 
 ################################################
@@ -73,7 +75,7 @@ def export_analysis_data_to_json(data, companyName):
 # Training the Naive Bayes Classifier
 ################################################
 
-def aggregate_sentiment_data(data, tag):
+def aggregate_sentiment_data(data, tag, num_training_files=NUM_TRAINING_FILES):
   for i in range (NUM_TRAINING_FILES):
     num = format(i, "03") # fills 0s in front until three digits
     text = get_text_from_file("cv" + num, tag)
@@ -89,11 +91,11 @@ def train_nbayes():
   #endwith
 #enddef
 
-def train_classifier():
+def train_classifier(num_training_files=NUM_TRAINING_FILES):
   print "# Aggregating positive sentiment text data ..."
-  data = aggregate_sentiment_data([], "pos")
+  data = aggregate_sentiment_data([], "pos", num_training_files)
   print "# Aggregating negative sentiment text data ..."
-  data = aggregate_sentiment_data(data, "neg")
+  data = aggregate_sentiment_data(data, "neg", num_training_files)
   print "# Exporting training data as \"training_data.json\" ..."
   export_training_data_to_json(data)
   print "# Training Naive Bayes Classifier ..."
@@ -128,6 +130,7 @@ def get_noun_phrases(blob):
 #enddef
 
 def get_top_phrases(blob, companyName):
+  REMOVE_KEYWORDS.extend(get_stop_words('en'))
   np_freq = get_noun_phrases(blob)
   np_freq_scrubbed = np_freq[:]
   removeThese = [companyName.lower()]
@@ -139,7 +142,7 @@ def get_top_phrases(blob, companyName):
       np_freq_scrubbed.remove(n)
     #endif
   #endfor
-  return np_freq_scrubbed[:25] # top 25
+  return np_freq_scrubbed[:30] # top nouns
 #enddef
 
 def get_top_reviews(data):
@@ -193,20 +196,19 @@ def analyze_top_reviews(data):
   return top_reviews[0], top_reviews[1]
 #enddef
 
-def analyze_data(classifier):
-  for i in range(len(COMPANY_LIST)):
-    analyzed_data = []
-    company = COMPANY_LIST[i]
-    company_kw = COMPANY_LIST_KEYWORDS[i]
+def analyze_data(classifier, company_list=COMPANY_LIST):
+  # analyze reviews of each company
+  for i in range(len(company_list)):
+    company = company_list[i]
+    company_kw = company_list[i].lower().strip().replace(' ', '')
     print "# Analyzing " + company + " ..."
     data = get_data_from_json(COMPANY_DATA_PATH + company_kw + ".json")
     pattern_sentiment, pattern_subjectivity, top_details_nphrases = analyze_details(data, company)
     top_questions_nphrases = analyze_questions(data, company)
     overall_sentiment, pos_sentiment, neg_sentiment = analyze_sentiment(data, classifier)
     most_positive_review, most_negative_review = analyze_top_reviews(data)
-    a = Analysis.Analysis(pattern_sentiment, pattern_subjectivity, overall_sentiment, pos_sentiment, neg_sentiment, top_details_nphrases, top_questions_nphrases, most_positive_review, most_negative_review)
-    analyzed_data.append(a)
-    export_analysis_data_to_json(analyzed_data, company_kw)
+    analysis = Analysis.Analysis(pattern_sentiment, pattern_subjectivity, overall_sentiment, pos_sentiment, neg_sentiment, top_details_nphrases, top_questions_nphrases, most_positive_review, most_negative_review)
+    export_analysis_data_to_json(analysis, company_kw)
   #endfor
 #enddef
 
