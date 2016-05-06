@@ -5,6 +5,3 @@ app = Flask(__name__)
 def hello():
 	return 'Yo this hopefully works tho.'
 
-if __name__ == '__main__':
-	app.run()
-
