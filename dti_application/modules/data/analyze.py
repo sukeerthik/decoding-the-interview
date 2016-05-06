@@ -76,7 +76,7 @@ def export_analysis_data_to_json(data, companyName):
 ################################################
 
 def aggregate_sentiment_data(data, tag, num_training_files=NUM_TRAINING_FILES):
-  for i in range (NUM_TRAINING_FILES):
+  for i in range (num_training_files):
     num = format(i, "03") # fills 0s in front until three digits
     text = get_text_from_file("cv" + num, tag)
     data.append({"text" : text, "label": tag})

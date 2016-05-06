@@ -7,10 +7,9 @@ Bloomberg L.P.
 Cisco Systems
 Dell
 Dropbox
-Ebay
-Epic Systems
+eBay
+EPIC Systems (Egypt)
 Facebook
-Goldman Sachs
 Google
 Hewlett-Packard
 IBM
@@ -27,6 +26,6 @@ Symantec
 TripAdvisor
 Twitter
 Uber
-VMWare
+VMware
 Yahoo
 Zillow

@@ -35,7 +35,7 @@ def getCompanyAnalysis(file_name=None):
 		analysis = json.load(f)
 		return analysis
 
-def buildAnalysisCollection(company_list_filename=DEFAULT_COMPANY_LIST_FILENAME, companies_list=None):
+def buildAnalysisCollection(company_list_filename=DEFAULT_COMPANY_LIST_FILENAME, companies_list=None, db_companies_list=None):
 	"""
 	Builds the collection of analysis objects in MongoDB and returns their ids in a list.
 
@@ -49,17 +49,16 @@ def buildAnalysisCollection(company_list_filename=DEFAULT_COMPANY_LIST_FILENAME,
 	companies = DEFAULT_MONGO_DATABASE.companies
 
 	# if a on-the-fly list is not provided, load from file
-	if companies_list is None:
+	if companies_list is None and db_companies_list is None:
 		# get list of companies
-		company_list = getCompanyList(company_list_filename)
-	else:
-		company_list = companies_list
-
+		companies_list = getCompanyList(company_list_filename)
+		db_companies_list = getCompanyList(DEFAULT_COMPANY_LIST_GLASSDOOR_FORMAT_FILENAME)
+	
 	# get analysis of each company in list
-	analysis_objects = [getCompanyAnalysis(company) for company in company_list]
+	analysis_objects = [getCompanyAnalysis(company) for company in companies_list]
 
 	# get object ids of each analyzed company from Mongo
-	object_ids = [companies.find_one({'name': name})['_id'] for name in company_list]
+	object_ids = [companies.find_one({'name': name})['_id'] for name in db_companies_list]
 	
 	# append object id of each company to respective analysis object
 	for i in range(len(analysis_objects)):
