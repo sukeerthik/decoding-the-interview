@@ -1,7 +1,8 @@
 {
   "name": "decoding-the-interview",
-  "version": "1.0",
+  "version": "1.0.0",
   "dependencies": {
+    "angular-chart.js": "^1.0.0-alpha6",
     "express": "latest",
     "serve-favicon": "latest"
   }

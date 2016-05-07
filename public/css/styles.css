@@ -1,11 +1,6 @@
 html, body {
   padding: 0;
   margin: 0;
-  font-family: 'Hind', sans-serif;
-}
-
-header {
-  font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -23,7 +18,56 @@ h2 {
   font-weight: 300;
 }
 
+/* Home Page */
 .main-heading {
   margin-top: 10%;
   text-align: center;
+}
+
+.nav-logo {
+  width: 50px;
+}
+
+/* Overview Page */
+
+.overview-header {
+  margin-top: 3%;
+  border-bottom: 1px solid #78909c;
+}
+
+.title-logo {
+  margin: 15px auto;
+  width: 150px;
+}
+
+.title-company {
+  margin: 5px auto;
+}
+
+.statistics {
+  margin: 10% 10%;
+  background-color: #fcfcfc;
+}
+
+/* Overwriting Materialize.css */
+
+.card:hover {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card .card-title {
+  font-size: 22px;
+}
+
+.card.small .card-content {
+  max-height: 80%;
+}
+
+.card.small {
+  height: 150px;
+}
+
+.logo > img {
+  width: 30px;
+  margin: 0 10px;
 }
