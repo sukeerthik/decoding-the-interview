@@ -13,19 +13,33 @@
       <div class="title-logo">
         <img class="title-logo" src="./public/img/kamal.png"/>
       </div>
-  		<h3 class="header center title-company light">Company Name</h3>
+  		<h3 class="company-title header center light">Company Name</h3>
   		<div class="row center">
   			<h6 class="header col s12 light">Industry Tag</h6>
   		</div>
-  		<br><br>
+  		<br>
   	</div>
   </header>
 
+  <section class="company-about">
+  	<div class="row">
+  		<div class="col s8 m8 l8 offset-s2 offset-m2 offset-l2">
+  			<div class="card medium">
+  				<div class="card-content">
+  					<span class="card-title grey-text text-darken-4">
+  						<span>Company Overview</span>
+  					</span>
+  				</div>
+  			</div>
+  		</div>
+    </div>
+  </section>
+
   <section class="statistics">
+    <h5 class="chart-title">Positivity of Interview Experiences Over Time</h5>
     <div ng-controller="LineCtrl as lCtrl" class="sentiment-graph">
       <canvas id="line" class="chart chart-line" chart-data="data"
-  chart-labels="labels" chart-legend="true" chart-series="series"
-  chart-click="onClick" ></canvas>
+  chart-labels="labels" chart-legend="true" chart-series="series"></canvas>
     </div>
 
     <div ng-controller="PieCtrl as pCtrl" class="pie-graph">

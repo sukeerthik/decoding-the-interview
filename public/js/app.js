@@ -6,8 +6,8 @@ angular.module('dtiApp', [
   'dtiApp.controllers',
   'dtiApp.services',
   'dtiApp.directives'
-])
-.config(function ($routeProvider, $locationProvider) {
+]).
+config(function ($routeProvider, $locationProvider) {
   $routeProvider.
     when('/', {
       templateUrl: './public/partials/home.html',
@@ -24,4 +24,14 @@ angular.module('dtiApp', [
     otherwise({redirectTo: '/'});
 
   // $locationProvider.html5Mode(true);
-});
+}).
+config(['ChartJsProvider', function (ChartJsProvider) {
+  // Configure all line charts
+  ChartJsProvider.setOptions({
+    datasetFill: false
+  });
+  ChartJsProvider.setOptions('doughnut', {
+    chartColors: ['#ef5350', '#d4e157', '#66bb6a']
+  });
+  // $locationProvider.html5Mode(true);
+}]);

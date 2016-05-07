@@ -40,13 +40,22 @@ h2 {
   width: 150px;
 }
 
-.title-company {
+.company-title {
   margin: 5px auto;
 }
 
+.company-about {
+  margin: 10% auto;
+}
+
 .statistics {
-  margin: 10% 10%;
+  margin: 10% 15%;
   background-color: #fcfcfc;
+}
+
+.chart-title {
+  margin: 30px auto;
+  text-align: center;
 }
 
 /* Overwriting Materialize.css */
