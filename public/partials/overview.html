@@ -1,0 +1,36 @@
+<!--
+<nav class="top-nav">
+  <div class="container">
+    <div class="nav-wrapper">
+      <a class="page-title">Company Overview<span class="companyName"></span></a>
+  </div>
+</nav>
+-->
+<div ng-controller="OverviewCtrl as ovCtrl">
+  <header class="section no-pad-bot" id="index-banner">
+  	<div class="overview-header container">
+  		<br><br>
+      <div class="title-logo">
+        <img class="title-logo" src="./public/img/kamal.png"/>
+      </div>
+  		<h3 class="header center title-company light">Company Name</h3>
+  		<div class="row center">
+  			<h6 class="header col s12 light">Industry Tag</h6>
+  		</div>
+  		<br><br>
+  	</div>
+  </header>
+
+  <section class="statistics">
+    <div ng-controller="LineCtrl as lCtrl" class="sentiment-graph">
+      <canvas id="line" class="chart chart-line" chart-data="data"
+  chart-labels="labels" chart-legend="true" chart-series="series"
+  chart-click="onClick" ></canvas>
+    </div>
+
+    <div ng-controller="PieCtrl as pCtrl" class="pie-graph">
+      <canvas id="doughnut" class="chart chart-doughnut"
+    chart-data="data" chart-labels="labels"></canvas>
+    </div>
+  </section>
+</div>
