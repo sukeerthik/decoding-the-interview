@@ -3,9 +3,9 @@
 angular.module('dtiApp', [
   'ngRoute',
   'chart.js',
-  'dtiApp.controllers',
   'dtiApp.services',
-  'dtiApp.directives'
+  'dtiApp.directives',
+  'dtiApp.controllers'
 ]).
 config(function ($routeProvider, $locationProvider) {
   $routeProvider.
@@ -17,7 +17,7 @@ config(function ($routeProvider, $locationProvider) {
       templateUrl: './public/partials/about.html',
       controller: 'AboutCtrl'
     }).
-    when('/overview', {
+    when('/overview/:id', {
       templateUrl: './public/partials/overview.html',
       controller: 'OverviewCtrl'
     }).

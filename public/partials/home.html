@@ -22,325 +22,36 @@
 	</div>
 </nav>
 -->
+<div>
+	<header class="section no-pad-bot" id="index-banner">
+		<div class="container">
+			<br><br>
+			<h1 class="header center orange-text">Decoding The Interview</h1>
+			<div class="row center">
+				<h5 class="header col s12 light">The Interview Process Uncovered</h5>
+			</div>
+			<br><br>
+		</div>
+	</header>
 
-<header class="section no-pad-bot" id="index-banner">
-	<div class="container">
-		<br><br>
-		<h1 class="header center orange-text">Decoding The Interview</h1>
-		<div class="row center">
-			<h5 class="header col s12 light">fuk sk00l</h5>
-		</div>
-		<br><br>
-	</div>
-</header>
-
-<section class="company-cards">
-	<div class="row">
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
+	<section class="company-cards">
+		<div class="row">
+			<div ng-repeat="c in companies" class="col s12 m6 l4">
+				<div class="card small">
+					<div class="card-content">
+						<span class="card-title grey-text text-darken-4">
+							<i class="logo">
+								<img class="logo-img" ng-src="{{c.squareLogo}}" />
+							</i>
+							<span class="company-name">{{c.name}}</span>
+						</span>
+						<div class="card-action">
+							<a href="#/overview/{{c._id.$oid}}">Overview</a>
+							<a ng-href="https://{{c.website}}">Website</a>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col s12 m6 l4">
-			<div class="card small">
-				<div class="card-content">
-					<span class="card-title grey-text text-darken-4">
-						<i class="logo">
-							<img src="./public/img/kamal.png"/>
-						</i>
-						<span>Company Name</span>
-					</span>
-					<div class="card-action">
-						<a href="#">Overview</a>
-						<a href="#">Glassdoor</a>
-						<a href="#">Website</a>
-					</div>
-				</div>
-			</div>
-		</div>
-  </div>
-</section>
+	  </div>
+	</section>
+</div>

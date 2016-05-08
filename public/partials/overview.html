@@ -6,45 +6,156 @@
   </div>
 </nav>
 -->
-<div ng-controller="OverviewCtrl as ovCtrl">
-  <header class="section no-pad-bot" id="index-banner">
-  	<div class="overview-header container">
-  		<br><br>
-      <div class="title-logo">
-        <img class="title-logo" src="./public/img/kamal.png"/>
-      </div>
-  		<h3 class="company-title header center light">Company Name</h3>
-  		<div class="row center">
-  			<h6 class="header col s12 light">Industry Tag</h6>
-  		</div>
-  		<br>
-  	</div>
-  </header>
 
-  <section class="company-about">
-  	<div class="row">
-  		<div class="col s8 m8 l8 offset-s2 offset-m2 offset-l2">
-  			<div class="card medium">
+<header class="overview-header section no-pad-bot" id="index-banner">
+	<div class="container">
+		<br><br>
+    <div class="title-logo">
+      <img class="title-logo" ng-src="{{company.squareLogo}}"/>
+    </div>
+		<div class="company-title header center light" ng-bind="company.name"></div>
+		<div class="row center">
+  			<h6 class="header col s12 line light"><span ng-bind="company.numberOfRatings"></span> Ratings</h6>
+		</div>
+		<br>
+	</div>
+</header>
+
+<section class="company-about">
+	<div class="row">
+		<div class="col s10 m5 l4 offset-s1 offset-m1 offset-l1">
+      <div class="row">
+  			<div class="card large">
   				<div class="card-content">
-  					<span class="card-title grey-text text-darken-4">
-  						<span>Company Overview</span>
-  					</span>
+  					<div class="card-title grey-text text-darken-4">
+  						<h5 class="overview-text light">Company Overview</h5>
+              <div class="line light"><h6 class="line">Industry: <span class="light" ng-bind="company.industry"></span></h6></div>
+              <div class="line light"><h6 class="line">Sector: <span class="light" ng-bind="company.sectorName"></span></h6></div>
+              <div class="line light"><h6 class="line">CEO: <span class="light" ng-bind="company.ceo.name"></span></h6></div>
+              <div class="line light"><h6 class="line">CEO Approval: <div class="meter meter-ceo"><span ng-style="ratingCEO(company.ceo.pctApprove)"></span></div></h6></div>
+  					</div>
   				</div>
   			</div>
-  		</div>
-    </div>
-  </section>
-
-  <section class="statistics">
-    <h5 class="chart-title">Positivity of Interview Experiences Over Time</h5>
-    <div ng-controller="LineCtrl as lCtrl" class="sentiment-graph">
-      <canvas id="line" class="chart chart-line" chart-data="data"
-  chart-labels="labels" chart-legend="true" chart-series="series"></canvas>
-    </div>
-
-    <div ng-controller="PieCtrl as pCtrl" class="pie-graph">
-      <canvas id="doughnut" class="chart chart-doughnut"
-    chart-data="data" chart-labels="labels"></canvas>
-    </div>
-  </section>
-</div>
+      </div>
+      <div class="row">
+        <div class="card large">
+          <div class="card-content">
+            <div class="card-title grey-text text-darken-4">
+              <h5 class="overview-text light">Ratings</h5>
+              <div class="line light"><h6 class="line">Overall Rating: <div class="meter"><span ng-style="ratingStyle(company.overallRating)"></span></div></h6></div>
+              <div class="line light"><h6 class="line">Company Culture: <div class="meter"><span ng-style="ratingStyle(company.cultureAndValuesRating)"></span></div></h6></div>
+              <div class="line light"><h6 class="line">Work-Life Balance: <div class="meter"><span ng-style="ratingStyle(company.workLifeBalanceRating)"></span></div></h6></div>
+              <div class="line light"><h6 class="line">Compensation and Benefits: <div class="meter"><span ng-style="ratingStyle(company.compensationAndBenefitsRating)"></span></div></h6></div>
+              <div class="line light"><h6 class="line">Career Opportunities: <div class="meter"><span ng-style="ratingStyle(company.careerOpportunitiesRating)"></span></div></h6></div>
+              <div class="line light"><h6 class="line">Senior Leadership: <div class="meter"><span ng-style="ratingStyle(company.seniorLeadershipRating)"></span></div></h6></div>
+              <div class="line light"><h6 class="line">Would Recommend: <div class="meter"><span ng-style="ratingStyleRec(company.recommendToFriendRating)"></span></div></h6></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="card large">
+          <div class="card-content">
+            <div class="card-title grey-text text-darken-4">
+              <h5 class="overview-text light">Interview Sentiment</h5>
+              <h6 ng-bind="ratingSentiment(analysis.pattern_sentiment)"></h6>
+              <div class="meter meter-ceo"><span ng-style="ratingReview(analysis.pattern_sentiment)"></span></div>
+              <h6 ng-bind="ratingSubjectivity(analysis.pattern_subjectivity)"></h6>
+              <div class="meter meter-ceo"><span ng-style="ratingReview(analysis.pattern_subjectivity)"></span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="card large">
+          <div class="card-content">
+            <div class="card-title grey-text text-darken-4">
+              <h5 class="overview-text light">Most Positive Review</h5>
+              <h6 class="review" ng-bind="analysis.most_positive_review[0].details"></h6>
+              <div class="meter meter-ceo"><span ng-style="ratingReview(analysis.most_positive_review[1])"></span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="card large">
+          <div class="card-content">
+            <div class="card-title grey-text text-darken-4">
+              <h5 class="overview-text light">Most Negative Review</h5>
+              <h6 class="review" ng-bind="analysis.most_negative_review[0].details"></h6>
+              <div class="meter meter-ceo"><span ng-style="ratingReview(analysis.most_negative_review[1])"></span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+		</div>
+    <div class="col s10 m5 l6 offset-s1">
+      <section class="statistics">
+        <div class="row">
+          <div class="col s12">
+      			<div class="card large">
+      				<div class="card-content">
+                <h5 class="chart-title light">Positivity of Interview Experiences Over Time</h5>
+                <div ng-controller="LineCtrl as lCtrl" class="sentiment-graph">
+                  <canvas id="line" class="chart chart-line" chart-data="data"
+              chart-labels="labels" chart-legend="true" chart-series="series"></canvas>
+                </div>
+      				</div>
+      			</div>
+      		</div>
+        </div>
+      	<div class="row">
+          <div class="col s12 m12 l6">
+      			<div class="card large">
+      				<div class="card-content">
+                <h5 class="chart-title light">Interview Statistics</h5>
+                <div class="line light"><h6 class="line">Role: <span class="light">Software Engineer</span></h6></div>
+                <div class="line light"><h6 class="line">Average Length: <span class="light">2.4 weeks</span></h6></div>
+                <div class="line light"><h6 class="line">Offer Rate: <span class="light">21.7%</span></h6></div>
+                <div class="line light"><h6 class="line">Difficulty: <span class="light">Above Average</span></h6></div>
+                <div class="line light"><h6 class="line">Experience: <span class="light">Mostly Positive</span></h6></div>
+      				</div>
+      			</div>
+      		</div>
+          <div class="col s12 m12 l6">
+      			<div class="card large">
+      				<div class="card-content">
+                <h5 class="chart-title light">Interview Opinion</h5>
+                <div ng-controller="PieCtrl as pCtrl" class="pie-graph">
+                  <canvas id="doughnut" class="chart chart-doughnut"
+                chart-data="data" chart-labels="labels"></canvas>
+                </div>
+      				</div>
+      			</div>
+      		</div>
+        </div>
+        <div class="row">
+          <div class="col s12 m12 l6">
+            <div class="card large">
+              <div class="card-content">
+                <div class="card-title grey-text text-darken-4">
+                  <h5 class="overview-text light">Top Experience Keywords</h5>
+                  <div class="review list">
+                    <h6 ng-repeat="dw in analysis.top_details_nphrases">{{dw[0]}}</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col s12 m12 l6">
+            <div class="card large">
+              <div class="card-content">
+                <div class="card-title grey-text text-darken-4">
+                  <h5 class="overview-text light">Top Questions Keywords</h5>
+                  <div class="review list">
+                    <h6 ng-repeat="qw in analysis.top_questions_nphrases">{{qw[0]}}</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+		</div>
+  </div>
+</section>

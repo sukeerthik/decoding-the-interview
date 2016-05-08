@@ -24,14 +24,22 @@ h2 {
   text-align: center;
 }
 
-.nav-logo {
+.logo {
   width: 50px;
+}
+
+.logo > img {
+  width: 50px;
+}
+
+.company-name {
+  padding-left: 25px;
+  margin-top: -10px;
 }
 
 /* Overview Page */
 
 .overview-header {
-  margin-top: 3%;
   border-bottom: 1px solid #78909c;
 }
 
@@ -41,26 +49,54 @@ h2 {
 }
 
 .company-title {
-  margin: 5px auto;
+  font-size: 48px;
+  margin: 3px auto;
 }
 
 .company-about {
-  margin: 10% auto;
-}
-
-.statistics {
-  margin: 10% 15%;
+  padding: 5% 0;
   background-color: #fcfcfc;
 }
 
+.overview-text {
+  margin-bottom: 30px;
+}
+
 .chart-title {
-  margin: 30px auto;
+  margin-bottom: 20px;
   text-align: center;
+}
+
+.line {
+  font-size: 18px;
+}
+
+.meter {
+  margin: 10px auto;
+	height: 10px;
+	position: relative;
+	background: #e0e0e0;
+}
+
+.meter > span {
+  display: block;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.meter-ceo {
+  background: #f44336;
+}
+
+.review {
+  font-style: italic;
+  margin-bottom: 20px;
 }
 
 /* Overwriting Materialize.css */
 
-.card:hover {
+.card.small:hover {
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
@@ -76,7 +112,10 @@ h2 {
   height: 150px;
 }
 
-.logo > img {
-  width: 30px;
-  margin: 0 10px;
+.card.medium {
+  height: 250px;
+}
+
+.card.large {
+  height: auto;
 }
