@@ -128,6 +128,12 @@ def get_analysis_info(analysis_id):
 	# Analysis not found
 	return 'Analysis not found. Check the ID.'
 
+@app.after_request
+def after_request(response):
+  # allow for CORS for localhost
+  response.headers.add('Access-Control-Allow-Origin', '*')
+  return response
+
 
 if __name__ == '__main__':
 	app.run(debug=True)
